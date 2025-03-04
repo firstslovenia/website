@@ -7,7 +7,7 @@ export default function Sponsors(): ReactNode {
     return (
         <Layout
             title={siteConfig.title}
-            description="Description will go into a meta tag in <head />">
+            description="FIRST Slovenia supporters">
             <main>
                 <div className="container" style={{paddingTop: "20px"}}>
                     <h1>Sponsors</h1>
