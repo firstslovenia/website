@@ -43,6 +43,10 @@ export default function Contact(): ReactNode {
                             <h2>TikTok</h2>
                             <a href="https://www.tiktok.com/@first.slovenia"><img src="img/forbidenChineselogo.png" style={{ height: "20vw", maxHeight: "200px" }} /></a>
                         </div>
+                        <div style={{ justifyContent: "center" }}>
+                            <h2>Discord</h2>
+                            <a href="https://discord.gg/MRuywyFjTQ"><img src="img/DSlogo.png" style={{ height: "20vw", maxHeight: "200px" }} /></a>
+                        </div>
                     </div>
                 </div>
             </main>
