@@ -12,7 +12,7 @@ export default function Contact(): ReactNode {
                 <div className="container" style={{paddingTop: "20px"}}>
                     <h1>Contact us</h1>
                     <p style={{fontSize: "20px"}}>
-                        <b>FIRST Slovenia</b><br/>
+                        <b><i>FIRST</i> Slovenia</b><br/>
                         Zavod 404<br/>
                         Mencingerjeva ulica 7, 1000 Ljubljana
                     </p>

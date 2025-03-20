@@ -33,7 +33,7 @@ export default function Home(): ReactNode {
                         <div className="row">
                             <h1>Who are we?</h1>
                             <p>
-                                FIRST Slovenia is a group of students that represents the country of Slovenia in
+                                <i>FIRST</i> Slovenia is a group of students that represents the country of Slovenia in
                                 international competitions, loves finding interesting challenges, making robots and
                                 using them to solve these same challenges.
                             </p>
@@ -41,7 +41,7 @@ export default function Home(): ReactNode {
                         <div className="row">
                             <h1>What is <i>FIRST</i>?</h1>
                             <p>
-                                FIRST is the organisation behind competitions, where hundreds of thousands of students
+                                <i>FIRST</i> is the organisation behind competitions, where hundreds of thousands of students
                                 all around the world build on their passion in science, technology, engineering and
                                 mathematics (STEM). The competitions bring together leading STEM experts of the future
                                 and encourage the participants to help solve any and every global problem. With this the
@@ -51,14 +51,14 @@ export default function Home(): ReactNode {
                         <div className="row">
                             <h1>What do we do?</h1>
                             <p>
-                                <h2>FIRST Global Challenge</h2>
+                                <h2><i>FIRST</i> Global Challenge</h2>
                                 Also known by its acronym FGC, this competition involves a single team from (almost)
                                 every country in the world. The challenges are focused on coming up with solutions to a
                                 specific global problem of today and the future. You can read more about this
                                 competition our FGC website.
                             </p>
                             <p>
-                                <h2>FIRST Tech Challenge</h2>
+                                <h2><i>FIRST</i> Tech Challenge</h2>
                                 Also known under the acronym FTC, this competition’s challenges are focused on more
                                 difficult problems, requiring a bit more experience than FGC. You can read more about
                                 this competition here.
