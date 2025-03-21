@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # *FIRST* Slovenia Projects
-Over the years our teams been have working on many projects. Here are the ones they've made public so far:
+Over the years our teams have been working on many projects. Here are the ones they've made public so far:
 
 <div align="center">
 
