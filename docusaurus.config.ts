@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-    title: 'FIRST Tech Slovenia',
+    title: '𝐹𝐼𝑅𝑆𝑇 Tech Slovenia',
     tagline: 'To inspire and solve challenges through robotics',
     favicon: 'img/favicon.ico',
 
@@ -83,7 +83,7 @@ const config: Config = {
         // Replace with your project's social card
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
-            title: 'FIRST Tech Slovenia',
+            title: '𝐹𝐼𝑅𝑆𝑇 Tech Slovenia',
             logo: {
                 alt: 'FIRST Slovenia Logo',
                 src: 'img/logo.svg',
@@ -120,7 +120,7 @@ const config: Config = {
                 },
                 {
                     href: 'https://firstglobal.si',
-                    label: 'FIRST Global Slovenia',
+                    label: '𝐹𝐼𝑅𝑆𝑇 Global Slovenia',
                     position: 'right',
                 },
             ],
@@ -146,7 +146,7 @@ const config: Config = {
                             target: "_blank"
                         },
                         {
-                            label: 'FIRST Global Slovenia',
+                            label: '𝐹𝐼𝑅𝑆𝑇 Global Slovenia',
                             href: 'https://firstglobal.si/',
                             target: "_blank",
                         },
@@ -187,7 +187,7 @@ const config: Config = {
                     ],
                 },
             ],
-            copyright: `Copyright © 2024-${new Date().getFullYear()} FIRST Slovenia. All rights reserved.`,
+            copyright: `Copyright © 2024-${new Date().getFullYear()} 𝐹𝐼𝑅𝑆𝑇 Slovenia. All rights reserved.`,
         },
         prism: {
             theme: prismThemes.github,

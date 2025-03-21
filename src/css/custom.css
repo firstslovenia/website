@@ -8,6 +8,31 @@
     --ifm-color-primary-lightest: #24b0ff;
     --ifm-code-font-size: 95%;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --ifm-font-family-base: Tomorrow;
+}
+
+@font-face {
+    font-family: Tomorrow;
+    font-weight: 400;
+    src: url("/Tomorrow-Regular.otf");
+}
+
+@font-face {
+    font-family: Tomorrow;
+    font-weight: 600;
+    src: url("/Tomorrow-Medium.otf");
+}
+
+@font-face {
+    font-family: Tomorrow;
+    font-weight: 700;
+    src: url("/Tomorrow-SemiBold.otf");
+}
+
+@font-face {
+    font-family: Tomorrow;
+    font-weight: 800;
+    src: url("/Tomorrow-Bold.otf");
 }
 
 [data-theme='dark'] {
