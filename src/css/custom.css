@@ -8,7 +8,7 @@
     --ifm-color-primary-lightest: #24b0ff;
     --ifm-code-font-size: 95%;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-    --ifm-font-family-base: Tomorrow;
+    /* --ifm-font-family-base: Tomorrow; */
 }
 
 @font-face {
