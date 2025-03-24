@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://firsttech.si/blog</id>
     <title>𝐹𝐼𝑅𝑆𝑇 Tech Slovenia Blog</title>
-    <updated>2023-02-15T00:00:00.000Z</updated>
+    <updated>2025-02-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://firsttech.si/blog"/>
     <subtitle>𝐹𝐼𝑅𝑆𝑇 Tech Slovenia Blog</subtitle>
     <icon>https://firsttech.si/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Na FLL]]></title>
+        <id>https://firsttech.si/blog/Na FLL</id>
+        <link href="https://firsttech.si/blog/Na FLL"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Video]]></summary>
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/fZST7HWaimg?si=gAOAVI2pjx4Bsto0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>Video</p>]]></content>
+        <author>
+            <name>Jaka Kovač</name>
+        </author>
+        <category label="FTC 2024" term="FTC 2024"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Konec začetnega poskusa]]></title>
         <id>https://firsttech.si/blog/Konec začetnega poskusa</id>

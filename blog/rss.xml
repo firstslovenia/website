@@ -4,10 +4,20 @@
         <title>𝐹𝐼𝑅𝑆𝑇 Tech Slovenia Blog</title>
         <link>https://firsttech.si/blog</link>
         <description>𝐹𝐼𝑅𝑆𝑇 Tech Slovenia Blog</description>
-        <lastBuildDate>Wed, 15 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Na FLL]]></title>
+            <link>https://firsttech.si/blog/Na FLL</link>
+            <guid>https://firsttech.si/blog/Na FLL</guid>
+            <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Video]]></description>
+            <content:encoded><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/fZST7HWaimg?si=gAOAVI2pjx4Bsto0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>Video</p>]]></content:encoded>
+            <category>FTC 2024</category>
+        </item>
         <item>
             <title><![CDATA[Konec začetnega poskusa]]></title>
             <link>https://firsttech.si/blog/Konec začetnega poskusa</link>
