@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkftcwebsite=self.webpackChunkftcwebsite||[]).push([[8947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"David Zindovi\u0107","page":{"permalink":"/blog/authors/david-zindovic"},"key":"david-zindovic","count":3}]}')}}]);
