@@ -1,5 +1,6 @@
 import type {ReactNode} from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import { translate } from '@docusaurus/Translate';
 import Layout from "@theme/Layout";
 
 export default function Sponsors(): ReactNode {
@@ -10,7 +11,7 @@ export default function Sponsors(): ReactNode {
             description="FIRST Slovenia supporters">
             <main>
                 <div className="container" style={{paddingTop: "20px"}}>
-                    <h1>Sponsors</h1>
+                    <h1>{translate({id: "sponsors.title", message: "Sponsors"})}</h1>
                     <div
                         style={{
                             display: 'flex',

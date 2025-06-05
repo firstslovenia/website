@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import { translate } from '@docusaurus/Translate';
 import Layout from "@theme/Layout";
 
 export default function Contact(): ReactNode {
@@ -10,7 +11,7 @@ export default function Contact(): ReactNode {
             description="FIRST Slovenia Social media profiles">
             <main>
                 <div className="container" style={{ paddingTop: "20px" }}>
-                    <h1>Socialna omrežja</h1>
+                    <h1>{translate({id:"social-media.title", message:"Social media"})}</h1>
                     <h1 style={{ textAlign: "center" }}>Instagram</h1>
                     <div style={{ display: "flex", gap: "20px", alignItems: "center", justifyContent: "center", textAlign: "center" }}>
                         <div style={{ justifyContent: "center" }}>

@@ -29,7 +29,15 @@ const config: Config = {
     // may want to replace "en" with "zh-Hans".
     i18n: {
         defaultLocale: 'en',
-        locales: ['en'],
+        locales: ['en', 'sl'],
+        localeConfigs: {
+            en: {
+                label: 'English',
+            },
+            sl: {
+                label: 'Slovenščina',
+            },
+        },
     },
 
     presets: [
@@ -123,6 +131,10 @@ const config: Config = {
                     label: '𝐹𝐼𝑅𝑆𝑇 Global Slovenia',
                     position: 'right',
                 },
+                {
+                    type: 'localeDropdown',
+                    position: 'right',
+                },
             ],
         },
         footer: {
@@ -133,7 +145,7 @@ const config: Config = {
                     items: [
                         {
                             label: 'Past teams',
-                            to: '/past-teams/teams-2024-2025',
+                            to: '/past-teams/team-2024-2025',
                         },
                     ],
                 },

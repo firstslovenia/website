@@ -2,6 +2,7 @@ import type { ReactNode } from 'react';
 import clsx from 'clsx';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
+import { translate } from '@docusaurus/Translate';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
@@ -12,9 +13,9 @@ function HomepageHeader() {
         <header className={clsx('hero hero--primary', styles.heroBanner)}>
             <div className="container">
                 <Heading as="h1" className="hero__title">
-                    Informacije za mentorje
+                    {translate({ id: "mentor.title", message: "New mentor information" })}
                 </Heading>
-                <p className="hero__subtitle">Skupaj gradimo prihodnost</p>
+                <p className="hero__subtitle">{translate({ id: "mentor.subtitle", message: "Building the future - together" })}</p>
             </div>
         </header>
     );
@@ -24,36 +25,50 @@ export default function Sponsors(): ReactNode {
     return (
         <Layout
             title={siteConfig.title}
-            description="FIRST Slovenia supporters">
+            description="FIRST Slovenia mentor information">
             <HomepageHeader />
             <main>
-                <div className="container" style={{ paddingTop: "20px"}}>
+                <div className="container" style={{ paddingTop: '20px' }}>
                     <div>
-                        <h1>Kaj potrebujemo?</h1>
+                        <h1>{translate({ id: "mentor.needed-hardware.title", message: 'What do we need?' })}</h1>
                         <p>
-                            Za razliko od FLL je pri <em>FIRST</em> Tech Challenge-u izbira
-                            komponent načeloma prepuščena ekipi. Omejene so le kontrolna enota
-                            (Control Hub), motorji, baterija in voznikova konzola (Driver Hub).
+                            {translate({
+                                id: "mentor.needed-hardware.content",
+                                message:
+                                    'As opposed to FLL, FIRST Tech Challenge teams have more freedom of choice. Limits on hardware are mostly for electronics (Control Hub, Driver Hub, speciffic motors and batteries only).',
+                            })}
                         </p>
                     </div>
+
                     <div>
-                        <h1>Kje prejmemo več informacij?</h1>
+                        <h1>{translate({ id: "mentor.more-info.title", message: 'Where can we get more information?' })}</h1>
                         <p>
-                            Pravila tekmovanja so dostopna na <a href="https://ftc-resources.firstinspires.org/file/ftc/game/manual">tej povezavi</a>,
-                            informacije o registraciji ekipe so dostopne na <a href="https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/international-team-registration.pdf">tej povezavi</a> (registracija za ekipe izven Severne Amerike je brezplačna)
-                            V bližnji prihodnosti bomo izvedli tudi predstavitev za mentorje,
-                            kjer bomo med drugim predstavili način sodelovanja (tehničnega
-                            mentorstva) z drugimi ekipami. Za več informacij (na splošno
-                            in v zvezi s predstavitvijo) se obrnite na <a href="mailto:info@firstglobal.si">info@firstglobal.si</a>.
+                            {translate({ id: "mentor.more-info.rules", message: 'Game manual (including rules) are available on ' })}
+                            <a href="https://ftc-resources.firstinspires.org/file/ftc/game/manual">
+                                {translate({ id: "this-link", message: 'this link' })}
+                            </a>
+                            {translate({ id: "mentor.more-info.registration", message: ', information on team registration are available on ' })}
+                            <a href="https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/international-team-registration.pdf">
+                                {translate({ id: "this-link", message: 'this link' })}
+                            </a>
+                            {translate({
+                                id: "mentor.more-info.other-content",
+                                message:
+                                    ' (registration of teams outside North America is free). In the near future we we\'ll also hold a presentation for mentors, where we\'ll provide information including how we would like to help future teams in Slovenia (technical mentorship). For more information contact us at ',
+                            })}
+                            <a href="mailto:info@firstglobal.si">info@firstglobal.si</a>.
                         </p>
                     </div>
+
                     <div>
-                        <h1>Kakšni so vstopni stroški?</h1>
+                        <h1>{translate({ id: "mentor.cost.title", message: 'What are costs associated with starting a team?' })}</h1>
                         <p>
-                            Mentorji <em>FIRST</em> Slovenia smo pripravili kalkulator stroškov
+                            {translate({ id: "mentor.cost.calculator", message: 'Our costs calculator is available at' })}
                         </p>
-                        <div style={{textAlign: "center"}}>
-                            <a href="files/stroskiFTC.xlsx"><img src="img/GS.png" style={{ height: "20vw", maxHeight: "150px" }} /></a>
+                        <div style={{ textAlign: 'center' }}>
+                            <a href="files/stroskiFTC.xlsx">
+                                <img src="img/GS.png" style={{ height: '20vw', maxHeight: '150px' }} />
+                            </a>
                         </div>
                     </div>
                 </div>

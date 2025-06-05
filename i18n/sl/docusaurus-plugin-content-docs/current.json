@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.projectsSidebar.category.FTC Companion": {
+    "message": "FTC Companion",
+    "description": "The label for category FTC Companion in sidebar projectsSidebar"
+  },
+  "sidebar.projectsSidebar.category.Project Strand": {
+    "message": "Project Strand",
+    "description": "The label for category Project Strand in sidebar projectsSidebar"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "link.title.About us": {
+    "message": "O nas",
+    "description": "The title of the footer links column with title=About us in the footer"
+  },
+  "link.title.Brand domains": {
+    "message": "Povezave",
+    "description": "The title of the footer links column with title=Brand domains in the footer"
+  },
+  "link.title.Social": {
+    "message": "Družbena omrežja",
+    "description": "The title of the footer links column with title=Social in the footer"
+  },
+  "link.title.Contact us": {
+    "message": "Kontakt",
+    "description": "The title of the footer links column with title=Contact us in the footer"
+  },
+  "link.item.label.Past teams": {
+    "message": "Bivše ekipe",
+    "description": "The label of footer link with label=Past teams linking to /past-teams/team-2024-2025"
+  },
+  "link.item.label.Maven Repository": {
+    "message": "Maven Repository",
+    "description": "The label of footer link with label=Maven Repository linking to https://maven.firsttech.si/"
+  },
+  "link.item.label.𝐹𝐼𝑅𝑆𝑇 Global Slovenia": {
+    "message": "𝐹𝐼𝑅𝑆𝑇 Global Slovenija",
+    "description": "The label of footer link with label=𝐹𝐼𝑅𝑆𝑇 Global Slovenia linking to https://firstglobal.si/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/firstslovenia"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://instagram.com/first.slovenia"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://youtube.com/@FIRSTSlovenia"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/MRuywyFjTQ"
+  },
+  "link.item.label.PO Box": {
+    "message": "Naslov",
+    "description": "The label of footer link with label=PO Box linking to contact"
+  },
+  "copyright": {
+    "message": "© 2024-2025 𝐹𝐼𝑅𝑆𝑇 Slovenia",
+    "description": "The footer copyright"
+  }
+}

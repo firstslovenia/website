@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-# 𝐹𝐼𝑅𝑆𝑇 Slovenia Projects
-Over the years our teams have been working on many projects. Here are the ones they've made public so far:
+# 𝐹𝐼𝑅𝑆𝑇 Slovenija Projekti
+Skozi leta so naše ekipe začele marsikateri projekt. To so naši javni projekti:
 
 <div align="center">
 

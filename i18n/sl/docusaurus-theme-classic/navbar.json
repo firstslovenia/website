@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "𝐹𝐼𝑅𝑆𝑇 Tech Slovenija",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "FIRST Slovenija Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Past teams": {
+    "message": "Bivše ekipe",
+    "description": "Navbar item with label Past teams"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Projects": {
+    "message": "Projekti",
+    "description": "Navbar item with label Projects"
+  },
+  "item.label.Team Docs": {
+    "message": "Dokumentacija",
+    "description": "Navbar item with label Team Docs"
+  },
+  "item.label.Sponsors": {
+    "message": "Sponzorji",
+    "description": "Navbar item with label Sponsors"
+  },
+  "item.label.Contact": {
+    "message": "Kontakt",
+    "description": "Navbar item with label Contact"
+  },
+  "item.label.𝐹𝐼𝑅𝑆𝑇 Global Slovenia": {
+    "message": "𝐹𝐼𝑅𝑆𝑇 Global Slovenija",
+    "description": "Navbar item with label 𝐹𝐼𝑅𝑆𝑇 Global Slovenia"
+  }
+}
