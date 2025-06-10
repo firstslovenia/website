@@ -25,7 +25,7 @@ export default function Sponsors(): ReactNode {
     return (
         <Layout
             title={siteConfig.title}
-            description="FIRST Slovenia mentor information">
+            description="𝐹𝐼𝑅𝑆𝑇 Slovenia mentor information">
             <HomepageHeader />
             <main>
                 <div className="container" style={{ paddingTop: '20px' }}>
@@ -35,7 +35,7 @@ export default function Sponsors(): ReactNode {
                             {translate({
                                 id: "mentor.needed-hardware.content",
                                 message:
-                                    'As opposed to FLL, FIRST Tech Challenge teams have more freedom of choice. Limits on hardware are mostly for electronics (Control Hub, Driver Hub, speciffic motors and batteries only).',
+                                    'As opposed to FLL, 𝐹𝐼𝑅𝑆𝑇 Tech Challenge teams have more freedom of choice. Limits on hardware are mostly for electronics (Control Hub, Driver Hub, speciffic motors and batteries only).',
                             })}
                         </p>
                     </div>

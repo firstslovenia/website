@@ -57,3 +57,4 @@ static/Tomorrow-Medium.otf
 static/Tomorrow-Regular.otf
 static/Roboto-Bold1.ttf
 i18n/sl/code.json
+src/pages/index.tsx

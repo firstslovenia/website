@@ -20,7 +20,7 @@ preživeti z obiskom najbližje trgovine ter sprehodom do lokacije, kjer se bo v
 ![IMG_1483-scaled.jpg](img/IMG_1483-scaled.jpg)
 
 Prednost lokacije prenočišča je ta, da se zbudimo na razdalji 10 minutnega sprehoda od zgradbe Politechnica University
-of Bucharest, ki se nahaja na študentskem kampusu skupaj z obilo drugih inženirsko obarvah fakultet. FIRST-ovsko obarvan
+of Bucharest, ki se nahaja na študentskem kampusu skupaj z obilo drugih inženirsko obarvah fakultet. 𝐹𝐼𝑅𝑆𝑇-ovsko obarvan
 hodnik in gruča živahnih sotekmovalcev sta nam namignila k temu, da smo na pravem mestu. Po sprehodu do vadbenih polj,
 ki se nahajajo v bližini osrednjih tekmovalnih polj in odra smo našli v neposredni bližini tudi mizo oz. “štand” naše
 ekipe, VegaMind #22903. Ogledu je sledilo spreminjanje napisa na vegovskih oblačil v VegaMind, kar nam je omogočil
