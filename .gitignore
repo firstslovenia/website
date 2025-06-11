@@ -25,7 +25,6 @@ src/pages/social-media.tsx
 src/pages/sponsors.tsx
 src/pages/contact.tsx
 src/pages/index.module.css
-src/css/custom.css
 static/Tomorrow-SemiBold.otf
 static/Tomorrow-Bold.otf
 static/Roboto-Regular1.ttf
@@ -44,14 +43,10 @@ static/img/sponsors/rls.png
 static/img/sponsors/blaj.png
 static/img/sponsors/sensor.png
 static/img/sponsors/mol.png
-static/img/docusaurus-social-card.jpg
-static/img/logo.svg
 static/img/forbidenChineselogo.png
 static/img/GS.png
 static/img/DSlogo.png
 static/img/IGlogo.png
-static/img/favicon.ico
-static/img/docusaurus.png
 static/img/YTlogo.png
 static/Tomorrow-Medium.otf
 static/Tomorrow-Regular.otf
