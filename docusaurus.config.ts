@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-    title: '𝐹𝐼𝑅𝑆𝑇 Tech Slovenia',
+    title: '𝐹𝐼𝑅𝑆𝑇 Slovenia',
     tagline: 'To inspire and solve challenges through robotics',
     favicon: 'img/favicon.ico',
 
