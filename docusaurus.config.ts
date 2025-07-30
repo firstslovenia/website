@@ -49,6 +49,9 @@ const config: Config = {
                     sidebarPath: './sidebars.ts',
                 },
                 blog: {
+                    id: 'fgc-blog',
+                    path: 'blog-global',
+                    routeBasePath: 'fgc/blog',
                     showReadingTime: true,
                     feedOptions: {
                         type: ['rss', 'atom'],
@@ -58,6 +61,7 @@ const config: Config = {
                     onInlineTags: 'warn',
                     onInlineAuthors: 'warn',
                     onUntruncatedBlogPosts: 'warn',
+                    blogSidebarCount: 'ALL',
                 },
                 theme: {
                     customCss: './src/css/custom.css',
@@ -67,6 +71,24 @@ const config: Config = {
     ],
 
     plugins: [
+        [
+            '@docusaurus/plugin-content-blog',
+            {
+                id: 'ftc-blog',
+                path: 'blog-tech',
+                routeBasePath: 'ftc/blog',
+                showReadingTime: true,
+                feedOptions: {
+                    type: ['rss', 'atom'],
+                    xslt: true,
+                },
+                // Useful options to enforce blogging best practices
+                onInlineTags: 'warn',
+                onInlineAuthors: 'warn',
+                blogSidebarCount: 'ALL',
+                onUntruncatedBlogPosts: 'warn',
+            },
+        ],
         [
             '@docusaurus/plugin-content-docs',
             {
@@ -79,10 +101,57 @@ const config: Config = {
         [
             '@docusaurus/plugin-content-docs',
             {
-                id: 'past-teams',
-                path: 'past-teams',
-                routeBasePath: 'past-teams',
+                id: 'past-teams-tech',
+                path: 'past-teams-tech',
+                routeBasePath: 'past-teams-tech',
                 sidebarPath: './sidebars.ts',
+                sidebarItemsGenerator: async function ({
+                    defaultSidebarItemsGenerator,
+                    ...args
+                }) {
+                    const sidebarItems = await defaultSidebarItemsGenerator(args);
+
+                    function reverseItems(items) {
+                        return items
+                            .map((item) => {
+                                if (item.type === 'category') {
+                                    item.items = reverseItems(item.items);
+                                }
+                                return item;
+                            })
+                            .reverse();
+                    }
+
+                    return reverseItems(sidebarItems);
+                },
+            },
+        ],
+        [
+            '@docusaurus/plugin-content-docs',
+            {
+                id: 'past-teams-global',
+                path: 'past-teams-global',
+                routeBasePath: 'past-teams-global',
+                sidebarPath: './sidebars.ts',
+                sidebarItemsGenerator: async function ({
+                    defaultSidebarItemsGenerator,
+                    ...args
+                }) {
+                    const sidebarItems = await defaultSidebarItemsGenerator(args);
+
+                    function reverseItems(items) {
+                        return items
+                            .map((item) => {
+                                if (item.type === 'category') {
+                                    item.items = reverseItems(item.items);
+                                }
+                                return item;
+                            })
+                            .reverse();
+                    }
+
+                    return reverseItems(sidebarItems);
+                },
             },
         ],
     ],
@@ -91,19 +160,45 @@ const config: Config = {
         // Replace with your project's social card
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
-            title: '𝐹𝐼𝑅𝑆𝑇 Tech Slovenia',
+            title: '𝐹𝐼𝑅𝑆𝑇 Slovenia',
             logo: {
                 alt: 'FIRST Slovenia Logo',
                 src: 'img/logo.svg',
             },
             items: [
                 {
-                    type: "docsVersion",
-                    docsPluginId: "past-teams",
-                    position: "left",
-                    label: "Past teams",
+                    type: 'dropdown',
+                    label: 'Past teams',
+                    position: 'left',
+                    items: [
+                        {
+                            type: "docsVersion",
+                            docsPluginId: "past-teams-tech",
+                            label: "𝐹𝐼𝑅𝑆𝑇 Tech Challenge",
+                        },
+                        {
+                            type: "docsVersion",
+                            docsPluginId: "past-teams-global",
+                            label: "𝐹𝐼𝑅𝑆𝑇 Global Challenge",
+
+                        },
+                    ],
                 },
-                { to: '/blog', label: 'Blog', position: 'left' },
+                {
+                    type: 'dropdown',
+                    label: 'Blog',
+                    position: 'left',
+                    items: [
+                        {
+                            to: '/ftc/blog',
+                            label: '𝐹𝐼𝑅𝑆𝑇 Tech Challenge',
+                        },
+                        {
+                            to: '/fgc/blog',
+                            label: '𝐹𝐼𝑅𝑆𝑇 Global Challenge',
+                        },
+                    ],
+                },
                 {
                     type: 'docSidebar',
                     sidebarId: 'projectsSidebar',
@@ -127,11 +222,6 @@ const config: Config = {
                     label: "Contact",
                 },
                 {
-                    href: 'https://firstglobal.si',
-                    label: '𝐹𝐼𝑅𝑆𝑇 Global Slovenia',
-                    position: 'right',
-                },
-                {
                     type: 'localeDropdown',
                     position: 'right',
                 },
@@ -145,7 +235,7 @@ const config: Config = {
                     items: [
                         {
                             label: 'Past teams',
-                            to: '/past-teams/team-2024-2025',
+                            to: '/past-teams-tech/team-2024-2025',
                         },
                     ],
                 },
