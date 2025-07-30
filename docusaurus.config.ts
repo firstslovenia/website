@@ -168,34 +168,41 @@ const config: Config = {
             items: [
                 {
                     type: 'dropdown',
-                    label: 'Past teams',
+                    label: "𝐹𝐼𝑅𝑆𝑇 Global",
                     position: 'left',
                     items: [
                         {
-                            type: "docsVersion",
-                            docsPluginId: "past-teams-tech",
-                            label: "𝐹𝐼𝑅𝑆𝑇 Tech Challenge",
+                            to: '/fgc',
+                            label: 'Home',
+                        },
+                        {
+                            to: '/fgc/blog',
+                            label: 'Blog',
                         },
                         {
                             type: "docsVersion",
                             docsPluginId: "past-teams-global",
-                            label: "𝐹𝐼𝑅𝑆𝑇 Global Challenge",
-
+                            label: "Past teams",
                         },
                     ],
                 },
                 {
                     type: 'dropdown',
-                    label: 'Blog',
+                    label: "𝐹𝐼𝑅𝑆𝑇 Tech",
                     position: 'left',
                     items: [
                         {
-                            to: '/ftc/blog',
-                            label: '𝐹𝐼𝑅𝑆𝑇 Tech Challenge',
+                            to: '/ftc',
+                            label: 'Home',
                         },
                         {
-                            to: '/fgc/blog',
-                            label: '𝐹𝐼𝑅𝑆𝑇 Global Challenge',
+                            to: '/ftc/blog',
+                            label: 'Blog',
+                        },
+                        {
+                            type: "docsVersion",
+                            docsPluginId: "past-teams-tech",
+                            label: "Past teams",
                         },
                     ],
                 },
@@ -210,6 +217,11 @@ const config: Config = {
                     docsPluginId: "team-docs",
                     position: "left",
                     label: "Team Docs",
+                },
+                {
+                    to: "mentor",
+                    position: "left",
+                    label: "Mentor",
                 },
                 {
                     to: "sponsors",

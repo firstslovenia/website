@@ -56,6 +56,9 @@ export default function Home(): ReactNode {
                         <center>
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/ssNS1lYT1Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </center>
+
+                        <h1>{translate({id: "home.donations.title", message: "Donations and sponsorships"})}</h1>
+                        <p dangerouslySetInnerHTML={{__html: translate({id: "home.donations.content", message: "Application fees and travel expenses for the team are quite substantial, so we’re looking to raise money from donors and sposnors. If you’d like to help us out, please reach out to the following email <a href=\"mailto:info@firstglobal.si\">info@firstglobal.si</a>. It’d really help us out! To see who our current sponsors and donors are visit the page with the list of our supporters."})}}></p>
                     </div>
                 </section>
             </main>
