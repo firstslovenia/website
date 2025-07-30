@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkftcwebsite=self.webpackChunkftcwebsite||[]).push([[12],{83880:t=>{t.exports=JSON.parse('{"blogBasePath":"/ftc/blog","blogTitle":"Blog","authorsListPath":"/ftc/blog/authors"}')}}]);

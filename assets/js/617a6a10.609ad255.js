@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkftcwebsite=self.webpackChunkftcwebsite||[]).push([[4876],{93875:e=>{e.exports=JSON.parse('{"tags":[{"label":"FTC 2022","permalink":"/ftc/blog/tags/ftc-2022","description":"First Tech Challenge 2022","count":3}]}')}}]);
