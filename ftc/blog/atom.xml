@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://firstslo.si/ftc/blog</id>
-    <title>𝐹𝐼𝑅𝑆𝑇 Tech Slovenia Blog</title>
+    <title>𝐹𝐼𝑅𝑆𝑇 Slovenia Blog</title>
     <updated>2023-02-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://firstslo.si/ftc/blog"/>
-    <subtitle>𝐹𝐼𝑅𝑆𝑇 Tech Slovenia Blog</subtitle>
+    <subtitle>𝐹𝐼𝑅𝑆𝑇 Slovenia Blog</subtitle>
     <icon>https://firstslo.si/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Konec začetnega poskusa]]></title>
