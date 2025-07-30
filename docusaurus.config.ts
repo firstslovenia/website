@@ -10,7 +10,7 @@ const config: Config = {
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
-    url: 'https://firsttech.si',
+    url: 'https://firstslo.si',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/',
@@ -18,7 +18,7 @@ const config: Config = {
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'firstslovenia', // Usually your GitHub org/user name.
-    projectName: 'ftcwebsite', // Usually your repo name.
+    projectName: 'website', // Usually your repo name.
     trailingSlash: false,
 
     onBrokenLinks: 'throw',
@@ -199,11 +199,11 @@ const config: Config = {
                     ],
                 },
             ],
-            copyright: `Copyright © 2024-${new Date().getFullYear()} 𝐹𝐼𝑅𝑆𝑇 Slovenia. All rights reserved.`,
+            copyright: `Copyright © 2017-${new Date().getFullYear()} 𝐹𝐼𝑅𝑆𝑇 Slovenia. All rights reserved.`,
         },
         prism: {
-            theme: prismThemes.github,
-            darkTheme: prismThemes.dracula,
+            theme: prismThemes.dracula,
+            darkTheme: prismThemes.github,
         },
     } satisfies Preset.ThemeConfig,
 };
