@@ -408,5 +408,20 @@
   },
   "join-us.mentors": {
     "message": "Če bi radi ustanovili novo FTC ekipo v Sloveniji, si najprej oglejte našo <a href=\"/mentor\">stran za mentorje</a>. Za dodatne informacije pa se vedno lahko obrnete na <a href=\"mailto:info@firstslo.si\">info@firtslo.si</a>."
+  },
+  "ctd.days": {
+    "message": "Dni"
+  },
+  "ctd.hours": {
+    "message": "Ur"
+  },
+  "ctd.minutes": {
+    "message": "Minut"
+  },
+  "ctd.seconds": {  
+    "message": "Sekund"
+  },
+  "ctd.add-to-calendar": {
+    "message": "Dodaj v koledar"
   }
 }
