@@ -2,6 +2,7 @@ import type {ReactNode} from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import {translate} from '@docusaurus/Translate';
 import Layout from "@theme/Layout";
+import MapView from '@site/src/components/MapView';
 
 export default function Contact(): ReactNode {
     const {siteConfig} = useDocusaurusContext();
@@ -23,6 +24,14 @@ export default function Contact(): ReactNode {
                         <a href="mailto:info@firstglobal.si">info@firstglobal.si</a>
                     </p>
                 </div>
+
+                <MapView
+                    center={[46.04179827172938, 14.495698281752176]}
+                    zoom={16}
+                    markers={[
+                        [46.04179827172938, 14.495698281752176, 'Zavod 404'], // Marker for Zavod 404
+                    ]} 
+                />
             </main>
         </Layout>
     );
