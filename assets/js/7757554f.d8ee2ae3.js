@@ -1,0 +1,2 @@
+/*! For license information please see 7757554f.d8ee2ae3.js.LICENSE.txt */
+"use strict";(self.webpackChunkftcwebsite=self.webpackChunkftcwebsite||[]).push([[2689],{41963:(e,t,s)=>{s.r(t),s.d(t,{default:()=>a});var c=s(96540),u=s(56347);function a(){const e=(0,u.W6)();return(0,c.useEffect)((()=>{e.replace("/start-a-team")}),[e]),null}}}]);
