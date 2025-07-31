@@ -399,5 +399,14 @@
   },
   "ftc.what-we-do": {
     "message": "Vsakoletno regijsko in svetovno tekmovanje 𝐹𝐼𝑅𝑆𝑇 Tech Challenge, ki vključuje več kot 60 tisoč mladih letno, je tekmovanje s ciljem nadaljnjega izobraževanja dijakov s področja STEM. Izzivi so težji kot pri FGC, vendar so posledično tudi bolj zabavni in poučni. Več si lahko preberete na naši spletni strani <a href=\"https://firsttech.si\">𝐹𝐼𝑅𝑆𝑇 Tech Challenge Slovenija</a> and on the <a href=\"https://firstinspires.org\">𝐹𝐼𝑅𝑆𝑇 Inspires</a>."
+  },
+  "join-us.title": {
+    "message": "Pridruži se"
+  },
+  "join-us.students": {
+    "message": "Če se želiš sodelovati pri aktivnostih FIRST Slovenia, se pridruži našemu Discord strežniku. Vedno si želimo več članov naše skupnosti, ki bi nam pomagali pri promociji tehnične (STEM) izobrazbe in robotike v Sloveniji."
+  },
+  "join-us.mentors": {
+    "message": "Če bi radi ustanovili novo FTC ekipo v Sloveniji, si najprej oglejte našo <a href=\"/mentor\">stran za mentorje</a>. Za dodatne informacije pa se vedno lahko obrnete na <a href=\"mailto:info@firstslo.si\">info@firtslo.si</a>."
   }
 }

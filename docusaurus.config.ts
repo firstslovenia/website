@@ -168,7 +168,7 @@ const config: Config = {
             items: [
                 {
                     type: 'dropdown',
-                    label: "𝐹𝐼𝑅𝑆𝑇 Global",
+                    label: "Global",
                     position: 'left',
                     items: [
                         {
@@ -188,7 +188,7 @@ const config: Config = {
                 },
                 {
                     type: 'dropdown',
-                    label: "𝐹𝐼𝑅𝑆𝑇 Tech",
+                    label: "Tech",
                     position: 'left',
                     items: [
                         {
@@ -219,9 +219,20 @@ const config: Config = {
                     label: "Team Docs",
                 },
                 {
-                    to: "mentor",
-                    position: "left",
-                    label: "Mentor",
+                    type: 'dropdown',
+                    label: "Join us",
+                    position: 'left',
+                    to: '/contact',
+                    items: [
+                        {
+                            to: '/join-us',
+                            label: 'Join as a member',
+                        },
+                        {
+                            to: '/start-a-team',
+                            label: 'Start a new team',
+                        },
+                    ]
                 },
                 {
                     to: "sponsors",
