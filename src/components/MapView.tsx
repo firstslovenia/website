@@ -1,52 +1,114 @@
-// src/components/MapView.jsx
-import React, { useEffect, useState } from 'react';
-import BrowserOnly from '@docusaurus/BrowserOnly';
-import 'leaflet/dist/leaflet.css';
+import React, { useState, useEffect } from "react";
+import styles from "./MapView.module.css";
+import "leaflet/dist/leaflet.css";
 
-function InnerMap({ center, zoom, markers, size=["400px", "600px"] }) {
-  useEffect(() => {
-    (async () => {
-      const L = await import('leaflet');
-      const iconUrl = (await import('leaflet/dist/images/marker-icon.png')).default;
-      const shadowUrl = (await import('leaflet/dist/images/marker-shadow.png')).default;
+const iconUrl = "/marker-icon.png";
+const shadowUrl = "/marker-shadow.png";
 
-      delete L.Icon.Default.prototype._getIconUrl;
-      L.Icon.Default.mergeOptions({ iconUrl, shadowUrl });
-
-      const map = L.map('map').setView(center, zoom);
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; OpenStreetMap contributors',
-      }).addTo(map);
-
-      markers.forEach(([lat, lng, popup]) => {
-        L.marker([lat, lng]).addTo(map).bindPopup(popup || '');
-      });
-    })();
-  }, [center, zoom, markers]);
-
-return (
-  <div
-    id="map"
-    style={{
-      height: size[0],
-      width: size[1],       // ✅ Prevents overflow
-      borderRadius: '8px',
-      margin: '1rem auto',     // ✅ Center it and separate from other content
-      boxShadow: '0 2px 10px rgba(0,0,0,0.2)', // Optional: nicer look
-    }}
-  />
-);
-}
+type MapComponents = typeof import("react-leaflet") & {
+  Icon: typeof import("leaflet").Icon;
+};
 
 export default function MapView({
   center = [51.505, -0.09],
   zoom = 13,
-  markers = [[51.505, -0.09, 'Default Marker']],
+  markers = [[51.505, -0.09, "Default Marker"]],
   size = ["400px", "600px"], // Default size
+}: {
+  center?: [number, number];
+  zoom?: number;
+  markers?: [number, number, string][];
+  size?: [string, string];
 }) {
+  const [MapComponents, setMapComponents] =
+    useState<Partial<MapComponents>>(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  const [height, width] = size;
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const loadMapComponents = async () => {
+        try {
+          const [reactLeaflet, leaflet] = await Promise.all([
+            import("react-leaflet"),
+            import("leaflet"),
+          ]);
+
+          const { MapContainer, TileLayer, Marker, Popup } = reactLeaflet;
+          const { Icon } = leaflet;
+
+          setMapComponents({
+            MapContainer,
+            TileLayer,
+            Marker,
+            Popup,
+            Icon,
+          });
+          setIsLoading(false);
+        } catch (err) {
+          setError(err.message);
+          setIsLoading(false);
+        }
+      };
+
+      loadMapComponents();
+    }
+  }, []);
+
+  if (isLoading) {
+    return (
+      <div className={styles.mapLoading} style={{ height, width }}>
+        Loading map...
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className={styles.mapError} style={{ height, width }}>
+        Error loading map: {error}
+      </div>
+    );
+  }
+
+  if (!MapComponents) {
+    return (
+      <div className={styles.mapUnavailable} style={{ height, width }}>
+        Map not available
+      </div>
+    );
+  }
+
+  const { MapContainer, TileLayer, Marker, Popup, Icon } = MapComponents;
+
   return (
-    <BrowserOnly fallback={<div>Loading map...</div>}>
-      {() => <InnerMap center={center} zoom={zoom} markers={markers} size={size}/>}
-    </BrowserOnly>
+    <MapContainer
+      center={center}
+      zoom={zoom}
+      style={{ height, width }}
+      className={styles.mapView}
+    >
+      <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+      {markers.map(([lat, lng, popup], index) => (
+        <Marker
+          position={[lat, lng]}
+          key={`${lat}-${lng}-${index}`}
+          icon={
+            new Icon({
+              iconUrl,
+              shadowUrl,
+              iconSize: [25, 41],
+              iconAnchor: [12, 41],
+              popupAnchor: [1, -34],
+              shadowSize: [41, 41],
+            })
+          }
+        >
+          <Popup>{popup}</Popup>
+        </Marker>
+      ))}
+    </MapContainer>
   );
 }

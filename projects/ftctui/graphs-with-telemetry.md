@@ -29,7 +29,7 @@ You can then parse this file in e.g. python, to draw a graph with matplotlib:
 Example code:
 
 ```python
-import matplotlib.pyplot as plt;
+import matplotlib.pyplot as plt
 import sys
 import json
 
@@ -40,16 +40,16 @@ import json
 with open(sys.argv[1], 'r') as file:
 
 	# Read the file and parse it as json
-	data = file.read();
-	parsed = json.loads(data);
+	data = file.read()
+	parsed = json.loads(data)
 
 	# Let's say we want to graph our motor power over time
 	# and we have a line in our robot's code:
-	# telemetry.addData("Motor power", motorPower);
+	# telemetry.addData("Motor power", motorPower)
 	# where motorPower is a float, from -1.0 to 1.0
-	power = list();
+	power = list()
 
-	time = list();
+	time = list()
 
 	# these two lists need to have the same number of elements, and the nth element in one
 	# has to correspond to the nth element in the other
@@ -59,7 +59,7 @@ with open(sys.argv[1], 'r') as file:
 		# For the values of time, take every packet's time in seconds
 		#
 		# We'll map all our y values to this; this is so matplotlib knows at what time we received what data
-		time.append(float(packet["t_elapsed_ms"]) / 1000.0);
+		time.append(float(packet["t_elapsed_ms"]) / 1000.0)
 
 		# Potentially get the value from the packet's entries
 		power_e = entry["entries"].get("Motor power")
@@ -71,7 +71,7 @@ with open(sys.argv[1], 'r') as file:
 
 			# This is optional, map values of (-1.0, 1.0) to (-100.0, 100.0)
 			# This is to show how you can manipulate data before adding it to the list
-			power_as_float = power_as_float * 100.0;
+			power_as_float = power_as_float * 100.0
 
 			power.append(power_as_float)
 		else:
@@ -79,9 +79,9 @@ with open(sys.argv[1], 'r') as file:
 			# If we didn't append None here, we'd mess up the 1 - 1 mapping of power to time
 			power.append(None)
 
-	fig, ax = plt.subplots();
+	fig, ax = plt.subplots()
 
-	ax.plot(time, power, linewidth=3, label="Motor power [%]");
+	ax.plot(time, power, linewidth=3, label="Motor power [%]")
 	# If you want to add more plots, add another list, add its elements in the above loop, then call
 	# ax.plot(time, my_data, label="Something")
 
@@ -90,9 +90,9 @@ with open(sys.argv[1], 'r') as file:
 	# plt.show() actually shows the graph
 	#
 	# you should take a look at matplotlib's docs
-	ax.set_xlabel("Time [s]");
-	ax.set_title("Telemetry");
-	ax.legend();
+	ax.set_xlabel("Time [s]")
+	ax.set_title("Telemetry")
+	ax.legend()
 	ax.grid(True)
-	plt.show();
+	plt.show()
 ```

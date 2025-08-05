@@ -1,0 +1,19 @@
+.centeredTitle {
+  text-align: center;
+}
+
+.socialMediaGrid {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.socialMediaItem {
+  justify-content: center;
+}
+
+.spacer {
+  margin-bottom: 2rem;
+}

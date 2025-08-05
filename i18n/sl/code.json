@@ -377,7 +377,7 @@
     "message": "Donacije in sponzorstva"
   },
   "home.donations.content": {
-  "message": "Prijavnine, potni storši in stroški materiala so precej veliki, zato smo vedno pripravljeni sprejeti donacije ali sponzorstva. Če ste nas pripravljeni podpreti, nas prosim kontaktirajte na <a href=\"mailto:info@firstglobal.si\">info@firstglobal.si</a>. Vsakršna pomoč nam pride prav! Trenutne sponzorje najdete na strani trenutnih podpornikov."
+    "message": "Prijavnine, potni storši in stroški materiala so precej veliki, zato smo vedno pripravljeni sprejeti donacije ali sponzorstva. Če ste nas pripravljeni podpreti, nas prosim kontaktirajte na <a href=\"mailto:info@firstglobal.si\">info@firstglobal.si</a>. Vsakršna pomoč nam pride prav! Trenutne sponzorje najdete na strani trenutnih podpornikov."
   },
   "contact.title": {
     "message": "Kontaktirajte nas"
@@ -418,7 +418,7 @@
   "ctd.minutes": {
     "message": "Minut"
   },
-  "ctd.seconds": {  
+  "ctd.seconds": {
     "message": "Sekund"
   },
   "ctd.add-to-calendar": {

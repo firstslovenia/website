@@ -1,207 +1,217 @@
-import React, { useEffect, useState, useRef } from 'react';
-import { translate } from '@docusaurus/Translate';
-import MapView from '@site/src/components/MapView';
+import React, { useEffect, useState, useRef } from "react";
+import { translate } from "@docusaurus/Translate";
+import MapView from "@site/src/components/MapView";
+import styles from "./CountdownEventCard.module.css";
+import { motion, AnimatePresence } from "framer-motion";
 
-// Add keyframes animation for glow effect
-if (typeof document !== 'undefined') {
-	const style = document.createElement('style');
-	style.innerHTML = `
-	@keyframes glow {
-		0% { text-shadow: 0 0 0px var(--ifm-color-primary); }
-		50% { text-shadow: 0 0 10px var(--ifm-color-primary); }
-		100% { text-shadow: 0 0 0px var(--ifm-color-primary); }
-	}
-	`;
-	document.head.appendChild(style);
-}
+const SlidingNumbers: React.FC<{
+  value: number;
+  color: string;
+  digits?: number;
+}> = ({ value, color, digits = 2 }) => {
+  const [currentValue, setCurrentValue] = useState(value);
+  const prevValueRef = useRef(value);
 
-type CountdownEventCardProps = {
-	title: string;
-	location: string;
-	displayLocation: string;
-	startTime: Date;
-	endTime: Date;
-	coordinates: [number, number];
+  useEffect(() => {
+    if (prevValueRef.current !== value) {
+      setCurrentValue(value);
+    }
+  }, [value]);
+
+  const hasChanged = prevValueRef.current !== value;
+
+  const formattedValue = currentValue.toString().padStart(digits, "0");
+
+  return (
+    <div className={styles.numbersContainer} style={{ color }}>
+      {hasChanged ? (
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={currentValue}
+            initial={{ y: "100%" }}
+            animate={{ y: "0%" }}
+            exit={{ y: "-100%" }}
+            transition={{
+              duration: 0.2,
+              ease: "easeOut",
+            }}
+          >
+            {formattedValue}
+          </motion.div>
+        </AnimatePresence>
+      ) : (
+        formattedValue
+      )}
+    </div>
+  );
 };
 
+type CountdownEventCardProps = {
+  title: string;
+  location: string;
+  displayLocation: string;
+  startTime: Date;
+  endTime: Date;
+  coordinates: [number, number];
+};
+
+const TimeUnit: React.FC<{
+  label: string;
+  value: number;
+  color: string;
+}> = ({ label, value, color }) => (
+  <div className={styles.timeUnit}>
+    <div className={styles.timeValue}>
+      <SlidingNumbers value={value} color={color} />
+    </div>
+    <small className={styles.timeLabel}>{label}</small>
+  </div>
+);
+
 const CountdownEventCard: React.FC<CountdownEventCardProps> = ({
-	title,
-	location,
-	displayLocation,
-	startTime,
-	endTime,
-	coordinates,
+  title,
+  location,
+  displayLocation,
+  startTime,
+  endTime,
+  coordinates,
 }) => {
-	const [timeParts, setTimeParts] = useState({
-		days: '0',
-		hours: '0',
-		minutes: '0',
-		seconds: '0',
-	});
+  const [timeParts, setTimeParts] = useState({
+    days: 0,
+    hours: 0,
+    minutes: 0,
+    seconds: 0,
+  });
 
-	const [changed, setChanged] = useState({
-		days: false,
-		hours: false,
-		minutes: false,
-		seconds: false,
-	});
+  const [eventStatus, setEventStatus] = useState<
+    "upcoming" | "ongoing" | "ended"
+  >("upcoming");
 
-	const [color, setColor] = useState('var(--ifm-color-primary)');
+  const getStatusColor = (status: typeof eventStatus) => {
+    switch (status) {
+      case "upcoming":
+        return "var(--ifm-color-primary)";
+      case "ongoing":
+        return "#cfcf0d";
+      case "ended":
+        return "#b31919";
+      default:
+        return "var(--ifm-color-primary)";
+    }
+  };
 
-	const prevTimeRef = useRef(timeParts);
+  useEffect(() => {
+    const updateCountdown = () => {
+      const now = new Date().getTime();
+      const startDistance = startTime.getTime() - now;
+      const endDistance = endTime.getTime() - now;
 
-	useEffect(() => {
-		const updateCountdown = () => {
-			const now = new Date().getTime();
-			const startDistance = startTime.getTime() - now;
-			const endDistance = endTime.getTime() - now;
+      let distance: number;
+      let status: typeof eventStatus;
 
-			let distance = startDistance;
+      if (endDistance < 0) {
+        // Event has ended
+        distance = Math.abs(endDistance);
+        status = "ended";
+      } else if (startDistance <= 0) {
+        // Event is ongoing
+        distance = endDistance;
+        status = "ongoing";
+      } else {
+        // Event is upcoming
+        distance = startDistance;
+        status = "upcoming";
+      }
 
-			if (startDistance <= 0 && endDistance >= 0) {
-				setColor('#cfcf0d');
-			} else if (endDistance < 0) {
-				distance = endDistance;
-				setColor('#b31919');
-			}
+      setEventStatus(status);
 
-			distance = Math.abs(distance);
+      const newParts = {
+        days: Math.floor(distance / (1000 * 60 * 60 * 24)),
+        hours: Math.floor((distance / (1000 * 60 * 60)) % 24),
+        minutes: Math.floor((distance / (1000 * 60)) % 60),
+        seconds: Math.floor((distance / 1000) % 60),
+      };
 
-			const newParts = {
-				days: Math.floor(distance / (1000 * 60 * 60 * 24)).toString(),
-				hours: Math.floor((distance / (1000 * 60 * 60)) % 24).toString(),
-				minutes: Math.floor((distance / (1000 * 60)) % 60).toString(),
-				seconds: Math.floor((distance / 1000) % 60).toString(),
-			};
+      setTimeParts(newParts);
+    };
 
-			setChanged({
-				days: prevTimeRef.current.days !== newParts.days,
-				hours: prevTimeRef.current.hours !== newParts.hours,
-				minutes: prevTimeRef.current.minutes !== newParts.minutes,
-				seconds: prevTimeRef.current.seconds !== newParts.seconds,
-			});
+    updateCountdown();
+    const interval = setInterval(updateCountdown, 1000);
+    return () => clearInterval(interval);
+  }, [startTime, endTime]);
 
-			prevTimeRef.current = newParts;
-			setTimeParts(newParts);
-		};
+  const formatDate = (date: Date) =>
+    date.toISOString().replace(/-|:|\.\d\d\d/g, "");
 
-		updateCountdown();
-		const interval = setInterval(updateCountdown, 1000);
-		return () => clearInterval(interval);
-	}, [startTime, endTime]);
+  const googleCalendarUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(
+    title,
+  )}&dates=${formatDate(startTime)}/${formatDate(
+    endTime,
+  )}&location=${encodeURIComponent(location)}&sf=true&output=xml`;
 
-	const formatDate = (date: Date) =>
-		date.toISOString().replace(/-|:|\.\d\d\d/g, '');
+  const statusColor = getStatusColor(eventStatus);
 
-	const googleCalendarUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(
-		title
-	)}&dates=${formatDate(startTime)}/${formatDate(
-		endTime
-	)}&location=${encodeURIComponent(location)}&sf=true&output=xml`;
+  return (
+    <div className={styles.containerWrapper}>
+      <div className={styles.outerContainer}>
+        <div className={styles.top}>
+          <div className={styles.leftSide}>
+            <div className={styles.titleContainer}>
+              <h1 className={styles.title}>{title}</h1>
+            </div>
 
-	const TimeUnit = ({ label, value, glow, color}: { label: string; value: string; glow: boolean, color: string}) => (
-		<div style={{ textAlign: 'center', margin: '0 0.5rem' }}>
-			<div
-				style={{
-					fontSize: '3rem',
-					fontWeight: 'bold',
-					color: color,
-					animation: glow ? 'glow 0.5s ease-in-out' : 'none',
-				}}
-			>
-				{value}
-			</div>
-			<small>{label}</small>
-		</div>
-	);
+            <div className={styles.location}>{displayLocation}</div>
 
-	return (
-		<div
-			style={{
-				display: 'flex',
-				flexDirection: 'row',
-				alignItems: 'flex-start',
-				justifyContent: 'space-between',
-				border: '1px solid #ccc',
-				borderRadius: '1rem',
-				padding: '1rem',
-				boxShadow: '0 4px 12px rgba(0,0,0,0.1)',
-				minWidth: '900px',
-				maxWidth: '970px',
-				margin: '2rem auto',
-				flexWrap: 'nowrap',
-				gap: '1rem',
-			}}
-		>
-			{/* Left side */}
-			<div style={{ flex: '1 1 60%', minWidth: '300px', display: 'flex', flexDirection: 'column', justifyContent: 'left' }}>
-				<div style={{ marginBottom: '0.5rem' }}>
-					<h1 style={{ margin: 0 }}>{title}</h1>
-				</div>
+            <div className={styles.countdownContainer}>
+              <TimeUnit
+                label={translate({ id: "ctd.days", message: "Days" })}
+                value={timeParts.days}
+                color={statusColor}
+              />
+              <TimeUnit
+                label={translate({ id: "ctd.hours", message: "Hours" })}
+                value={timeParts.hours}
+                color={statusColor}
+              />
+              <TimeUnit
+                label={translate({ id: "ctd.minutes", message: "Minutes" })}
+                value={timeParts.minutes}
+                color={statusColor}
+              />
+              <TimeUnit
+                label={translate({ id: "ctd.seconds", message: "Seconds" })}
+                value={timeParts.seconds}
+                color={statusColor}
+              />
+            </div>
+          </div>
 
-				<div style={{ marginBottom: '0.5rem' }}>
-					{displayLocation}
-				</div>
+          <div className={styles.rightSide}>
+            <MapView
+              center={coordinates}
+              zoom={12}
+              markers={[[...coordinates, displayLocation]]}
+              size={["220px", "350px"]}
+            />
+          </div>
+        </div>
 
-
-				<div
-					style={{
-						display: 'flex',
-						justifySelf: 'center',
-						alignItems: 'center',
-						alignSelf: 'flex-start',
-						gap: '1rem',
-						marginTop: '1rem',
-					}}
-				>
-					<TimeUnit label={translate({id:"ctd.days", message: "Days"})} value={timeParts.days} glow={changed.days} color={color} />
-					<TimeUnit label={translate({id:"ctd.hours", message: "Hours"})} value={timeParts.hours} glow={changed.hours} color={color} />
-					<TimeUnit label={translate({id:"ctd.minutes", message: "Minutes"})} value={timeParts.minutes} glow={changed.minutes} color={color} />
-					<TimeUnit label={translate({id:"ctd.seconds", message: "Seconds"})} value={timeParts.seconds} glow={changed.seconds} color={color} />
-				</div>
-			</div>
-
-			{/* Right side: map */}
-			<div
-				style={{
-					// width: '250px',
-					// height: '180px',
-					borderRadius: '0.5rem',
-					overflow: 'hidden',
-					flexShrink: 0,
-					display: 'flex',
-					flexDirection: 'column',
-					alignItems: 'right',
-					justifyContent: 'right',
-				}}
-			>
-				<a href={googleCalendarUrl} target="_blank" rel="noopener noreferrer"
-				style={{
-					display: 'flex',
-					justifyContent: 'right',
-				}}>
-					<button
-						style={{
-							padding: '0.4rem 0.8rem',
-							borderRadius: '0.5rem',
-							border: 'none',
-							backgroundColor: 'var(--ifm-color-primary)',
-							color: '#fff',
-							cursor: 'pointer',
-							fontSize: '0.9rem',
-						}}
-						dangerouslySetInnerHTML={{ __html: translate({id:"ctd.add-to-calendar", message: "Add to calendar"}) }}
-					/>
-				</a>
-				<MapView
-					center={coordinates}
-					zoom={12}
-					markers={[[...coordinates, displayLocation]]}
-					size={["220px", "350px"]}
-				/>
-			</div>
-		</div>
-	);
+        <a
+          href={googleCalendarUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className={styles.calendarLinkContainer}
+        >
+          <button className={styles.calendarButton}>
+            {translate({
+              id: "ctd.add-to-calendar",
+              message: "Add to calendar",
+            })}
+          </button>
+        </a>
+      </div>
+    </div>
+  );
 };
 
 export default CountdownEventCard;

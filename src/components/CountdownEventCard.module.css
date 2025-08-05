@@ -1,0 +1,99 @@
+.containerWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.outerContainer {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin: 2rem;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 1rem;
+}
+
+.leftSide {
+  flex: 1 1 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  height: 100%;
+}
+
+.titleContainer {
+  margin-bottom: 0.5rem;
+}
+
+.title {
+  margin: 0;
+}
+
+.location {
+  margin-bottom: 0.5rem;
+}
+
+.countdownContainer {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  justify-content: center;
+  align-self: flex-start;
+  gap: 1rem;
+  margin-top: 1rem;
+  height: 100%;
+  width: 100%;
+}
+
+.timeUnit {
+  text-align: center;
+  margin: 0 0.5rem;
+}
+
+.timeValue {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.rightSide {
+  border-radius: 0.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  justify-content: right;
+}
+
+.calendarLinkContainer {
+  width: 100%;
+}
+
+.calendarButton {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  background-color: var(--ifm-color-primary);
+  color: #fff;
+  cursor: pointer;
+  font-size: 0.9rem;
+  width: 100%;
+}
+
+.numbersContainer {
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: 1;
+  overflow: hidden;
+}
