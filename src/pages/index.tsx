@@ -83,7 +83,7 @@ export default function Home(): ReactNode {
               displayLocation="Panama City, Panama"
               startTime={new Date("2025-10-28T08:00:00-05:00")}
               endTime={new Date("2025-11-01T18:00:00-05:00")}
-              coordinates={[18.01364837600559, -88.75107747151932]}
+              coordinates={[8.937667562878083, -79.54777780016597]} // https://xkcd.com/2170
             />
 
             <p
