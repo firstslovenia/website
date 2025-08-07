@@ -191,7 +191,7 @@ const CountdownEventCard: React.FC<CountdownEventCardProps> = ({
               center={coordinates}
               zoom={12}
               markers={[[...coordinates, displayLocation]]}
-              size={["220px", "350px"]}
+              size={["220px", "100%"]}
             />
           </div>
         </div>

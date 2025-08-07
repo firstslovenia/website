@@ -100,16 +100,16 @@ export default function Home(): ReactNode {
               }}
             ></p>
 
-            <h3
-              dangerouslySetInnerHTML={{
-                __html: translate({
-                  id: "home.what-we-do.video.chall",
-                  message:
-                    "Theme for this year's challenge, held in <em>Panama City from 29th October to 1st November</em>",
-                }),
-              }}
-            ></h3>
-            <center>
+            <div className={styles.videos}>
+              <h3
+                dangerouslySetInnerHTML={{
+                  __html: translate({
+                    id: "home.what-we-do.video.chall",
+                    message:
+                      "Theme for this year's challenge, held in <em>Panama City from 29th October to 1st November</em>",
+                  }),
+                }}
+              ></h3>
               <iframe
                 width="560"
                 height="315"
@@ -118,19 +118,18 @@ export default function Home(): ReactNode {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerPolicy="strict-origin-when-cross-origin"
                 allowFullScreen
+                className={styles.video}
               ></iframe>
-            </center>
-            <br />
-            <h3
-              dangerouslySetInnerHTML={{
-                __html: translate({
-                  id: "home.what-we-do.video.robot",
-                  message:
-                    "Robot game for this year's challenge, held in <em>Panama City from 29th October to 1st November</em>",
-                }),
-              }}
-            ></h3>
-            <center>
+              <br />
+              <h3
+                dangerouslySetInnerHTML={{
+                  __html: translate({
+                    id: "home.what-we-do.video.robot",
+                    message:
+                      "Robot game for this year's challenge, held in <em>Panama City from 29th October to 1st November</em>",
+                  }),
+                }}
+              ></h3>
               <iframe
                 width="560"
                 height="315"
@@ -139,8 +138,9 @@ export default function Home(): ReactNode {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerPolicy="strict-origin-when-cross-origin"
                 allowFullScreen
+                className={styles.video}
               ></iframe>
-            </center>
+            </div>
 
             <h1>
               {translate({
