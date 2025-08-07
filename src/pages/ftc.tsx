@@ -50,15 +50,15 @@ export default function Home(): ReactNode {
               }}
             ></p>
 
-            <h3
-              dangerouslySetInnerHTML={{
-                __html: translate({
-                  id: "ftc.what-we-do.video",
-                  message: "2025-2026 Season reveal",
-                }),
-              }}
-            ></h3>
-            <center>
+            <div className={styles.videos}>
+              <h3
+                dangerouslySetInnerHTML={{
+                  __html: translate({
+                    id: "ftc.what-we-do.video",
+                    message: "2025-2026 Season reveal",
+                  }),
+                }}
+              ></h3>
               <iframe
                 width="560"
                 height="315"
@@ -67,8 +67,9 @@ export default function Home(): ReactNode {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerPolicy="strict-origin-when-cross-origin"
                 allowFullScreen
+                className={styles.video}
               ></iframe>
-            </center>
+            </div>
           </div>
         </section>
       </main>
