@@ -28,13 +28,18 @@ export default function Contact(): ReactNode {
           </p>
         </div>
 
-        <MapView
-          center={[46.04179827172938, 14.495698281752176]}
-          zoom={16}
-          markers={[
-            [46.04179827172938, 14.495698281752176, "Zavod 404"], // Marker for Zavod 404
-          ]}
-        />
+        <div className={styles.outerMap}>
+          <div className={styles.map}>
+            <MapView
+              center={[46.04179827172938, 14.495698281752176]}
+              zoom={16}
+              markers={[
+                [46.04179827172938, 14.495698281752176, "Zavod 404"], // Marker for Zavod 404
+              ]}
+              size={["400px", "100%"]}
+            />
+          </div>
+        </div>
       </main>
     </Layout>
   );
