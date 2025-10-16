@@ -1,0 +1,66 @@
+.grid {
+  --gap: 24px;
+  --logo-height: 80px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--gap);
+  justify-items: center;
+  align-items: center;
+}
+
+@media (min-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    --logo-height: 110px;
+  }
+}
+
+.cell {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.link {
+  display: inline-flex;
+  transition: transform 120ms ease, opacity 120ms ease;
+}
+.link:hover,
+.link:focus-visible {
+  transform: translateY(-2px);
+  opacity: 0.95;
+}
+
+/* Clean white background with no gray border or shadow */
+.logoBox {
+  height: var(--logo-height);
+  max-width: 260px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 12px;
+
+  background-color: #ffffff; /* keeps logos visible in dark mode */
+  border-radius: 12px;
+}
+
+/* Make sure transparent logos scale nicely */
+.logoImg {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+/* Optional: soften the white in dark mode */
+@media (prefers-color-scheme: dark) {
+  .logoBox {
+    background-color: #ffffff; /* slightly softer white for dark mode */
+  }
+}
