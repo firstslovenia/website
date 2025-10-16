@@ -78,7 +78,7 @@ export default function Home(): ReactNode {
             </h1>
 
             <CountdownEventCard
-              title="FIRST Globall Challenge 2025"
+              title="<em>FIRST</em> Global Challenge 2025"
               location="Panama Convention Center, Calle Gral. Juan D. Peron, Panamá, Provincia de Panamá, Panama"
               displayLocation="Panama City, Panama"
               startTime={new Date("2025-10-28T08:00:00-05:00")}

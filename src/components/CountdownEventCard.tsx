@@ -157,10 +157,10 @@ const CountdownEventCard: React.FC<CountdownEventCardProps> = ({
         <div className={styles.top}>
           <div className={styles.leftSide}>
             <div className={styles.titleContainer}>
-              <h1 className={styles.title}>{title}</h1>
+              <h1 className={styles.title} dangerouslySetInnerHTML={{__html: title}}></h1>
             </div>
 
-            <div className={styles.location}>{displayLocation}</div>
+            <div className={styles.location} dangerouslySetInnerHTML={{__html: displayLocation}}></div>
 
             <div className={styles.countdownContainer}>
               <TimeUnit
