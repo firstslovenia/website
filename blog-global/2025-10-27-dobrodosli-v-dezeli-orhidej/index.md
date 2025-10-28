@@ -5,7 +5,7 @@ authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---
 
-![](img/letalo.HEIC)
+![](img/letalo.jpg)
 
 Letošnja ekipa je svojo pot začela 27.10.2025 ob 5:00 na Brniku. Prelaganju in tehtanju prtljage je sledila logistika oddajanja robota kot kosa prtljage. Ko smo imeli karte v rokah smo opravili varnostni pregled in se napotili do vrat našega leta smo si lahko privoščili nekaj minut za oddih in ogled letal.
 <!-- truncate -->
@@ -13,7 +13,7 @@ Letošnja ekipa je svojo pot začela 27.10.2025 ob 5:00 na Brniku. Prelaganju in
 
 Let do Frankfutra je trajal približno dve uri, po pristanku smo pa hitro opravili potovalno logistiko in se parkirali pred naslednji “gate”. Preostanek časa smo porabili za iskanje in uživanje v malici ali pa igranje igric o rolkanju na konzolah letališča.
 
-![](img/tonyhwak.jpg)
+![](img/tonyhawk.jpg)
 
 Odhod iz Frankfurta ni bil težaven, smo pa bili razporejeni na zgornje in spodnje nadstropje letala. Udobno smo se namestili, klobuke posadili v naročje ali nataknili na obešalnik in se kratkočasili s spanjem, opravljanjem službenih dolžnosti ali pa gledanjem filmov. 10 urni let je minil brez težav, trajal je pa le 4 ure (če bi gledali le uro prihoda in odhoda).
 
@@ -39,4 +39,5 @@ Pot je nas in ekipi Južne Koreje ter Ekvadorja peljala mimo avtobusov z bliskav
 Po uspešni vselitvi v sobe je sledilo dokončevanje tehnične dokumentacije in sprehod do bližnjega marketa. Na sprehod sva ugotovila, da je mesto res varno (na kar je namigoval gospod ob ob vstopu v Miami). Namreč vsakih 200 metrov sva srečala varnostnika ali policista, pri čemer na sprehodu nisva srečala vse skupaj 10 ljudi v roku dobre pol ure. Dan se je končal tako, da je v trgovini Marbella gospod brez znanja španščine in angleščine uspel spremeniti električno napeljavo za plačilo s kartico tako, da sva lahko instant nudle kupila brez vstopa v trgovino. "Muchos gracias" je zaključil izkušnjo (ter odprl željo po pijači “pipa fria”) in naju popeljal na pot nazaj v stanovanje, kjer sva s pomočjo kuhalnika za čaj pripravila vrelo vodo in zaužila svoje rezance ob 1:30 po panamskem času. O tem, kako obratujemo na slabih štirih urah spanca, pa si lahko preberete v naslednji objavi.
 
 Do naslednjič,
+
 buenas noches 
