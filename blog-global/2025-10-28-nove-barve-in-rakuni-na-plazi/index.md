@@ -1,44 +1,48 @@
 ---
 slug: nove-barve-in-rakuni-na-plazi
-title: Nove barve in rakuni na plaži”
+title: Nove barve in rakuni na plaži
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---
 
 ![](img/rakuni.jpg)
 
-Letošnja ekipa je svojo pot začela 27.10.2025 ob 5:00 na Brniku. Prelaganju in tehtanju prtljage je sledila logistika oddajanja robota kot kosa prtljage. Ko smo imeli karte v rokah smo opravili varnostni pregled in se napotili do vrat našega leta smo si lahko privoščili nekaj minut za oddih in ogled letal.
+Nekaj ur spanca in sončno jutro je bilo dovolj, da smo se lahko pobrali od dolgega leta. Ob 6:20 po lokalnem času smo se dobili v drugem nadstropju in se odpravili na zajtrk. Sveže sadje, čevapi in ostala bolj tipična hotelska hrana so nas uspeli okrepčati skupaj z eksotičnimi sokovi (pasijonka, jugo ipd.). Ura je to jutro hitro tiktakala, saj smo ob 7:00 morali biti že na avtobusu. Pobrali smo stvari, zaužili sončni vzhod in po dolgem čakanju na dvigalo spravili robota iz 24 nadstropja (izmed 62-ih) v avlo.
 <!-- truncate -->
 ![](img/pogledzjutri.jpg)
 
-Let do Frankfutra je trajal približno dve uri, po pristanku smo pa hitro opravili potovalno logistiko in se parkirali pred naslednji “gate”. Preostanek časa smo porabili za iskanje in uživanje v malici ali pa igranje igric o rolkanju na konzolah letališča.
+Pot do letošnjega mesta dogajanja je hitro minila, saj smo lahko uživali ob pogledu na morje in visoke stavbe, medtem ko je na vsako uho letel jezik z drugega kontinenta. Panama Convention Center nas je pričakal s tropskim rastlinstvom in vlakom pred vhodom. Velika steklena bela avla je ob našem prihodu varovala mnoge najstnike pred soparnim zrakom gostujoče države, monotonost so pa uspeli razbiti z druženjem, glasbo in plesom. Podobno kot mnoga leta so zabavo vodili dijaki iz Venezule in Tunizije, tako da je bil dolgčas na dnu seznama prisotnosti. Naša ekipa se je parkirala na strani in prepustila dijakom prosto pot, da spoznajo svoje sovrstnike. Kmalu so nas organizatorji usmerili desno od vhoda, proti vhodu v halo, v kateri se bomo družili prihodnjih nekaj dni. Vrsta je bila vedno daljša, vendar v čredi je slamnike enostavno šteti. 
 
 ![](img/potvhalo.jpg)
 
-Odhod iz Frankfurta ni bil težaven, smo pa bili razporejeni na zgornje in spodnje nadstropje letala. Udobno smo se namestili, klobuke posadili v naročje ali nataknili na obešalnik in se kratkočasili s spanjem, opravljanjem službenih dolžnosti ali pa gledanjem filmov. 10 urni let je minil brez težav, trajal je pa le 4 ure (če bi gledali le uro prihoda in odhoda).
+Hitro smo uspeli locirati svoj štand in se takoj lotili tradicionalnega okraševanja. Polovica ekipe je obešala zastavice, medtem ko je druga polovica razpakirala robota in se lotila servisiranja ter preizkušanja.
+
+![](img/dekoriranje.jpg)
+
+Preostanek časa na dogodku je zajemal preizkušanje robota na polju, spoznavanje novih prijateljev, okušanje novih sladic, druženje s starimi kolegi in ekipno druženje ob kosilu in večerji.
 
 ![](img/driverprac.jpg)
 
-Pristanek na Floridi nam je podaril pogled na gosto poseljena naselja, bazene vode in ameriške “highway-e”. Ker nismo imeli ameriških potnih listov smo se usmerili v dolgo vrsto, na koncu katere nas je čakalo krajše izpraševanje in pridobivanje podatkov o prstnih odtisih (4 na vsaki roki in palec vsake roke). Malo preden smo prišli na vrsto smo zasledili napis na ekranu, da ne smemo prinesti hrane, zato smo morali hitro pojesti svoje čokoladke in sendviče (sicer potem ni bilo težav, vendar vsaj nismo bili potem lačni vsi). Sledil je “check-in”, kjer smo zaradi jezikovnih ovir zgubili nekaj časa, še več časa je pa ušlo, ker so pri zadnjem članu narobe zastopili situacijo in mislili, da potrebuje za vstop vizo (kljub urejenim ESTA-m). Posledično smo šibali na varnostni pregled, kjer so kot nalašč pregledali nekaj naših nahrbtnikov, tako da smo še bolj zadnjo sekundo prišli do prijave za na letalo. Nekaj minut smo imeli za oddih, vendar ne dovolj da bi lačni člani poiskali prodajalno hrane. So pa uspeli člani ekipe posneti prispevek za Social Media Challenge, v katerem so morali dokumentirati svojo pot do Paname. 
+Po prihodu v hotel smo si vzeli par minut za oddih in se dobili v avli hotela, od koder smo se odpravili ven. Ustavili smo se čez cesto v Outlet shopping centru, kjer smo v Wow shop-u našli veliko vsega. Nakup se je zaključil na blagajni s stolom za kampiranje, napihljivim stolom, sladkimi pijačami in 10 kW zvočnikom na tekočem traku. Da se ne bi sprehajali z artikli po mestu smo se oglasili na kratko v hotelskih sobah, kjer smo preizkusili stol in pozorno prebrali navodila za uporabo zvočnika, ki so bila vprašljiva, vendar sprejemljiva. 
 
 ![](img/zvocnik.jpg)
 
-Zadnjo sekundo smo izvedeli, da boarding pass-i niso dovolj in da moramo iti čez postopek prijave s pomočjo potnih listov in ESTA-e. Končno smo prispeli na letalo, zasedli pozicije in se prepustili sončnemu zahodu in tropskim sokovom (Guava-Ananas, med drugim).
+Kmalu smo se napotili naprej s ciljem, da pridemo do morja in obiščemo rakune. Pot nas je popeljala ob glavni cesti, ki je vzporedna obali. Tekom hoje smo videli kar nekaj spuščenih taksijev in avtov z žarometi modre ali rumene barve. Tokrat so nam prehodi za pešče bili naklonjeni in tipke za le te so delale kot morajo. Prehodi za prečkanje glavne ceste so zelo redki, namen le teh pa je da pešci pridejo do otočka na sredini glavne ceste. Otoček zajema parking in rdeč most, preko katerega je mogoče prečkati še en par pasov glavne ceste, da pridemo do obale.
 
 ![](img/sprehod.jpg)
 ![](img/cesta.jpg)
 
-Ko smo prispeli v Panamo, smo srečali gospo s "First Gobal” napisom, ki nas je pospremila na drugo stran letališča (dobesedno) peš, da smo opravili Inšpekcijo, kjer so prav tako vzeli naše prstne odtise in sliko. Nato smo se slikali ob zastavi Paname, pobrali prtljago in se odpravili do izhoda, kjer smo bili pospremljeni na avtobus s turškim interierjem (tepihi in tapete).
+Med sprehodom po obali smo na široki potki srečali veliko tekačev in ozkih klopic. Ob naši trasi je potekala tudi pot za kotalkarje in kolesarje. Na poti do rakunov smo šli mimo nekaj igrišč, merilnika UV svetlobe in nekaj vodnjakov. Voda v Panami do zdaj ni najokusnejša. Kmalu so našo pozornost pritegnile speče mačke na steni ob obali. Za njimi smo videli bleščeče oči z majhnimi rokami blizu. Za mačkami so bili trije rakuni na kamnih ob plaži. S fotografiranjem smo hitro obupali, saj so bili skriti v temi noči. Smo pa naleteli na novo štirico rakunov malo za tem. Veselo so pristopili do nas, v upanju da jim bomo ponudili večerjo. Ko so ugotovili, da od tega ne bo nič, so se napotili do bližnjega koša za smeti, da poskusijo svojo srečo. Takrat smo ugotovili, da so kar spretni pri plezanju tako v smetnjake kot na drevesa. V tem procesu se je eden izmed rakunov znašel na nasprotni strani ograje (ne vemo kako) in ni znal priti ven iz otroškega igrišča. Nekaj časa se je mučil z ograjo, vendar je ni znal preplezati. Kmalu smo mu šli pomagati in ga usmerjali ven, pri čemer je nabolje razumel ortonormirano 3D bazo. Ko smo jih pospremili domov (do stene ob plaži) smo se napotili domov, kjer je našo pozornost ujela neznana vrsta ptice, ki je bila podobna lastovki. Kot zelo laični biologi smo jo analizirali in kmalu obupali z raziskavo.
 
-![](img/rakuni.jpg)
+![](img/rakuni2.jpg)
 
-Pot je nas in ekipi Južne Koreje ter Ekvadorja peljala mimo avtobusov z bliskavicami na vrhu, preko avtocest in mimo blokov, da prijetno osvetljenega mesta. V hotelu Megapolis smo srečali v avli še nekaj ekip, ki so čakali na svoje sobe. Očitno se je logistika za sobe precej zakomplicirala, saj je vsaka ekipa na recepciji preživel po 30 minut, preden so dobili sobe, ki so sproti postale dostopne. Po uri in pol čakanja sva mentorja prišla na vrsto in počasi izpolnila podatke ter dočakala dostopnost sob, medtem ko so ostale ekipe se pritoževale. Postopek je bil sicer dolg, vendar problem sta bila utrujenost in pozna ura.
+Pot domov nas je popeljala po drugi strani ceste nazaj, od koder smo se kasneje priključili nazaj na mentorjema znano traso nazaj do hotela Megapolis.
 
 ![](img/namostu.jpg)
 ![](img/zabakip.jpg)
 
-Po uspešni vselitvi v sobe je sledilo dokončevanje tehnične dokumentacije in sprehod do bližnjega marketa. Na sprehod sva ugotovila, da je mesto res varno (na kar je namigoval gospod ob ob vstopu v Miami). Namreč vsakih 200 metrov sva srečala varnostnika ali policista, pri čemer na sprehodu nisva srečala vse skupaj 10 ljudi v roku dobre pol ure. Dan se je končal tako, da je v trgovini Marbella gospod brez znanja španščine in angleščine uspel spremeniti električno napeljavo za plačilo s kartico tako, da sva lahko instant nudle kupila brez vstopa v trgovino. "Muchos gracias" je zaključil izkušnjo (ter odprl željo po pijači “pipa fria”) in naju popeljal na pot nazaj v stanovanje, kjer sva s pomočjo kuhalnika za čaj pripravila vrelo vodo in zaužila svoje rezance ob 1:30 po panamskem času. O tem, kako obratujemo na slabih štirih urah spanca, pa si lahko preberete v naslednji objavi.
+Po vrnitvi v hotel smo namenili par minut planiranju za naslednji dan in se nato odpravili vsi v svoja prenočišča. Jutri nas čaka še nekaj dela na robotu in otvoritvena prireditev, tako da energija bo zelo dobrodošla.
 
 Do naslednjič,
 
-buenas noches 
+Gudnaet bae mi go fo slip
