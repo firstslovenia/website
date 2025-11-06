@@ -1,6 +1,6 @@
 ---
 slug: proslava-za-nov-mehanizem
-title: “Proslava za nov mehanizem”
+title: "Proslava za nov mehanizem"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---

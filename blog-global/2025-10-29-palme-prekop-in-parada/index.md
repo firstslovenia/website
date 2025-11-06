@@ -1,6 +1,6 @@
 ---
 slug: palme-prekop-in-parada
-title: “Palme, prekop in parada”
+title: "Palme, prekop in parada"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---

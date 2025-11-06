@@ -1,6 +1,6 @@
 ---
 slug: se-kuscarji-razumejo-foro
-title: “Še kuščarji razumejo foro”
+title: "Še kuščarji razumejo foro"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---

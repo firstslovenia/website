@@ -1,6 +1,6 @@
 ---
 slug: dobrodosli-v-dezeli-orhidej
-title: “Dobrodošli v deželi orhidej!”
+title: "Dobrodošli v deželi orhidej!"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---
