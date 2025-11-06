@@ -1,6 +1,6 @@
 ---
 slug: po-kokos-pa-domov
-title: "Po kokos pa domov”
+title: "Po kokos pa domov"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---

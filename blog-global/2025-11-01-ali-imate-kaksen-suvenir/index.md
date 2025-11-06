@@ -1,6 +1,6 @@
 ---
 slug: ali-imate-kaksen-suvenir
-title: "Ali imate kakšen suvenir?”
+title: "Ali imate kakšen suvenir?"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---
