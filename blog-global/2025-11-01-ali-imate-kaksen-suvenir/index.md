@@ -13,15 +13,15 @@ generic uvod
 
 Danes nas čakajo 3 tekme, zato smo zgodaj začeli s prvo tekmo dneva, ki jo organizatorji beležijo pod zaporedno številko 299. Tokrat smo krasili drečo stran skupaj z ekipama iz Združenih držav Tanzanije in Češke. Nadgradnje na robotu in dobra strategije sta se poplačala in smo uspeli pričarati izzid 74:68 na našo stran. Tokrat smo po dveh minutah in pol segli v roke predstavnikom San Marina, Nizozemske in Latvije.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/live/W_ZVyhQoIOg?si=dEkPTRkAAoVVft4v&t=1795" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_ZVyhQoIOg?si=Yy6hiWANcxhHo2px&amp;start=1795" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Kratka pavza in smo že drveli nazaj v čakalno vrsto. Tokrat smo bili poparčkani s sosedi in smo se lahko zbližali z Italijani, trojico so pa dopolnili še prestavniki Afganistana. Igra na polju 4 je bila napeta, vendar žal se je tekma št. 317 končala z zmago na strani kolegov iz Djibouti-ja, Cipra in Konga (36:40).
 
-<iframe title="YouTube video player" src="https://www.youtube.com/live/W_ZVyhQoIOg?si=bfihoQAYWC71bRAa&t=4331" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_ZVyhQoIOg?si=87uNzGz-phkbgBGo&amp;start=4331" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Da zaključimo spored smo pristopili še kvalifikacijski igri s številko 337 na polju 1. Tokrat smo imeli čast soustvarjati strategijo in igro skupaj z Nikaragvo in Kirgizistanom. Naš poskus na tekmovanju First Global Challenge smo zaključili z zmago proti (oz. z, saj želimo zmagati kot skupnost) Mozambiku (pri katerih je nastopal le human player, voznikov in robota ni bilo), Paragvaju in Arubi. Zaključne številke na ekranu so izpisale 48:40. Statistika za Slovenijo je s tem beležila 8 zmag, 2 izenačenji in 2 izgubi. 
 
-<iframe title="YouTube video player" src="https://www.youtube.com/live/FbAeVwfciMQ?si=StnQczCne1g5tWIS&t=7566" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FbAeVwfciMQ?si=cqvyOio84_0DkONZ&amp;start=7566" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Bližal se je konec dogodka, zato smo morali začeti pospravljati štand. Preden smo se tega lotili smo poskrbeli, da smo se slikali z majicami naših sponzorjev.
 

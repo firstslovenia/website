@@ -13,23 +13,23 @@ Nov dan, nove prilike za uspeh. Po jutranjem obredu smo se zapodili v štand, kj
 
 Razlika je ta, da smo tokrat namesto servo motorjev uporabili core hex motorje z zobniškim prenosom, saj so omenjeni motorji bolj robustni. Kmalu je nastopila prva priložnost, da jih preizkusimo izven štanda in poskusnih polj. Prvo tekmo današnjega dne smo igrali skupaj z Virgin Islands in Indijo. Izboljšava rok se je hitro pokazala za koristno, saj smo uspeli nabrati večje število točk kot do zdaj in prinesti v štand zmago z rezultatom 44:42. Kolegi na nasproṭ̣̣ni strani polja za zastopali države Izrael, Guyana in Malta.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/live/19KenSMx4QI?si=GVBWe2qoYR9MaTk_&t=4601" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19KenSMx4QI?si=Hf-_W4US8O6ZEngT&amp;start=4601" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Tekmo z zaporedno številko 181 smo hitro dočakali in oddrveli z robotom na škatli do čakalne vrste za uradne tekme. Tokrat smo krasili rdečo alianco v družbi Bermude in Kosova. Tokrat ni bilo boljše aliance, le enakovredni. Domov smo prinesli 57 točk, tako naša alianca kot Eritreja, Luksemburg in Turčija.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/live/IMzAHjn2oqA?si=WednWYk5ZUymf9VP&t=10396" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IMzAHjn2oqA?si=Ea5T0Fw31TRV7dTH&amp;start=10396" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Dan nam ni dajal dolgih odmorov, kvečjem za kak prigrizek iz druge države ali pa sprehod in debato. Zvok troblje so kmalu predvajali na polju 3 in s tem naznanili začetek tekme 206. Tokrat smo bili na modri strani skupaj z Bulgarijo in Korejo. Za čim boljši uspeh smo sodelovali z "nasprotniki", tokrat s Sirijo, Savdsko arabijo in Švico. Še ena zmaga za nas z rezultatom 48:45. Trenutna statistika za Slovenijo beleži 4 zmage, 2 izenačenji in 1 izgubo.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/live/19KenSMx4QI?si=6dmyQJNPEmM6jirN&t=17720" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19KenSMx4QI?si=VUtT1El6wE0lqSFM&amp;start=17720" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Bližmo se udarni tekmi na sporedu, vendar še nismo čisto tam. Loči nas še igra z zaporedno številko 232, tekom katere smo stali ob strani Sao Tome in Principe in Eswatini. Uspeli smo dvigniti povprečje še malo z zmagovalnim izzidom 58:56 proti Združenim Arabskim Emiratom, Cookovim otokom in Beninu.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/live/DzvYXbAkqIc?si=9E5GE-1OnHMXAQch&t=21441" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzvYXbAkqIc?si=cbmBy9HnVEsqkxuz&amp;start=21441" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ura je napočila za udarno tekmo na udarnem polju. Tokrat smo bili na polju 5 poparčkani z nekaterimi "velikani". Nam v podporo so bili predstavniki Kazahstana in Združenih držav Amerike, tako da smo imeli strategijo pripravljeno in smo se dobro počutili pred igro. Na nasprotni strani smo lahko v oči pogledali kolege iz Venezuele, Papua Nove Gvineje in Brunei Derussalam. Tokrat smo med "velikani" mi bili ta večji in prinseli domov prijeten dvig povprečja z izidom 114:98.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/live/yYWFSdB9Fd8?si=JVfxp8Nmgm_2_OhW&t=24906" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yYWFSdB9Fd8?si=Z0xxCRFw532uYXE2&amp;start=24906" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ![](img/vecerja.jpg)
