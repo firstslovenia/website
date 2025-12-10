@@ -33,7 +33,7 @@ Zaradi unikatnosti in učinkovitosti podvozja so se fantje prijavili na t.i. Ski
 
 Prve igre so se kmalu začele in z njimi grobe ugotovitve. Zaporedna igra s številko 30, v kateri smo ob strani imeli Države Mikronezije in Tajvan je bila točkovno slaba, vendar nam je dala pogled na realno stanje robota. To igro smo za las zmagali z rezultatom 21:18 proti modri alianci, ki so jo tvorile Japonska, Ukrajina in Srbija. Tekom tekme smo potrdili težavo - servo motorji za mehanizem rok nisi bili dovolj trpežni. V povprečju smo uničili po en servo motor na poskusno/kvalifikacijsko tekmo do zdaj. Zavedali smo se, da nimamo dovolj časa za zamenjavo celotnega mehanizma, zato smo zadevo sproti servisirali in pazljivo manevrirali za zdaj.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/live/bipuBmCye9g?si=wFrkS86glN6TlFe8&t=3782" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bipuBmCye9g?si=y4YNw-t2Wdt7doii&amp;start=3782" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Drugo igro današnjega dneva smo pa popestrili na prvem polju (izmed petih) v areni. Tokrat smo bili poparčkani z Dansko in Gano v modro alianco. Nezanesljivost rok je bilo mogoče občutiti v točkah, saj smo to igro zaključili z rezultatom 25:22. Zmagovalen aplavz za igro številka 49 je prejela naša polovica igrišča, za tem smo pa kolegom iz Bosne in Hercegovine, Mavritanije in Guatemale segli v roke in se napotili ven iz arene.
 
