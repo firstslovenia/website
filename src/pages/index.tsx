@@ -78,21 +78,21 @@ export default function Home(): ReactNode {
 						</h1>
 
 						<CountdownEventCard
-							title="<em>FIRST </em>  Tech Challenge 2025 - Germany Championship "
-							location="Königin-Katharina-Stift, Schillerstraße 5, Stuttgart, Germany"
-							displayLocation="Stuttgart, Germany"
-							startTime={new Date("2026-01-31T08:15:00+01:00")}
-							endTime={new Date("2026-01-31T18:30:00+01:00")}
-							coordinates={[48.781248, 9.185488]} // https://xkcd.com/2170
-						/>
-
-						<CountdownEventCard
 							title="<em>FIRST </em>  Tech Challenge 2025 - Italy Championship "
 							location=" 	Villaggio Accademia, Via Cristoforo Colombo 18, Cesenatico, Italy "
 							displayLocation="Cesenatico, Italy"
 							startTime={new Date("2026-03-05T09:00:00+01:00")}
 							endTime={new Date("2026-03-07T16:00:00+01:00")}
 							coordinates={[44.216507, 12.386424]} // https://xkcd.com/2170
+						/>
+
+						<CountdownEventCard
+							title="<em>FIRST </em> Global Challenge 2026"
+							location=" Incheon, South Korea"
+							displayLocation="Incheon, South Korea"
+							startTime={new Date("2026-10-07T09:00:00+09:00")}
+							endTime={new Date("2026-10-10T16:00:00+09:00")}
+							coordinates={[37.4468827, 126.6548296]} // https://xkcd.com/2170
 						/>
 
 						{/* <p
