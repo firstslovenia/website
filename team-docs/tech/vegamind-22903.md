@@ -1,5 +1,8 @@
 # #22903 VegaMind
 
+# Decode 2025/2026
+- [Engineering Portfolio](/files/team-docs/vegamind-22903/2025/engineering-portfolio.pdf)
+
 # Into the Deep 2024/2025
 - [Engineering Portfolio](/files/team-docs/vegamind-22903/2024/engineering-portfolio.pdf)
 
