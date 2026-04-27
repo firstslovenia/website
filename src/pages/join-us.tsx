@@ -34,7 +34,7 @@ export default function Contact(): ReactNode {
               __html: translate({
                 id: "join-us.mentors",
                 message:
-                  'If you are interested in starting your own team check our <a href="/mentor">mentor page</a>. For additional information, join the Discord server above or contact us via email at <a href="mailto:info@firstslo.si">info@firtslo.si</a>.',
+                  'If you are interested in starting your own team check our <a href="/mentor">mentor page</a>. For additional information, join the Discord server above or contact us via email at <a href="mailto:info@firstslo.si">info@firstslo.si</a>.',
               }),
             }}
           ></p>

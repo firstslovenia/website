@@ -54,46 +54,68 @@ export default function Home(): ReactNode {
               }}
             ></p>
             <div className={styles.videos}>
-              <h3
-                dangerouslySetInnerHTML={{
-                  __html: translate({
-                    id: "home.what-we-do.video.chall",
-                    message:
-                      "Theme for this year's challenge, held in <em>Panama City from 29th October to 1st November</em>",
-                  }),
-                }}
-              ></h3>
-              <iframe
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/C81IOjfVa3I"
-                title="YouTube video player"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerPolicy="strict-origin-when-cross-origin"
-                allowFullScreen
-                className={styles.video}
-              ></iframe>
-              <br />
-              <h3
-                dangerouslySetInnerHTML={{
-                  __html: translate({
-                    id: "home.what-we-do.video.robot",
-                    message:
-                      "Robot game for this year's challenge, held in <em>Panama City from 29th October to 1st November</em>",
-                  }),
-                }}
-              ></h3>
-              <iframe
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/ssNS1lYT1Fs"
-                title="YouTube video player"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerPolicy="strict-origin-when-cross-origin"
-                allowFullScreen
-                className={styles.video}
-              ></iframe>
-            </div>
+							<h3
+								dangerouslySetInnerHTML={{
+									__html: translate({
+										id: "home.what-we-do.video.location",
+										message:
+											"This year's location announcement",
+									}),
+								}}
+							></h3>
+							<iframe
+								width="560"
+								height="315"
+								src="https://www.youtube.com/embed/rgRwB3TDE8E"
+								title="YouTube video player"
+								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+								referrerPolicy="strict-origin-when-cross-origin"
+								allowFullScreen
+								className={styles.video}
+							></iframe>
+							<div style={{ height: '2em' }}></div>
+							<h3
+								dangerouslySetInnerHTML={{
+									__html: translate({
+										id: "home.what-we-do.video.chall",
+										message:
+											"Theme for this year's challenge, held in <em>Incheon, South Korea from 7th to 10th October</em>",
+									}),
+								}}
+							></h3>
+							<iframe
+								width="560"
+								height="315"
+								src="https://www.youtube.com/embed/gXTMkNImZG8"
+								title="YouTube video player"
+								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+								referrerPolicy="strict-origin-when-cross-origin"
+								allowFullScreen
+								className={styles.video}
+							></iframe>
+							{/* <h3
+								dangerouslySetInnerHTML={{
+									__html: translate({
+										id: "home.what-we-do.video.robot",
+										message:
+											"Robot game for this year's challenge, held in <em>Panama City from 29th October to 1st November</em>",
+									}),
+								}}
+							></h3>
+							<iframe
+								width="560"
+								height="315"
+								src="https://www.youtube.com/embed/ssNS1lYT1Fs"
+								title="YouTube video player"
+								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+								referrerPolicy="strict-origin-when-cross-origin"
+								allowFullScreen
+								className={styles.video}
+							></iframe> */}
+						</div>
+
+						<div style={{ height: '5em' }}></div>
+
           </div>
         </section>
       </main>

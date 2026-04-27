@@ -385,6 +385,9 @@
   "home.what-we-do.video.chall": {
     "message": "Tema letošnjega tekmovanja, ki bo v <em>Panami od 29. oktobra do 1. novembra.</em>"
   },
+  "home.what-we-do.video.location": {
+    "message": "Naznanitev lokcije ltočnjega tekmovanja"
+  },
   "home.what-we-do.video.robot": {
     "message": "Robotska igra letošnjega tekmovanja, ki bo v <em>Panami od 29. oktobra do 1. novembra.</em>"
   },

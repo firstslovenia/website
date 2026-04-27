@@ -70,6 +70,9 @@ export default function Home(): ReactNode {
                 className={styles.video}
               ></iframe>
             </div>
+
+						<div style={{ height: '5em' }}></div>
+
           </div>
         </section>
       </main>

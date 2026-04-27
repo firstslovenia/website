@@ -47,7 +47,7 @@ export default function Home(): ReactNode {
 								__html: translate({
 									id: "home.who-are-we.content",
 									message:
-										"𝐹𝐼𝑅𝑆𝑇 Slovenia is a group of high school students and mentors who like to build robots and with their help confront jucy challanges. <em>We</em> represent the country of Slovenia in international robotics competitions and we need all the help we can get.",
+										"𝐹𝐼𝑅𝑆𝑇 Slovenia is a group of high school students and mentors who like to build robots and with their help confront juicy challenges. <em>We</em> represent the country of Slovenia in international robotics competitions and we need all the help we can get.",
 								}),
 							}}
 						></p>
@@ -78,12 +78,21 @@ export default function Home(): ReactNode {
 						</h1>
 
 						<CountdownEventCard
-							title="<em>FIRST </em>  Tech Challenge 2025 - Italy Championship "
-							location=" 	Villaggio Accademia, Via Cristoforo Colombo 18, Cesenatico, Italy "
-							displayLocation="Cesenatico, Italy"
-							startTime={new Date("2026-03-05T09:00:00+01:00")}
-							endTime={new Date("2026-03-07T16:00:00+01:00")}
-							coordinates={[44.216507, 12.386424]} // https://xkcd.com/2170
+							title="<em>FIRST </em>  Tech Challenge 2025 - European Premier Event "
+							location=" Indoor-Sportcentrum Eindhoven, Theo Koomenlaan 1, Eindhoven, NB Netherlands "
+							displayLocation="Eindhoven, Netherlands"
+							startTime={new Date("2026-06-17T09:00:00+01:00")}
+							endTime={new Date("2026-06-20T16:00:00+01:00")}
+							coordinates={[51.412352, 5.481164]} // https://xkcd.com/2170
+						/>
+
+						<CountdownEventCard
+							title="<em>FIRST </em>  Tech Challenge 2025 - İstanbul Premier Event "
+							location="	Ataköy Turkiye Athletics Federation Athletics Hall- Ataköy Türkiye Atletizm Federasyonu Atletizm Alanı - Bakırköy İstanbul, Zuhuratbaba, Dr. Remzi Kazancıgil Cd. No:32, İstanbul, 34 Türkiye "
+							displayLocation="İstanbul, Türkiye"
+							startTime={new Date("2026-06-26T09:00:00+02:00")}
+							endTime={new Date("2026-06-28T16:00:00+02:00")}
+							coordinates={[40.988575, 28.854008]} // https://xkcd.com/2170
 						/>
 
 						<CountdownEventCard
@@ -92,7 +101,7 @@ export default function Home(): ReactNode {
 							displayLocation="Incheon, South Korea"
 							startTime={new Date("2026-10-07T09:00:00+09:00")}
 							endTime={new Date("2026-10-10T16:00:00+09:00")}
-							coordinates={[37.4468827, 126.6548296]} // https://xkcd.com/2170
+							coordinates={[37.388812, 126.646834]} // https://xkcd.com/2170
 						/>
 
 						{/* <p
@@ -111,24 +120,43 @@ export default function Home(): ReactNode {
 							<h3
 								dangerouslySetInnerHTML={{
 									__html: translate({
-										id: "home.what-we-do.video.chall",
+										id: "home.what-we-do.video.location",
 										message:
-											"Theme for this year's challenge, held in <em>Panama City from 29th October to 1st November</em>",
+											"This year's location announcement",
 									}),
 								}}
 							></h3>
 							<iframe
 								width="560"
 								height="315"
-								src="https://www.youtube.com/embed/C81IOjfVa3I"
+								src="https://www.youtube.com/embed/rgRwB3TDE8E"
 								title="YouTube video player"
 								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 								referrerPolicy="strict-origin-when-cross-origin"
 								allowFullScreen
 								className={styles.video}
 							></iframe>
-							<br />
+							<div style={{ height: '2em' }}></div>
 							<h3
+								dangerouslySetInnerHTML={{
+									__html: translate({
+										id: "home.what-we-do.video.chall",
+										message:
+											"Theme for this year's challenge, held in <em>Incheon, South Korea from 7th to 10th October</em>",
+									}),
+								}}
+							></h3>
+							<iframe
+								width="560"
+								height="315"
+								src="https://www.youtube.com/embed/gXTMkNImZG8"
+								title="YouTube video player"
+								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+								referrerPolicy="strict-origin-when-cross-origin"
+								allowFullScreen
+								className={styles.video}
+							></iframe>
+							{/* <h3
 								dangerouslySetInnerHTML={{
 									__html: translate({
 										id: "home.what-we-do.video.robot",
@@ -146,9 +174,11 @@ export default function Home(): ReactNode {
 								referrerPolicy="strict-origin-when-cross-origin"
 								allowFullScreen
 								className={styles.video}
-							></iframe>
+							></iframe> */}
 						</div>
 
+						<div style={{ height: '5em' }}></div>
+						
 						<h1>
 							{translate({
 								id: "home.donations.title",
@@ -160,7 +190,7 @@ export default function Home(): ReactNode {
 								__html: translate({
 									id: "home.donations.content",
 									message:
-										'Application fees and travel expenses for the team are quite substantial, so we’re looking to raise money from donors and sposnors. If you’d like to help us out, please reach out to the following email <a href="mailto:info@firstglobal.si">info@firstglobal.si</a>. It’d really help us out! To see who our current sponsors and donors are visit the page with the list of our supporters.',
+										'Application fees and travel expenses for the team are quite substantial, so we’re looking to raise money from donors and sponsors. If you’d like to help us out, please reach out to the following email <a href="mailto:info@firstglobal.si">info@firstglobal.si</a>. It’d really help us out! To see who our current sponsors and donors are visit the page with the list of our supporters.',
 								}),
 							}}
 						></p>

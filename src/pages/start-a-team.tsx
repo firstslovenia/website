@@ -47,7 +47,7 @@ export default function Sponsors(): ReactNode {
               {translate({
                 id: "mentor.needed-hardware.content",
                 message:
-                  "As opposed to FLL, 𝐹𝐼𝑅𝑆𝑇 Tech Challenge teams have more freedom of choice. Limits on hardware are mostly for electronics (Control Hub, Driver Hub, speciffic motors and batteries only).",
+                  "As opposed to FLL, 𝐹𝐼𝑅𝑆𝑇 Tech Challenge teams have more freedom of choice. Limits on hardware are mostly for electronics (Control Hub, Driver Hub, specific motors and batteries only).",
               })}
             </p>
           </div>
@@ -77,7 +77,7 @@ export default function Sponsors(): ReactNode {
               {translate({
                 id: "mentor.more-info.other-content",
                 message:
-                  " (registration of teams outside North America is free). In the near future we we'll also hold a presentation for mentors, where we'll provide information including how we would like to help future teams in Slovenia (technical mentorship). For more information contact us at ",
+                  " (registration of teams outside North America is free). In the near future we'll also hold a presentation for mentors, where we'll provide information including how we would like to help future teams in Slovenia (technical mentorship). For more information contact us at ",
               })}
               <a href="mailto:info@firstglobal.si">info@firstglobal.si</a>.
             </p>
