@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "𝐹𝐼𝑅𝑆𝑇 Tech Slovenija",
+    "message": "𝐹𝐼𝑅𝑆𝑇 Slovenija",
     "description": "The title in the navbar"
   },
   "logo.alt": {
@@ -34,5 +34,29 @@
   "item.label.𝐹𝐼𝑅𝑆𝑇 Global Slovenia": {
     "message": "𝐹𝐼𝑅𝑆𝑇 Global Slovenija",
     "description": "Navbar item with label 𝐹𝐼𝑅𝑆𝑇 Global Slovenia"
+  },
+  "item.label.Global": {
+    "message": "Global",
+    "description": "Navbar item with label Global"
+  },
+  "item.label.Tech": {
+    "message": "Tech",
+    "description": "Navbar item with label Tech"
+  },
+  "item.label.Join us": {
+    "message": "Pridruži se",
+    "description": "Navbar item with label Join us"
+  },
+  "item.label.Home": {
+    "message": "Home",
+    "description": "Navbar item with label Home"
+  },
+  "item.label.Join as a member": {
+    "message": "Pridruži se ekipi",
+    "description": "Navbar item with label Join as a member"
+  },
+  "item.label.Start a new team": {
+    "message": "Začni svojo ekipo",
+    "description": "Navbar item with label Start a new team"
   }
 }

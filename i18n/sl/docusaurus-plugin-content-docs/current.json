@@ -10,5 +10,9 @@
   "sidebar.projectsSidebar.category.Project Strand": {
     "message": "Project Strand",
     "description": "The label for category Project Strand in sidebar projectsSidebar"
+  },
+  "sidebar.projectsSidebar.category.FTC Tui": {
+    "message": "FTC Tui",
+    "description": "The label for category FTC Tui in sidebar projectsSidebar"
   }
 }

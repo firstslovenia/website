@@ -17,7 +17,7 @@
   },
   "link.item.label.Past teams": {
     "message": "Bivše ekipe",
-    "description": "The label of footer link with label=Past teams linking to /past-teams/team-2024-2025"
+    "description": "The label of footer link with label=Past teams linking to /past-teams-tech/team-2024-2025"
   },
   "link.item.label.Maven Repository": {
     "message": "Maven Repository",

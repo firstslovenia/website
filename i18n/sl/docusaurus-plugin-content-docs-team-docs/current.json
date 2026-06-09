@@ -2,5 +2,13 @@
   "version.label": {
     "message": "Next",
     "description": "The label for version current"
+  },
+  "sidebar.projectsSidebar.category.𝐹𝐼𝑅𝑆𝑇 Global Challenge": {
+    "message": "𝐹𝐼𝑅𝑆𝑇 Global Challenge",
+    "description": "The label for category 𝐹𝐼𝑅𝑆𝑇 Global Challenge in sidebar projectsSidebar"
+  },
+  "sidebar.projectsSidebar.category.𝐹𝐼𝑅𝑆𝑇 Tech Challenge": {
+    "message": "𝐹𝐼𝑅𝑆𝑇 Tech Challenge",
+    "description": "The label for category 𝐹𝐼𝑅𝑆𝑇 Tech Challenge in sidebar projectsSidebar"
   }
 }
