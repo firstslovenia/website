@@ -78,24 +78,6 @@ export default function Home(): ReactNode {
 						</h1>
 
 						<CountdownEventCard
-							title="<em>FIRST </em>  Tech Challenge 2025 - European Premier Event "
-							location=" Indoor-Sportcentrum Eindhoven, Theo Koomenlaan 1, Eindhoven, NB Netherlands "
-							displayLocation="Eindhoven, Netherlands"
-							startTime={new Date("2026-06-17T09:00:00+01:00")}
-							endTime={new Date("2026-06-20T16:00:00+01:00")}
-							coordinates={[51.412352, 5.481164]} // https://xkcd.com/2170
-						/>
-
-						<CountdownEventCard
-							title="<em>FIRST </em>  Tech Challenge 2025 - İstanbul Premier Event "
-							location="	Ataköy Turkiye Athletics Federation Athletics Hall- Ataköy Türkiye Atletizm Federasyonu Atletizm Alanı - Bakırköy İstanbul, Zuhuratbaba, Dr. Remzi Kazancıgil Cd. No:32, İstanbul, 34 Türkiye "
-							displayLocation="İstanbul, Türkiye"
-							startTime={new Date("2026-06-26T09:00:00+02:00")}
-							endTime={new Date("2026-06-28T16:00:00+02:00")}
-							coordinates={[40.988575, 28.854008]} // https://xkcd.com/2170
-						/>
-
-						<CountdownEventCard
 							title="<em>FIRST </em> Global Challenge 2026"
 							location=" Incheon, South Korea"
 							displayLocation="Incheon, South Korea"
