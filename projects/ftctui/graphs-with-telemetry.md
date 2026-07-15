@@ -62,7 +62,7 @@ with open(sys.argv[1], 'r') as file:
 		time.append(float(packet["t_elapsed_ms"]) / 1000.0)
 
 		# Potentially get the value from the packet's entries
-		power_e = entry["entries"].get("Motor power")
+		power_e = packet["entries"].get("Motor power")
 
 		# If the entry contained that value
 		if power_e is not None:
