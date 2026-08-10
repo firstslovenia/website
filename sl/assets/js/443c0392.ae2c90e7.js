@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkftcwebsite||=[]).push([[7039],{60527(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"team-docs"}')}}]);

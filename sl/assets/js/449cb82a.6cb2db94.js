@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkftcwebsite||=[]).push([[4174],{20697(i){i.exports=JSON.parse('{"authors":[{"name":"David Zindovi\u0107","page":{"permalink":"/sl/ftc/blog/authors/david-zindovic"},"imageURL":"/sl/img/david.png","key":"david-zindovic","count":3}]}')}}]);

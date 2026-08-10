@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkftcwebsite||=[]).push([[7066],{16184(s){s.exports=JSON.parse('{"blogBasePath":"/fgc/blog","blogTitle":"Blog","authorsListPath":"/fgc/blog/authors"}')}}]);

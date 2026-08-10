@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkftcwebsite=self.webpackChunkftcwebsite||[]).push([[9914],{25202:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/fgc/blog/page/5","page":5,"postsPerPage":10,"totalPages":5,"totalCount":47,"previousPage":"/fgc/blog/page/4","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
