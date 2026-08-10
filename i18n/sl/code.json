@@ -457,11 +457,17 @@
   "stats.students": {
     "message": "dijakov od leta 2017"
   },
-  "stats.seasons": {
-    "message": "sezon 𝐹𝐼𝑅𝑆𝑇 Global/Tech Challenge"
+  "stats.fgc-seasons": {
+    "message": "sezon 𝐹𝐼𝑅𝑆𝑇 Global Challenge"
   },
-  "stats.awards": {
-    "message": "nagrad na 𝐹𝐼𝑅𝑆𝑇 Global/Tech Challenge"
+  "stats.ftc-seasons": {
+    "message": "sezon 𝐹𝐼𝑅𝑆𝑇 Tech Challenge"
+  },
+  "stats.fgc-awards": {
+    "message": "nagrad na 𝐹𝐼𝑅𝑆𝑇 Global Challenge"
+  },
+  "stats.ftc-awards": {
+    "message": "nagrad na 𝐹𝐼𝑅𝑆𝑇 Tech Challenge"
   },
   "stats.ftc": {
     "message": "aktivni 𝐹𝐼𝑅𝑆𝑇 Tech Challenge ekipi"

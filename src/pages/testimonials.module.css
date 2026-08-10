@@ -101,10 +101,16 @@
 	color: var(--ifm-color-primary);
 }
 
-.pdfFrame {
+.previewScroll {
 	flex: 1;
+	overflow-y: auto;
+	background: var(--ifm-color-emphasis-200);
+}
+
+.previewImage {
+	display: block;
 	width: 100%;
-	border: none;
+	height: auto;
 }
 
 @media screen and (max-width: 600px) {

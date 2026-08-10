@@ -48,7 +48,11 @@ Stran `/testimonials` prikazuje kroge s slikami članov, klik odpre njihov osebn
    gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -dColorImageResolution=150 -sOutputFile=stisnjen.pdf original.pdf
    ```
 2. Kvadratno sliko obraza (vsaj 300×300 px, format `.jpg`) daj v `static/img/testimonials/ime-priimek.jpg`.
-3. V `src/pages/testimonials.tsx` dodaj nov vnos v tabelo `profiles` na vrhu datoteke (ime, program (FTC/FGC), pot do slike in PDF-ja).
+3. Ustvari slikovni predogled PDF-ja (na strani se prikaže slika, ker mobilni brskalniki PDF-ja ne znajo prikazati v oknu):
+   ```sh
+   pdftoppm -jpeg -r 150 -singlefile static/files/testimonials/ime-priimek.pdf static/img/testimonials/previews/ime-priimek
+   ```
+4. V `src/pages/testimonials.tsx` dodaj nov vnos v tabelo `profiles` na vrhu datoteke (ime, programi (FLL/FTC/FGC), poti do slike, PDF-ja in predogleda).
 
 ## Statistika
 Statistika (število dijakov, nagrad, mentorjev ...) je definirana v `src/components/stats.ts` in se prikazuje na začetni strani ter na strani `/testimonials`. Število sezon FGC se izračuna samodejno iz letnice.

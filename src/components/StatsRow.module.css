@@ -1,7 +1,6 @@
 .statsRow {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
 	gap: 1rem;
 	margin: 2rem 0;
 }
@@ -12,11 +11,15 @@
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	flex: 1 1 150px;
-	max-width: 220px;
 	padding: 1.25rem 1rem;
 	border-radius: 12px;
 	background: var(--ifm-color-emphasis-100);
+}
+
+@media screen and (max-width: 996px) {
+	.statsRow {
+		grid-template-columns: repeat(2, 1fr);
+	}
 }
 
 .value {

@@ -12,6 +12,7 @@ type Profile = {
 	programs: string;
 	image: string;
 	pdf: string;
+	preview: string;
 };
 
 const profiles: Profile[] = [
@@ -20,18 +21,21 @@ const profiles: Profile[] = [
 		programs: "FTC · FGC",
 		image: "/img/testimonials/gabrijel-steiner.jpg",
 		pdf: "/files/testimonials/gabrijel-steiner.pdf",
+		preview: "/img/testimonials/previews/gabrijel-steiner.jpg",
 	},
 	{
 		name: "Jaka Kovač",
 		programs: "FLL · FTC · FGC",
 		image: "/img/testimonials/jaka-kovac.jpg",
 		pdf: "/files/testimonials/jaka-kovac.pdf",
+		preview: "/img/testimonials/previews/jaka-kovac.jpg",
 	},
 	{
 		name: "Ana Ločnikar",
 		programs: "FTC · FGC",
 		image: "/img/testimonials/ana-locnikar.jpg",
 		pdf: "/files/testimonials/ana-locnikar.pdf",
+		preview: "/img/testimonials/previews/ana-locnikar.jpg",
 	},
 ];
 
@@ -72,6 +76,7 @@ function PdfModal({
 	onClose: () => void;
 }): ReactNode {
 	const pdf = useBaseUrl(profile.pdf);
+	const preview = useBaseUrl(profile.preview);
 
 	useEffect(() => {
 		const onKeyDown = (event: KeyboardEvent) => {
@@ -108,7 +113,15 @@ function PdfModal({
 						×
 					</button>
 				</div>
-				<iframe src={pdf} className={styles.pdfFrame} title={profile.name} />
+				{/* The story is shown as a pre-rendered image because mobile
+				    browsers download PDFs instead of displaying them inline */}
+				<div className={styles.previewScroll}>
+					<img
+						src={preview}
+						alt={profile.name}
+						className={styles.previewImage}
+					/>
+				</div>
 			</div>
 		</div>
 	);

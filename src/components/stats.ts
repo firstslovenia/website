@@ -69,19 +69,34 @@ export function useFirstSloveniaStats(): Stat[] {
 				message: "students since 2017",
 			}),
 		},
-		// The first FGC season was 2017, so the current year is season (year - 2016)
+		// The first FGC season was 2017 and the first FTC season 2022,
+		// so the current year is season (year - 2016) and (year - 2021)
 		{
-			value: `${new Date().getFullYear() - 2016}/${new Date().getFullYear() - 2021}`,
+			value: `${new Date().getFullYear() - 2016}`,
 			label: translate({
-				id: "stats.seasons",
-				message: "𝐹𝐼𝑅𝑆𝑇 Global/Tech Challenge seasons",
+				id: "stats.fgc-seasons",
+				message: "𝐹𝐼𝑅𝑆𝑇 Global Challenge seasons",
 			}),
 		},
 		{
-			value: "12",
+			value: `${new Date().getFullYear() - 2021}`,
 			label: translate({
-				id: "stats.awards",
-				message: "𝐹𝐼𝑅𝑆𝑇 Global/Tech Challenge awards",
+				id: "stats.ftc-seasons",
+				message: "𝐹𝐼𝑅𝑆𝑇 Tech Challenge seasons",
+			}),
+		},
+		{
+			value: "7",
+			label: translate({
+				id: "stats.fgc-awards",
+				message: "𝐹𝐼𝑅𝑆𝑇 Global Challenge awards",
+			}),
+		},
+		{
+			value: "5",
+			label: translate({
+				id: "stats.ftc-awards",
+				message: "𝐹𝐼𝑅𝑆𝑇 Tech Challenge awards",
 			}),
 		},
 		{
@@ -98,13 +113,13 @@ export function useFirstSloveniaStats(): Stat[] {
 				message: "mentors",
 			}),
 		},
-		{
-			value: "1",
-			label: translate({
-				id: "stats.volunteer",
-				message: "international volunteer",
-			}),
-		},
+		// {
+		// 	value: "1",
+		// 	label: translate({
+		// 		id: "stats.volunteer",
+		// 		message: "international volunteer",
+		// 	}),
+		// },
 		{
 			value: `${oprTopPercent} %`,
 			label: translate({
