@@ -3,8 +3,11 @@ import clsx from "clsx";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import { translate } from "@docusaurus/Translate";
+import Link from "@docusaurus/Link";
 import Heading from "@theme/Heading";
 import CountdownEventCard from "@site/src/components/CountdownEventCard";
+import StatsRow from "@site/src/components/StatsRow";
+import { useFirstSloveniaStats } from "@site/src/components/stats";
 
 import styles from "./index.module.css";
 
@@ -26,6 +29,7 @@ function HomepageHeader() {
 
 export default function Home(): ReactNode {
 	const { siteConfig } = useDocusaurusContext();
+	const stats = useFirstSloveniaStats();
 	return (
 		<Layout
 			title={siteConfig.title}
@@ -51,6 +55,16 @@ export default function Home(): ReactNode {
 								}),
 							}}
 						></p>
+
+						<StatsRow stats={stats} />
+						<p className={styles.profilesLink}>
+							<Link to="/testimonials">
+								{translate({
+									id: "home.player-profiles.link",
+									message: "Meet the people behind our teams →",
+								})}
+							</Link>
+						</p>
 
 						<h1
 							dangerouslySetInnerHTML={{

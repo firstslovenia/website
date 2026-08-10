@@ -19,6 +19,10 @@
     "message": "Bivše ekipe",
     "description": "The label of footer link with label=Past teams linking to /past-teams-tech/team-2024-2025"
   },
+  "link.item.label.Testimonials": {
+    "message": "Zgodbe članov",
+    "description": "The label of footer link with label=Testimonials linking to /testimonials"
+  },
   "link.item.label.Maven Repository": {
     "message": "Maven Repository",
     "description": "The label of footer link with label=Maven Repository linking to https://maven.firsttech.si/"

@@ -42,3 +42,8 @@
 .video {
   max-width: 100%;
 }
+
+.profilesLink {
+  text-align: center;
+  font-weight: 800;
+}

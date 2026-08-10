@@ -232,6 +232,10 @@ const config: Config = {
                             to: '/start-a-team',
                             label: 'Start a new team',
                         },
+                        {
+                            to: '/testimonials',
+                            label: 'Testimonials',
+                        },
                     ]
                 },
                 {
@@ -259,6 +263,10 @@ const config: Config = {
                         {
                             label: 'Past teams',
                             to: '/past-teams-tech/team-2024-2025',
+                        },
+                        {
+                            label: 'Testimonials',
+                            to: '/testimonials',
                         },
                     ],
                 },

@@ -441,5 +441,47 @@
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
     "message": "Collapse the dropdown",
     "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+  },
+  "testimonials.title": {
+    "message": "Zgodbe članov"
+  },
+  "testimonials.intro": {
+    "message": "Robotika je veliko več kot le sestavljanje robotov. Spoznaj ljudi, ki stojijo za našimi ekipami — klikni na sliko in preberi njihovo zgodbo."
+  },
+  "testimonials.openProfile": {
+    "message": "Odpri profil (PDF)"
+  },
+  "testimonials.stats.title": {
+    "message": "𝐹𝐼𝑅𝑆𝑇 Slovenija v številkah"
+  },
+  "stats.students": {
+    "message": "dijakov od leta 2017"
+  },
+  "stats.seasons": {
+    "message": "sezon 𝐹𝐼𝑅𝑆𝑇 Global/Tech Challenge"
+  },
+  "stats.awards": {
+    "message": "nagrad na 𝐹𝐼𝑅𝑆𝑇 Global/Tech Challenge"
+  },
+  "stats.ftc": {
+    "message": "aktivni 𝐹𝐼𝑅𝑆𝑇 Tech Challenge ekipi"
+  },
+  "stats.mentors": {
+    "message": "mentorji"
+  },
+  "stats.volunteer": {
+    "message": "mednarodni prostovoljec"
+  },
+  "stats.opr": {
+    "message": "najboljša OPR uvrstitev na svetu (𝐹𝐼𝑅𝑆𝑇 Tech Challenge)"
+  },
+  "testimonials.openInNewTab": {
+    "message": "Odpri v novem zavihku"
+  },
+  "testimonials.close": {
+    "message": "Zapri"
+  },
+  "home.player-profiles.link": {
+    "message": "Spoznaj ljudi, ki stojijo za našimi ekipami →"
   }
 }

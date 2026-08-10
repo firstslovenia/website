@@ -58,5 +58,9 @@
   "item.label.Start a new team": {
     "message": "Začni svojo ekipo",
     "description": "Navbar item with label Start a new team"
+  },
+  "item.label.Testimonials": {
+    "message": "Zgodbe članov",
+    "description": "Navbar item with label Testimonials"
   }
 }
