@@ -1,4 +1,4 @@
-import { useEffect, useState, type ReactNode } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import Layout from "@theme/Layout";
 import { translate } from "@docusaurus/Translate";
 import useBaseUrl from "@docusaurus/useBaseUrl";
@@ -25,7 +25,7 @@ const profiles: Profile[] = [
 	},
 	{
 		name: "Jaka Kovač",
-		programs: "FLL · FTC · FGC",
+		programs: "FLL · FTC · FGC · Mentor",
 		image: "/img/testimonials/jaka-kovac.jpg",
 		pdf: "/files/testimonials/jaka-kovac.pdf",
 		preview: "/img/testimonials/previews/jaka-kovac.jpg",
@@ -44,24 +44,63 @@ const profiles: Profile[] = [
 		pdf: "/files/testimonials/Vid-Furlan.pdf",
 		preview: "/img/testimonials/previews/Vid-Furlan.jpg",
 	},
-	
+
 	{
 		name: "Jurij Fortuna",
-		programs: "FTC · FGC",
+		programs: "FLL · FTC · FGC",
 		image: "/img/testimonials/jurij-fortuna.JPG",
 		pdf: "/files/testimonials/Jurij-Fortuna.pdf",
 		preview: "/img/testimonials/previews/Jurij-Fortuna.jpg",
 	},
-	
+
 	{
 		name: "David Turk",
-		programs: "FTC · FGC",
+		programs: "FTC · FGC · Mentor",
 		image: "/img/testimonials/david-turk.jpg",
 		pdf: "/files/testimonials/David-Turk.pdf",
 		preview: "/img/testimonials/previews/David-Turk.jpg",
 	},
-	
+
 ];
+
+/* Caps the grid's width so the cards wrap into evenly filled rows
+   (e.g. 6 cards become 3+3 instead of 5+1) at any viewport size */
+function useBalancedGridWidth(itemCount: number) {
+	const ref = useRef<HTMLDivElement>(null);
+	const [maxWidth, setMaxWidth] = useState<number>();
+
+	useEffect(() => {
+		const grid = ref.current;
+		const parent = grid?.parentElement;
+		if (!grid || !parent || itemCount === 0) {
+			return;
+		}
+
+		const update = () => {
+			const item = grid.firstElementChild as HTMLElement | null;
+			if (!item) {
+				return;
+			}
+			const available = parent.clientWidth;
+			const gap = parseFloat(getComputedStyle(grid).columnGap) || 0;
+			const itemWidth = item.offsetWidth;
+			const maxCols = Math.max(
+				1,
+				Math.floor((available + gap) / (itemWidth + gap)),
+			);
+			const rows = Math.ceil(itemCount / maxCols);
+			const cols = Math.ceil(itemCount / rows);
+			setMaxWidth(cols * itemWidth + (cols - 1) * gap);
+		};
+
+		update();
+		const observer = new ResizeObserver(update);
+		observer.observe(parent);
+		return () => observer.disconnect();
+	}, [itemCount]);
+
+	return { ref, maxWidth };
+}
 
 function ProfileCircle({
 	profile,
@@ -154,6 +193,7 @@ function PdfModal({
 export default function Testimonials(): ReactNode {
 	const [openProfile, setOpenProfile] = useState<Profile | null>(null);
 	const stats = useFirstSloveniaStats();
+	const grid = useBalancedGridWidth(profiles.length);
 
 	return (
 		<Layout
@@ -179,7 +219,11 @@ export default function Testimonials(): ReactNode {
 						})}
 					</p>
 
-					<div className={styles.profilesGrid}>
+					<div
+						className={styles.profilesGrid}
+						ref={grid.ref}
+						style={{ maxWidth: grid.maxWidth }}
+					>
 						{profiles.map((profile) => (
 							<ProfileCircle
 								profile={profile}
