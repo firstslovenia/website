@@ -37,6 +37,30 @@ const profiles: Profile[] = [
 		pdf: "/files/testimonials/ana-locnikar.pdf",
 		preview: "/img/testimonials/previews/ana-locnikar.jpg",
 	},
+	{
+		name: "Vid Furlan",
+		programs: "FTC · FGC",
+		image: "/img/testimonials/vid-furlan.jpg",
+		pdf: "/files/testimonials/vid-furlan.pdf",
+		preview: "/img/testimonials/previews/vid-furlan.jpg",
+	},
+	
+	{
+		name: "Jurij Fortuna",
+		programs: "FTC · FGC",
+		image: "/img/testimonials/jurij-fortuna.jpg",
+		pdf: "/files/testimonials/jurij-fortuna.pdf",
+		preview: "/img/testimonials/previews/jurij-fortuna.jpg",
+	},
+	
+	{
+		name: "David Turk",
+		programs: "FTC · FGC",
+		image: "/img/testimonials/david-turk.png",
+		pdf: "/files/testimonials/david-turk.pdf",
+		preview: "/img/testimonials/previews/david-turk.jpg",
+	},
+	
 ];
 
 function ProfileCircle({
