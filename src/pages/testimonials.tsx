@@ -40,7 +40,7 @@ const profiles: Profile[] = [
 	{
 		name: "Vid Furlan",
 		programs: "FTC · FGC",
-		image: "/img/testimonials/vid-furlan.jpg",
+		image: "/img/testimonials/vid-furlan.JPG",
 		pdf: "/files/testimonials/Vid-Furlan.pdf",
 		preview: "/img/testimonials/previews/Vid-Furlan.jpg",
 	},
@@ -48,7 +48,7 @@ const profiles: Profile[] = [
 	{
 		name: "Jurij Fortuna",
 		programs: "FTC · FGC",
-		image: "/img/testimonials/jurij-fortuna.jpg",
+		image: "/img/testimonials/jurij-fortuna.JPG",
 		pdf: "/files/testimonials/Jurij-Fortuna.pdf",
 		preview: "/img/testimonials/previews/Jurij-Fortuna.jpg",
 	},
@@ -56,7 +56,7 @@ const profiles: Profile[] = [
 	{
 		name: "David Turk",
 		programs: "FTC · FGC",
-		image: "/img/testimonials/david-turk.png",
+		image: "/img/testimonials/david-turk.jpg",
 		pdf: "/files/testimonials/David-Turk.pdf",
 		preview: "/img/testimonials/previews/David-Turk.jpg",
 	},
