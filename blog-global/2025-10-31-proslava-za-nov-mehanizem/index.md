@@ -34,7 +34,6 @@ Ura je napočila za udarno tekmo na udarnem polju. Tokrat smo bili na polju 5 po
 
 ![](img/vecerja.jpg)
 
-vecerja, postavlal oder, glow in the dark stvari
 Napornemu dnevu je sledila večerja v nekoliko bolj prostorni dvorani kot do sedaj. Med kosilom smo zasledili, da so premikali mize in postavljali oder, tako da smo sklepali da bomo danes imeli zabavo, kar je pa samo še popestril nabor žurerskih dodatkov na mizah. Lahko smo si postregli zapestnice, očala ali pa palice, vse z lučkami za v temo.
 
 ![](img/partyboys.jpg)

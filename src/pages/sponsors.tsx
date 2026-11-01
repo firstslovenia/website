@@ -14,7 +14,7 @@ const sponsorsTop = [
 ];
 
 const sponsorsMid = [
-  { href: "https://eles.si",           src: "img/sponsors/eles.png",     alt: "Eles" },
+  { href: "https://www.kolektor.com",  src: "img/sponsors/kolektor.png",     alt: "Kolektor" },
   { href: "https://www.1home.io/",     src: "img/sponsors/1Home.png",    alt: "1Home" },
   //{ href: "https://nrg.si",            src: "img/sponsors/nrg.png",      alt: "NRG" },
 ];
@@ -22,6 +22,7 @@ const sponsorsMid = [
 const sponsorsBottom = [
   { href: "https://foculus.si",        src: "img/sponsors/foculus.png",  alt: "Pizzerija Foculus" },
   { href: "https://triglav.si",        src: "img/sponsors/triglav.png",  alt: "Zavarovalnica Triglav" },
+  { href: "https://eles.si",           src: "img/sponsors/eles.png",     alt: "Eles" },
 ];
 
 export default function Sponsors(): ReactNode {

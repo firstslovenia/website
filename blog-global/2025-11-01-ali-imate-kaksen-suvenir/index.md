@@ -7,7 +7,7 @@ tags: [ fgc-2025 ]
 
 ![](img/fantjeklobuki.jpg)
 
-generic uvod
+
 <!-- truncate -->
 ![](img/driveteamakcija.jpg)
 
