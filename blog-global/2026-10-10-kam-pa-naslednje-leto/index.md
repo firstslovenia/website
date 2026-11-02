@@ -13,7 +13,7 @@ Ob zajtrku smo si zaželeli Gud monin, kot bi rekli kolegi iz Solomonskih otokov
 
 Pred prvo igro so nas obiskali vrstniki iz Urugvaja in Gambije, da smo se dogovorili za sodelovanje. Ker nas je čakal sodelovalni spopad z rdečo alianso, natančneje z Grčijo, Papuansko Novo Gvinejo in gostujočo državo Južno Korejo. Izkušnja čakalne vrste je bila prijetna, igra kratka, izzid dober, vendar ne dovolj. Sebi smo prišteli 129 točk, medtem ko so si jih nasprotniki 278 in tako se je zaključila tekma 253.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkQpTnlTcu8?si=-TTRzfjyGSzFyxq0&amp;start=26079" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Danes je zadnji dan dogodka, zato smo spodbudili dijake, da se lotijo iskanja kandidatov za izmenjavo dresov. Med iskanjem dijakov so dijaki ponujali degustacijo Herba bonbonov in Cockta pijače, kar je navdušilo prostovoljce, sotekmovalce, prav vse. Uspeli smo se dogovoriti s kolegi iz Slovaške in Južne Afrike za zamenjavo, nekateri so celo organizirali zamenjavo preko grmičevja z ekipo iz Čila.
 
@@ -21,11 +21,11 @@ Danes je zadnji dan dogodka, zato smo spodbudili dijake, da se lotijo iskanja ka
 
 Par bonbonov in že smo bili poklicani ponovno v čakalno vrsto, tokrat za igro z zaporedno številko 279. Nekoliko bolj skromen nabor konkurence na obeh straneh, pri čemer smo rdečo stran zastopali skupaj s predstavniki držav Lesoto in Iran, medtem ko so modro stran zastopali Palestina, Eritreja in Cape Verde. Dve minuti in trideset sekund je trajalo gašenje ognja, ki se je zaključilo z izzidom 71 : 50 v našo prid. Za oddih smo si privoščili še zadnji odmor za kosilo s prigrizki.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3H32iaSLciE?si=Cc2CHUQzCHsCJxQS&amp;start=2666" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ves trud nas je pripeljal do naše zadnje tekme pred koncem kvalifikacijskih iger. Samozavestno smo segli v roke starim kolegom iz Venezuele in pustili dijake, da se skupaj še z Luksemburškimi dogovorijo kako bodo izpeljali še zadnjo igro. Stopili so do odra, na drugi strani pa njihovi vrstniki iz Mjanmarja, Yemena in Haitija. Čista komunikacija, veliko žogic in plezanje robotov žal ni bilo dovolj. Zaploskali smo vsem, kljub izzidu 240 : 178 za nasprotnike.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4tHKmWGoS0?si=zSmAPPDij2u8l0hs&amp;start=7422" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Čakanje na razglasitev najboljših 24 uvrščenih držav in 8 wildcard naključno izbranih držav smo krajšali vsak s svojim sogovornikom iz poljubnega konca sveta, kar je ravno tisti čar tega tekmovanja. Na žalost nismo bili izbrani, zato smo lahko stvari predhodno pospravili in odnesli v hotel. Po vrnitvi smo si privoščili navijanje za kolege iz Bosne in Hercegovine, ki so bili znotraj nabora najboljših 24-ih držav. Po naključju so bili izbrani predstavniki Črne gore, ki so pa pred razglasitvijo že pospravili vse kar so lahko, tako da je urgentno kovanje strategije s strani Kazahstana jih ujelo v šoku.
 

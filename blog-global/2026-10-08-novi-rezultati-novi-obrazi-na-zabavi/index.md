@@ -18,15 +18,15 @@ Med zadnjimi popravki na robotu smo prejeli list papirja s sporedom tekem in s t
 
 Kovanje strategij je nas pripeljalo skupaj z zaključnimi popravki na robotu do vadbene tekme, ki je v vozniški ekipi vzbudilo malo treme.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OYWoZl6scbM?si=yb8CcMWfmrlKS5lT&amp;start=4162" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Igro z zaporedno številko 19 smo odigrali na rdeči strani skupaj z Burkina Faso in Kubo, medtem ko so modro stran krasili člani Paragvaja, Namibije in Indije. Morje oranžnih žogic je pripadalo modri aliansi, ki je z rdečo pometla in v naš repertoar napisala prvi poraz.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2giQLSlMOgo?si=eAym-axdW17uYeaR&amp;start=6503" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ena ura traja šestdeset minut, ko smo doma, vendar na tekmovanju FIRST Global Challenge enaka časovna enaka traja nekaj pomežikov. Preden so se dijaki lahko nadihali so že stali v čakalnici pred velikim odrom. Kmalu je napočila tekma 36, kjer smo ramena prislonili ob predstavnike Tadžikistana in Španije. Skupaj smo uspeli v 2 minutah in 30 sekundah nabrati 161 točk, vendar to ni bilo dovolj, zato smo segli v roko modri aliansi in s tem kolegom iz držav El Salvador, Cookovi otoki in Japanske, ki so si zmago prislužili s 204-imi točkami.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jA1YanHcB8?si=qVz-Aku7er3BOX39&amp;start=16342" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Odmor za kosilo nam je dobro del, vendar je zaradi prisotnosti v štandu moral potekati v izmenah. Tako so okrepčani in nekoliko nasmejani fantje kmalu začeli kovati strategijo z vrstniki iz nemčijo in Kolumbije. Modra aliansa se je tako soočila s predstavniki Velike Britanije, Bolgarije in Čila na tekmi številka 75. Tokrat je sodnik z roko pokazal proti nam, zato smo lahko z izzidom 60 : 45 pritekli v štand s prvo zmago v žepu.
 

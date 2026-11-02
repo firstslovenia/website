@@ -17,23 +17,25 @@ Naše dijake so kmalu obiskali novi sotekmovalci in se dogovorili, da bo naša g
 
 Napočil je čas za tekmo številka 93, v kateri smo ponovni zastopali modro alianso skupaj z reprezentanco Avstalije in Jordanije. Skromna strategije nam je v kombinaciji s plezanjem robotov dobro dela, saj smo tako uspeli tekmo “proti” Belorusiji, Azerbejdžanu in Komorom zaključiti z izzidom 56 : 39 v našo prid.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2giQLSlMOgo?si=ylGRR5No39-O9A_E&amp;start=19763" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Kmalu smo se morali ponovno zbrati države, ki smo blizu po abecedi. V igri z zaporedno številko 132 smo na strani rdeče alianse stale ekipe Slovenije, Somalije in Sierra Leone. Z vsakim pritiskom na igralnem ploščku je na števcu kazala nižja številka, ko je pa ta odbila konec, smo segli v roke kolegom na nasprotni strani iz Tanzanije, Mozambika in Črne gore in jim čestitali za zasluženo zmago.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YNKPPyYxfJM?si=DKbypb1OXFFZymoq&amp;start=1576" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Med odmorom smo obiskali stojnice korejskih in ameriških fakultet ter letošnjega sponzorja LG, ki so s seboj imeli Lego maketo in mobilnega robota. Nekaj slik in izmenjanih besed pa smo že hodili nazaj do štanda. Kmalu je po nas prišel prostovoljec in nas povabil v čakalno vrsto skupaj s Turkmenistanom in Mongolijo, ki prav tako predstavljajo modro alianso. Na drugi strani mize smo pozdravili predstavnike Tajske, Britanskih Deviških otokov in Eswatinija. Začetek igre z zaporedno številko 162 je kmalu napočil in po 150-ih sekundah smo vsi zaploskali, čeprav je bil izzid igre 195 : 81 za modro stran.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YNKPPyYxfJM?si=ba5m8Gj9eDRZd3rS&amp;start=7107" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](img/Day4_05.jpg)
 
 Dijaki so veseli pritekli v štand, odložili robota, parkrat obrnili ključ za M3 vijake in matice ter se odpravili na odmor za kosilo in prigrizke pri ostalih državah. Oddihu je sledila debata s kolegi iz Solomonskih otokov in Danske, da so lahko razčistili zmožnosti posameznega robota in skovali zmagovalno strategijo. Kot vsakič do sedaj je prostovoljec naše pocukal za rokave tudi tokrat, da so šli v čakalno vrsto in do polja za tekmo številka 201. Komentatorka je najavila našo modro stran in seveda še rdečo stran, na kateri smo lahko videli zastave Demokratične Republike Kongo, Tunizije in Zimbabve. Požar v obliki oranžnih žogic smo uspešno gasili, pri čemer je naša stran dosegla 171 točk in tako uspešno zaključila igro.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YNKPPyYxfJM?si=cAwKjYusSE-b-zNC&amp;start=13257" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Za zadnjo igro dneva smo glave stisnili s kolegi iz Gvineje in Senegala. Čeprav so naše možnosti za zmago bile šibke, smo se vseeno podali v sodelovalno igro proti Finski, Mikroneziji in Ameriški Samo-i. Dneva nismo zaključili na visoki noti, saj smo v roke segli z izzidom 189 : 36 za nasprotno ekipo.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YNKPPyYxfJM?si=kaXriWi82vDXQMLN&amp;start=19572" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Podelitev vtisov dneva ob večerji s slavnim gostujočim kuharjem šefom Irvine-om je bila prijetna izkušnja ob ameriški kuhinji. Hitro smo pojedli, odložili stvari v hotelu in se napotili na avtobus številka 16 proti ChinaTown predelu mesta.
 
