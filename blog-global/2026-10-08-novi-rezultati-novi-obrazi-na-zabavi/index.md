@@ -1,54 +1,43 @@
 ---
-slug: zmage-cockta-in-festivalni-chinatown
-title: "Zmage, Cockta in festivalni Chinatown"
+slug: novi-rezultati-novi-obrazi-na-zabavi
+title: "Novi rezultati, novi obrazi na zabavi"
 authors: [ david-zindovic ]
 tags: [ fgc-2026 ]
 ---
 
-![](img/Day4_xx.jpg)
+![](img/Day3_04.jpg)
 
-Deveti dan meseca oktobra smo začeli enako kot vsakega do zdaj, vendar z obilnejšim zajtrkom, saj nas danes čaka kar 5 iger. Tako smo se motivirani in siti odpravili proti štandu s klobuki na glavah.
+Nov datum, nove dobrote na jedilniku pri zajtrku. Čevlje smo hitro ogreli z zgodnjimi stopinjami od hotela do arene, kjer se bodo v nekaj dneh izkazali roboti in z njimi mladimi, na katerih svet sloni.
 <!-- truncate -->
-![](img/Day4_xx.jpg)
+![](img/Day5_01.jpg)
+![](img/Day4_01.jpg)
 
-Naše dijake so kmalu obiskali novi sotekmovalci in se dogovorili, da bo naša glavna vloga pobiranje žogic in podajanje le teh v nabiralnik igralca, ki jih bo lastnoročno metal v koš. Z nekaj časa v rezvervi v slamniki oddrveli na slikanje, medtem ko so Slovaški mentorji z nami debatirali o tem, kako bo Holy Priest nastopal novembra v Bratislavi in ob tem odprli debato o elektronski glasbi.
+Med zadnjimi popravki na robotu smo prejeli list papirja s sporedom tekem in s tem smo lahko videli tudi sotekmovalce v barvi naše alianse in nasprotni. Na slednje so se nekatere države že pripravljale vnaprej, saj so člane ekipe poslali na obisk delovnih postaj vseh ostalih držav, kjer so ob gledanju robota izpolnili vprašalnik na svoji platformi in s tem pridobili informacije o zmožnostih robotov posameznih držav. Proces so ponovile najbolj tekmovalne države kar dvakrat, saj so šibkejšim državam na svoji aliansi šle pomagat, nekatere države so pa zbrale vseh šest držav posameznih tekem, da se dogovorijo kako doseči čimveč točk skupaj, saj lahko le tako vsi pridobijo čim večje število točk.
 
-![](img/Day4_xx.jpg)
+![](img/Day4_03.jpg)
 
-Napočil je čas za tekmo številka 93, v kateri smo ponovni zastopali modro alianso skupaj z reprezentanco Avstalije in Jordanije. Skromna strategije nam je v kombinaciji s plezanjem robotov dobro dela, saj smo tako uspeli tekmo “proti” Belorusiji, Azerbejdžanu in Komorom zaključiti z izzidom 56 : 39 v našo prid.
+Kovanje strategij je nas pripeljalo skupaj z zaključnimi popravki na robotu do vadbene tekme, ki je v vozniški ekipi vzbudilo malo treme.
 
-![](img/Day4_xx.jpg)
 
-Kmalu smo se morali ponovno zbrati države, ki smo blizu po abecedi. V igri z zaporedno številko 132 smo na strani rdeče alianse stale ekipe Slovenije, Somalije in Sierra Leone. Z vsakim pritiskom na igralnem ploščku je na števcu kazala nižja številka, ko je pa ta odbila konec, smo segli v roke kolegom na nasprotni strani iz Tanzanije, Mozambika in Črne gore in jim čestitali za zasluženo zmago.
 
-![](img/Day4_xx.jpg)
+Igro z zaporedno številko 19 smo odigrali na rdeči strani skupaj z Burkina Faso in Kubo, medtem ko so modro stran krasili člani Paragvaja, Namibije in Indije. Morje oranžnih žogic je pripadalo modri aliansi, ki je z rdečo pometla in v naš repertoar napisala prvi poraz.
 
-Med odmorom smo obiskali stojnice korejskih in ameriških fakultet ter letošnjega sponzorja LG, ki so s seboj imeli Lego maketo in mobilnega robota. Nekaj slik in izmenjanih besed pa smo že hodili nazaj do štanda. Kmalu je po nas prišel prostovoljec in nas povabil v čakalno vrsto skupaj s Turkmenistanom in Mongolijo, ki prav tako predstavljajo modro alianso. Na drugi strani mize smo pozdravili predstavnike Tajske, Britanskih Deviških otokov in Eswatinija. Začetek igre z zaporedno številko 162 je kmalu napočil in po 150-ih sekundah smo vsi zaploskali, čeprav je bil izzid igre 195 : 81 za modro stran.
 
-![](img/Day4_xx.jpg)
 
-Dijaki so veseli pritekli v štand, odložili robota, parkrat obrnili ključ za M3 vijake in matice ter se odpravili na odmor za kosilo in prigrizke pri ostalih državah. Oddihu je sledila debata s kolegi iz Solomonskih otokov in Danske, da so lahko razčistili zmožnosti posameznega robota in skovali zmagovalno strategijo. Kot vsakič do sedaj je prostovoljec naše pocukal za rokave tudi tokrat, da so šli v čakalno vrsto in do polja za tekmo številka 201. Komentatorka je najavila našo modro stran in seveda še rdečo stran, na kateri smo lahko videli zastave Demokratične Republike Kongo, Tunizije in Zimbabve. Požar v obliki oranžnih žogic smo uspešno gasili, pri čemer je naša stran dosegla 171 točk in tako uspešno zaključila igro.
+Ena ura traja šestdeset minut, ko smo doma, vendar na tekmovanju FIRST Global Challenge enaka časovna enaka traja nekaj pomežikov. Preden so se dijaki lahko nadihali so že stali v čakalnici pred velikim odrom. Kmalu je napočila tekma 36, kjer smo ramena prislonili ob predstavnike Tadžikistana in Španije. Skupaj smo uspeli v 2 minutah in 30 sekundah nabrati 161 točk, vendar to ni bilo dovolj, zato smo segli v roko modri aliansi in s tem kolegom iz držav El Salvador, Cookovi otoki in Japanske, ki so si zmago prislužili s 204-imi točkami.
 
-![](img/Day4_xx.jpg)
 
-Za zadnjo igro dneva smo glave stisnili s kolegi iz Gvineje in Senegala. Čeprav so naše možnosti za zmago bile šibke, smo se vseeno podali v sodelovalno igro proti Finski, Mikroneziji in Ameriški Samo-i. Dneva nismo zaključili na visoki noti, saj smo v roke segli z izzidom 189 : 36 za nasprotno ekipo.
 
-![](img/Day4_xx.jpg)
+Odmor za kosilo nam je dobro del, vendar je zaradi prisotnosti v štandu moral potekati v izmenah. Tako so okrepčani in nekoliko nasmejani fantje kmalu začeli kovati strategijo z vrstniki iz nemčijo in Kolumbije. Modra aliansa se je tako soočila s predstavniki Velike Britanije, Bolgarije in Čila na tekmi številka 75. Tokrat je sodnik z roko pokazal proti nam, zato smo lahko z izzidom 60 : 45 pritekli v štand s prvo zmago v žepu.
 
-Podelitev vtisov dneva ob večerji s slavnim gostujočim kuharjem šefom Irvine-om je bila prijetna izkušnja ob ameriški kuhinji. Hitro smo pojedli, odložili stvari v hotelu in se napotili na avtobus številka 16 proti ChinaTown predelu mesta.
+![](img/Day5_02.jpg)
 
-![](img/Day4_xx.jpg)
+Malo daljši odmor nam je omogočil, da smo priskočili na pomoč kolegom iz Južne Afrike, ki so imeli nekaj težav z robotom in samo programsko opremo zanj. Vzeli smo si še nekaj časa in obiskali Kanadsko reprezentanco, ki so nastopali z robotom in scissor lift mehanizmom. Mi se iz Grčije spomnimo neuspešnih poskusov s tem mehanizmom, kar pa oni zdaj izkušajo na lastni koži (no, na lastnih alu profilih).
 
-Na poti smo se peljali mimo vojnega spomenika, ki smo ga obiskali nekega dne, a z avtobusa smo stopili dol pri avtobusni postaji Singpo market. Na hitro smo si ogledali zunanjost cerkve, ki je bila le nekaj stopnic stran od glavne cesta. Z višine smo lepo videli vhod v kitajsko odprto kuhno, kjer smo lahko med sprehodom našli sadje naprodaj in sveže dumplinge, saj je ostalo žal bilo že zaprto. Na koncu tržnice so se odprle osvetljene ulice v ChinaTown četrt. Mi smo iskali festival, zato smo iskali čim večji nabor ljudi. Ko smo se sprehodili mimo neštetih kavarn in korejskih BBQ restavracij smo prispeli do napisa “Incheon Open Port Culture Night”.
+![](img/Day3_04.jpg)
 
-![](img/Day4_xx.jpg)
+Po tekmi so nas obvestili o zabavi, ki bo potekala po odmoru za večejo. Tako smo se okrepčani vrnili med polja za robote, kjer smo v družbi glasbe uvodnega DJ-a in sladičk čakali na skritega gosta. Glasbo skupine Black Eyed Peas je zavrtel Apl.de.ap in pritegnil pozornost vseh tekmovalcev pod odrom. Tako smo nabirali utrujenost za lažji spanec in se po uri druženja odpravili proti hotelu. Odložili smo stvari in se lotili nekateri počitka z odkrivanjem podrobnosti delovanja naprav v stanovanju, medtem ko so drugi igrali Exploding Kittens dolgo v noč.
 
-Od tu naprej smo bili del festivala s stojnicami polnimi drobnarij, golaža in Pokemon kart. Sprehod mimo popolnih neznancev nas je pripeljal do pevskih nastopov, solo nastopov s pihali, violinami in na velikem odru petje v spremstvu saksofona ob skladbi “It’s raining men”. Aplavzi na vseh koncih so nas spodbudili, da raziščemo še ostale ulice, kjer smo srečali gospe iz turistične stojnice našega dogodka robotike, ki so nam podarile nekaj lokalnih bonbonov, karte za podvodni vlak in ovekovečili trenutek s fotografijo. Za tem smo še odkotalili luno za sliko in se odpravili proti izhodu kulturne večeri. Pred izhodom smo kupili še par pahljač in kitajskih kovancev ter se napotili naprej proti pravljični vasici.
+Do naslednjič
 
-![](img/Day4_xx.jpg)
-
-Na poti do “FairyTale Village” smo naleteli na manjšo trgovino s prigrizki in pijačami, kjer smo bili prijetno presenečeni ob najdbi prvih magnetov v mestu, kar smo si morali zagotoviti. Okrepčani smo se napotili naprej skozi vasico, kjer smo našli pisma v avtomatu, skulpture Čarovnika iz Oza in Ostržka ter drugih risanih likov. Na koncu smo ulice smo našli stopnice, ki so nas pripeljale do osvetljene gozdne steze s skulpturami živali. Na vrhu vzpona smo našli nebeško opazovalnico, od koder smo se hitro napotili naprej po hribu dol, mimo rakunov in parka s projekcijo vode. V upanju da bomo ujeli zadnji avtobus smo študirali vozne rede na postaje, vendar smo morali priznati poraz tudi tokrat in poklicati Uber voznika.
-
-Do naslednjič,
-
-gutnaet 
+buenas noches
