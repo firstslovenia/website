@@ -19,7 +19,7 @@ smo jo igrali ob strani Kiribatov in San Marina. Nasprotno (rdečo) polovico pol
 predstavniki Srbije, Bahamov in Sirije. Zmaga nam je za las ušla in smo tako priznali poraz
 z izzidom 59 - 55.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/MRKgTGhcV0M?si=mIWYMXQBEY4CrdFh&amp;start=4103" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/MRKgTGhcV0M?start=4103" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 "Več kot uro časa imamo do naslednje tekme!" smo si rekli in nadaljevali s hudo potrebnimi
 popravki. Kmalu je robot lahko spet stal na dveh nogah, vendar smo spremenili strategijo,
@@ -30,7 +30,7 @@ smo lahko videli barve Puerto Rica, Švice in Kosova. Zadnjo tekmo olimpijade sm
 udarnim izzidom 139 - 119. Zadnja zmaga je kompenzirala za vse pretekle izgube in je našim
 dijakov narisala nasmehe na obraz.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/TOi5-RFpaGY?si=mPmP-tt5YI8abtmg&amp;start=7669" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/TOi5-RFpaGY?start=7669" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Po končanju rednega programa je sledilo kosilo in nato naznanitev najboljših 24 ekip in 8
 naključnih, ki bodo vse skupaj pomešane v aliance po 4 in se bodo borile za mesto v finalih.

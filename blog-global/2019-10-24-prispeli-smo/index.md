@@ -1,35 +1,19 @@
 ---
 slug: prispeli-smo
-title: Prispeli smo!
+title: "We Have Arrived!"
 authors: [ david-zindovic ]
 tags: [ fgc-2019 ]
 ---
 
-![Dubaj](img/dubaj.jpg)
+![Dubai](img/dubaj.jpg)
 
-Dijaki Vegove Ljubljana smo se 22. 10. 2019 odpravili na potovanje, ki bo zapisano v knjige – ali
-pa vsaj na spletno stran. Pot nas je popeljala v mesto blišča, Dubaj. Kljub napornemu 11-urnemu
-letu je bila slovenska reprezentanca robotike še vedno nasmejana, energična in poskočna. <!-- truncate -->
-Nastanjeni smo bili v Festival City hotelu v lasti InterContinentala, ki je vsekakor bil več
-kot le hotel. Tam smo spoznali ostale tekmovalce, izmenjali zgodbe med večerjo in se sami kot
-ekipa zelo zbližali. Vendar Dubaj ni le počitniško mesto, je tudi mesto bojevnikov oz. v našem
-primeru študentov, ki so pripravljeni pokazati svoje znanje in robotove zobe svetu.
+On 22 October 2019, we students of Vegova Ljubljana set off on a journey destined for the history books – or at least for the website. It took us to the city of glitter, Dubai. Despite a gruelling 11-hour flight, the Slovenian robotics team was still all smiles, full of energy and full of beans. <!-- truncate --> We were put up at the InterContinental-owned Festival City hotel, which was certainly more than just a hotel. There we met the other competitors, swapped stories over dinner and grew very close as a team. Yet Dubai is not merely a holiday destination; it is also a city of warriors – or, in our case, of students ready to show the world their knowledge and their robot’s teeth.
 
-Vsak izmed sodelujočih robotov je bil sestavljen iz enakih delov, saj je vsaka izmed reprezentanc
-prejela identičen t. i. »kit komplet«, v katerem so bili edini dovoljeni deli za sestavo robota.
-Tako smo bili vsi v enakem položaju. Ekipa je lahko uporabila vse dele, lahko pa jih je pustila
-tudi nekaj neuporabljenih. Največja dovoljena velikost robota je bila pol metra (tako v x- kot v
-y-smeri). Robota se je prav tako dalo upravljati na razdaljo, kar pomeni, da ni smel delovati
-povsem samostojno (brez posredovanja uporabnika ni smel izvesti nobenega opravila). Pravila igre
-so narekovala, da robot ne sme imeti ostrih delov, saj bi z njimi lahko poškodoval robote sotekmovalcev.
-Naloga robota je bila potiskanje, streljanje, dvigovanje žog ter marsikaj drugega. Ekipe so imele
-tudi proste roke pri tem, da oblikujejo del nalog robota po svoje. Robota sta pred pričetkom tekmovanja
-preverila tako nadzornik za strojno kot nadzornik za programsko opremo. Slednja sta nam tudi dala
-zeleno luč za pričetek tekmovanja.
+Every one of the competing robots was built from the same parts, as each national team had received an identical so-called ‘kit’ containing the only parts permitted for building the robot. Thus we were all on an equal footing. A team could use all of the parts, or leave some of them unused. The maximum permitted size of the robot was half a metre (in both the x and y directions). The robot was also remote-controlled, which meant that it was not allowed to operate entirely on its own (it could not carry out any task without the operator’s intervention). The rules of the game dictated that the robot must have no sharp parts, as these could damage the other competitors’ robots. The robot’s tasks were pushing, shooting and lifting balls, and a good deal more besides. Teams also had a free hand in designing part of the robot’s tasks as they saw fit. Before the competition began, the robot was checked by both a hardware inspector and a software inspector, and the two of them gave us the green light to begin the competition.
 
-Do prihodnjič, <br />
+Until next time, <br />
 lahko noč
 
-![Letalo](img/letalo.jpg)
+![The aeroplane](img/letalo.jpg)
 ![Burj Khalifa](img/velikaSvetlecaZgradba.jpg)
-![Blue perfomance](img/modro.jpg)
+![Blue performance](img/modro.jpg)

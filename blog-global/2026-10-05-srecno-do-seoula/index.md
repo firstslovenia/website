@@ -1,78 +1,78 @@
 ---
 slug: srecno-do-seoula
-title: "Srečno do Seoula"
+title: "Good Luck Getting to Seoul"
 authors: [ david-zindovic ]
 tags: [ fgc-2026 ]
 ---
 
 ![](img/Day0_03.jpg)
 
-Pristanek letala družbe LOT nam je premaknil čas za 7 ur vnaprej. Na letališču smo veseli pokazali dokumente, obraze in pustili prstne odtise za vstop v državo. Kovčke smo hitro našli, enega celo s posebno rumeno ključavnico, kar pomeni da ga je potrebno odpreti in argumentirati zaradi orodja.
+Landing with LOT moved our clocks seven hours forward. At the airport, we happily showed our documents and faces and left our fingerprints to enter the country. We found our suitcases quickly, one of them even sporting a special yellow lock, which means it has to be opened and the tools inside it explained.
 <!-- truncate -->
 ![](img/Day0_02.jpg)
 
-Namesto enega kovčka smo preprosto prejeli napis v plastičnem zabojčku, da naj se lastnik oglasi pri oknu za vračila. Takoj smo dobili čudne prve vtise, saj ljudje (zaposleni) niso vedeli, kje naj bi bilo to čudežno okno. Rešitev je tičala v ogromnem ekranu, kjer smo vzpostavili klic z operaterjem, ki nas je znal napotiti na okno družbe LOT, kjer je izpolnjenemu obrazcu sledila lepa hvala in zagotovitev, da bo čez 24 ur kovček že zelo blizu.
+Instead of one of the suitcases, we simply received a note in a plastic crate asking the owner to report to the returns window. Our first impressions were rather odd, as the people there (the staff!) had no idea where this miraculous window was supposed to be. The solution lay in a huge screen through which we reached an operator, who knew to send us to the LOT window. There, a filled-in form was followed by a polite thank-you and the assurance that within 24 hours the suitcase would already be very close.
 
 ![](img/Day0_01.jpg)
 
-Sprehod skozi prostore letališča nam je pokazal otočke razstlin, urejen prostor, neznane trgovine in še kaj več. Po še nekaj časa iskanja smo uspeli najti sprejemno okence za naše olimpijske tekmovalce, na kar smo še malo počakali in prečkali semafor z ogromnimi številkami in ujemajočo se barvo robnika ter se vkrcali na avtobus z motorizirano oporo za noge. Prijetno presenečeni smo se zapeljali proti Oakwood Preimeri hotelu v mestu Incheon, ki je najbližje letalšiču.
+A walk through the airport showed us little islands of plants, a neatly kept space, unfamiliar shops and more besides. After some more searching, we managed to find the welcome desk for robotics Olympians such as ourselves. We waited a little longer, crossed at a traffic light with huge numbers and kerbs in matching colours, and boarded a coach with motorised leg rests. Pleasantly surprised, we rode to the Oakwood Premier hotel in Incheon, the city closest to the airport.
 
 ![](img/Day0_011.jpg)
 ![](img/Day0_012.jpg)
 
-Na poti smo videli velike mostove, dominantnost Hyundai in Kia avtomobilov, velike blokovske stolpnice in tovorne ladje, ki plujejo v pristanišče. Avtobus nas je odložil pred 305 m visoko zgradbo, ki zajema 65 nadstropij. Prtljago smo odložili, saj so še 3 ure do prijave in smo se napotili okoli hotela. Prva postaja so bile trgovine čez cesto, kjer smo našli nabor restavracij in njihovo trgovino Nice to CU, kamor smo šli po sokove in prigrizke. Hitro smo ugotovili, da bo preizkušanje novih stvari tukaj pestro, saj niti sok iz koruze, niti sok iz žitaric nista bila vredna pohvale, posušeni deli hobotnice so pa bili tudi kar žvečilni izziv. Ostali sokovi iz nam znanih sadežev pa niso razočarali. Presenetilo nas je, da ob plačilu s kartico moraš pustiti podpis na majhni grafični tablici.
+On the way, we saw huge bridges, a clear dominance of Hyundai and Kia cars, great tower blocks and cargo ships sailing into port. The coach dropped us off in front of a 305-metre-tall building of 65 storeys. We left our luggage, since there were still three hours until check-in, and set out to explore the area around the hotel. Our first stop was the shops across the road, where we found a selection of restaurants and the convenience store Nice to CU, where we went for juices and snacks. We quickly realised that trying new things here would be quite the adventure: neither the corn juice nor the grain juice deserved any praise, and the dried octopus pieces were rather a chewing challenge. The juices made from fruits we know, however, did not disappoint. We were surprised that when paying by card, one has to leave a signature on a small graphics tablet.
 
 ![](img/Day0_013.jpg)
 
-Za tem smo se našli z nekdanjim članom in mentorjem Jako, ki je tudi letos prišel pomagati izpeljati dogodek kot prostovoljec. Napotili smo do Hakoya ramen restavracije, kjer smo srečali mentorsko zasedbo hrvaške reprezentance. Prejeli smo dober napotek, da če gospod pravi da je malo pekoče, mu ne smemo verjeti. Ko so ogromne sklede pristale pred nami skupaj z prilagami posebne vrste ingverja, se par minut nismo pogovarjali, temveč uživali v okusih.
+Afterwards, we met up with Jaka, a former team member and mentor who once again came to help run the event as a volunteer this year. We made our way to the Hakoya ramen restaurant, where we ran into the mentors of the Croatian team. We were given a sound piece of advice: if the gentleman says it is only a little spicy, do not believe him. When the huge bowls landed in front of us, together with side dishes of a special kind of ginger, we did not speak for a few minutes and simply savoured the flavours.
 
 ![](img/Day0_04.jpg)
 
-Gospoda smo pred odhodom še vprašali, če ima predlog kako priti do Seoula, ki je sicer manjše mesto od Incheona, vendar je glavno in najbolj poseljeno. Prejeli smo informacije o točnem avtobusu, medtem ko nam je Jaka zaupal kako deluje plačevanje poti na avtobusu oz. metroju. Tako smo šli po transportno kartico EZL, ki jo morajo uporabiti lastniki Android telefonov, pri čemer so jabučarji malo bolj priviligirani, saj potrebujejo le aplikacijio T-Money.
+Before leaving, we asked the gentleman whether he had any advice on how to get to Seoul, which is actually smaller than Incheon by area but is the capital and the most populous city. He told us exactly which bus to take, whilst Jaka explained how paying for bus and metro journeys works. So we went to get an EZL transport card, which Android phone owners must use, whereas Apple enthusiasts are a little more privileged, as all they need is the T-Money app.
 
 ![](img/Day0_041.jpg)
 
-Na recepciji smo prejeli kartice za dve sobi v hotelu s petimi zvedzicami, pri čemer so dijaki bili poseljeni v 48. nadstropju, mentorja pa primerno distancirana v 55. nadstropju.
+At reception, we received the key cards for two rooms in the five-star hotel, with the students lodged on the 48th floor and the two mentors at a suitable distance on the 55th.
 
 ![](img/Day0_042.jpg)
 
-Ker je danes, ponedeljek, naš edini prosti dan, smo se napotili do avtobusne postaje Incheon the Sharp First World, kjer smo se usedli na avtobus M6450 in se napotili proti Gangnam delu Seoula. Komplikacije v komunikaciji se niso ustavile le pri pisavi, vendar tudi pri dogovoru, da želimo plačati za več ljudi z ene kartice, komplikacije je voznik reševal par postaj. Dobro uro dolga pot nas je pripeljala do mesta z 10 milijon prebivalci.
+As today, Monday, was our only free day, we headed to the Incheon the Sharp First World bus stop, boarded bus M6450 and set off for Seoul’s Gangnam district. The communication difficulties did not stop at the alphabet: explaining that we wished to pay for several people with one card kept the driver busy for a few stops. A good hour’s journey brought us to a city of 10 million people.
 
 ![](img/Day0_06.jpg)
 
-Peš smo se napotili naprej do prodajalne z elektroniko, do kamor smo že dobili vtis Soulskih ulic, polnih restavracij in različnih trgovin. Stoplnica z 11 nadstropji stojnic je ponujala predvsem figure animiranih likov, nekaj stare avdio-elektronike, video igre in podobno. Med stojnicami se nismo sprehajali sami, saj je bilo veliko mladostnikov in mladostnic skupaj z nami tam, v upanju da bodo našli zbirateljski kos opreme.
+We continued on foot to an electronics market, and by the time we arrived, we already had a feel for Seoul’s streets, full of restaurants and all manner of shops. The 11-storey building full of stalls mostly offered figures of animated characters, some old audio electronics, video games and the like. We were not browsing the stalls alone, as plenty of teenagers were there with us, hoping to find a collector’s item.
 
 ![](img/Day0_044.jpg)
 
-Potepanje smo končali v Lotte trgovini v pritličju, kjer smo zagrabili prigrizke in pijačo ter se napotili proti naslednji destinaciji, kipu posvečenemu Gangnam style plesu. Kmalu smo cenili velikost Slovenije in njenih mest, saj je na pogled kratek sprehod postal daljši kot bi si lahko želeli. Namreč Google maps menda ni prav dolgo v Južni Koreji, zato ne zna oceniti čas pešpoti med dvema točkama. Tako smo prehodili dobrih 10 km peš in se ob tem nagledali vseh nenavadnih znakov, restavracij in košev za smeti.
+We concluded our wanderings at the Lotte shop on the ground floor, where we picked up snacks and drinks and headed for our next destination, the statue dedicated to the Gangnam Style dance. We soon came to appreciate the size of Slovenia and its towns, as what looked like a short walk turned out to be rather longer than we would have liked. Apparently, Google Maps has not been in South Korea for very long, so it cannot estimate walking times between two points. And so we walked a good 10 km, taking in all the unusual signs, restaurants and rubbish bins along the way.
 
 ![](img/Day0_045.jpg)
 
-Ugotovili smo, da so prebivalci koreje nori na tenis in golf, saj imajo posebne trgovine, predvsem za slednjega (npr. Nike Golf). Kar nas je na pešpoti presenetilo, je bila tudi količina visoko klasnih avtomobilov pred naključnimi restavracijami in pivnicami v naključnih ulicah.
+We discovered that Koreans are mad about tennis and golf, as they have dedicated shops, especially for the latter (e.g. Nike Golf). Another thing that surprised us on our walk was the number of high-end cars parked in front of random restaurants and pubs on random streets.
 
 ![](img/Day0_05.jpg)
 ![](img/Day0_07.jpg)
 ![](img/Day0_08.jpg)
 
-Končno smo prepešačili vse prehode za pešce in na poti do shopping centra Cemax uživali v širokih pločnikih s skoraj nič ljudmi. Najbolj smo se morali namatrati, da smo našli vhod v shopping center, zato smo šli vanj kar skozi podhod sosednjega hotela. V nakupovalnem središču smo srečali različne trgovine in restavracije, vendar naš cilj je bil si ogledati poseben prostor v izgledu knjižnice.
+We finally made it across every last pedestrian crossing and, on the way to the COEX shopping centre, enjoyed wide pavements with scarcely anyone on them. The hardest part was finding the entrance to the shopping centre, so we ended up going in through the underpass of the hotel next door. Inside, we came across all sorts of shops and restaurants, but our aim was to see a special space that looks like a library.
 
 ![](img/Day0_10.jpg)
 
-Ker se je čas zapiranja hitro bližal, smo našli izhod in se ob glavni cesti napotili do Gangnam style kipa, kjer imajo prijazno pripravljen ekran za predvajanje nekoč popularne skladbe glasbenika PSY.
+With closing time fast approaching, we found the exit and walked along the main road to the Gangnam Style statue, where they have kindly set up a screen that plays PSY’s once wildly popular song.
 
 ![](img/Day0_11.jpg)
 
-Noč še ni pozna, zato smo izkoristili čas in obiskali še budistični tempelj Bongeunsa čez cesto, kjer smo v popolni tišini hodili po klancu navzgor in si ogledali sveto mesto. Dobili smo veliko več kot smo pričakovali, saj nas je na vrhu pričakal ogromen lepo osvetljen spomenik, za tem ko smo že šli mimo prostorov za molitve.
+The night was still young, so we made the most of it and also visited Bongeunsa, the Buddhist temple across the road, where we walked uphill in complete silence and took in the sacred site. We got a great deal more than we expected: after passing the prayer halls, we were greeted at the top by a huge, beautifully lit monument.
 
 ![](img/Day0_12.jpg)
 ![](img/Day0_13.jpg)
 
-Zadnja stvar, ki je ostala je da ujamemo avtobus nazaj. Udobno smo se namestili na pravilni postaji, na kar smo par minut pred prihodom zasledlili enega izmed prvih angleških napisov, ki je pravil da se bo avtobus ustavil na nasproti strani ceste. Hitro smo stopili, ujeli zeleno luč na semaforju in z nekje dvema minutama počitka se udobno namestili na avtobus. Tokrat smo vozniku avtobusa kar pokazali prevod “pet oseb” in je šlo vse kot bi moralo. Namreč naj bi imeli prebivalci koreje drugačen način kako z eno roko pokažejo številko pet (namesto petih stegnjenih prstov, zaprta pest z iztegnjenim palcem). Na poti nazaj smo občutili razliko v udobju med eletričnim in navadnim avtobusom.
+All that remained was to catch the bus back. We settled in comfortably at the right stop, and a few minutes before the bus was due, we spotted one of the first English signs we had seen, saying that the bus would stop on the opposite side of the road. We hurried over, caught the green man and, with about two minutes to spare, settled comfortably onto the bus. This time, we simply showed the driver a translation of ‘five people’, and everything went as it should. Apparently, Koreans show the number five with one hand differently (instead of five outstretched fingers, a closed fist with the thumb sticking out). On the way back, we could feel the difference in comfort between an electric and an ordinary bus.
 
 ![](img/Day0_16.jpg)
 
-Željni počitka smo se vrnili v hotel, razpakirali stvari, postavili kupljene suvenirje na polico in se odpravili spat.
+Longing for some rest, we returned to the hotel, unpacked, put the souvenirs we had bought on the shelf and went to bed.
 
-Do naslednjič,
+Until next time,
 
 annyeonghi jumuseyo

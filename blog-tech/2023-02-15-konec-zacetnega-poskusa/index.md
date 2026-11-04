@@ -1,104 +1,53 @@
 ---
 slug: Konec začetnega poskusa
-title: Konec začetnega poskusa
+title: "The End of a First Attempt"
 authors: [ david-zindovic ]
 tags: [ ftc-2022 ]
 ---
 
 ![swag-IMG_1514-scaled-e1678047964690-930x620.jpg](img/swag-IMG_1514-scaled-e1678047964690-930x620.jpg)
 
-Zadnji dan prvega regijskega tekmovanja v Bukarešti je napočil. Dolgemu prebujanju, obilnemu zajtrku in spremljanju
-romunskih električarjev na delu je sledila pot do mesta naših poslednjih tekem za letošnjo sezono. Smehu popotniških šal
-je sedilo ogrevanje v obliki manjših popravkov na robotu in v samem programu. <!-- truncate --> Dokaj kmalu se je pri
-naši mizi oglasil prostovoljec z opozorilom za čakalno vrsto naše tekme. Tokrat smo igralnemu polju pristopili ob strani
-ekipe Evolution (#19131) na strani rdeče alianse. S strategijo skovano že prejšnji dan smo se ob zvoku troblje podali v
-igro z zaporedno številko 96. Tokrat smo čutili dodatno napetost, saj smo nasprotovali kolegom iz ekipe CSH(#17861).
-Kljub strategiji in koordiniraem sodelovanju smo bili preprosto nekoliko počasnejši od nasprotne barve in smo bili ob
-zaključnem pisku kratki ze nekaj točk.
+The last day of the first regional competition in Bucharest had dawned. A long awakening, a hearty breakfast and watching Romanian electricians at work were followed by the journey to the venue of our last matches of this season. Laughter at travellers’ jokes was followed by a warm-up in the form of minor repairs to the robot and to the program itself. <!-- truncate --> Fairly soon a volunteer called at our table to remind us to queue for our match. This time we approached the playing field alongside team Evolution (#19131), on the side of the red alliance. With a strategy forged the day before, we went into match number 96 at the sound of the horn. This time we felt extra tension, as we were up against our friends from team CSH (#17861). Despite our strategy and coordinated cooperation, we were simply a little slower than the opposing colour, and at the final whistle we were a few points short.
 
 ![IMG_1703-scaled.jpg](img/IMG_1703-scaled.jpg)
 
-Nastopajoči člani posadke so se vrnili k mizi zadovoljni in motivirani. Do naslednje tekme je ostalo kar nekaj časa,
-zato smo se odločili za obisk kolegov in nova spoznanstva. Spoprijateljili smo se z ekipo RoSofija. Debata o robotu in
-programu je prerasla v dobro prijateljstvo. Podarili so nam tudi romunsko različico Jafa piškotov, ki so bili prijeten
-prigrizek. Kasneje tekom dogodka so se oglasili še pri naši mizi in se pogovarjali z nami o trenutnem stanju države in
-njeni zgodovini. Najbolj smo se spoprijateljili s članoma Frumo in Sebi.
+The members of the drive team returned to the table content and motivated. There was quite some time left until the next match, so we decided to visit colleagues and make new acquaintances. We made friends with team RoSofija. A discussion about the robot and the program grew into a fine friendship. They also gave us the Romanian version of Jaffa Cakes, which made a pleasant snack. Later in the event they called at our table again and talked with us about the present state of their country and its history. We became closest to two of their members, Frumo and Sebi.
 
 ![20230215_123830-scaled.jpg](img/20230215_123830-scaled.jpg)
 
-Kmalu je minilo tudi kosilo in s tem tudi čas do naše zadnje kvalifikacijske tekme, z zaporedno številko 115. Še vedno s
-pritrjenim redčim kvadratom na strani robota smo pravočasno dognali strategijo z ekipo Gentlemen (#17857). Tokrat smo
-poslednjič pripeli svoje Driver in Coach broške na dres in se napotili k igralnemu polju. Začetka sirena je kmalu
-spustila svoj zvok, ki mu je sledila uspešna avtonomna faza za obe ekipi rdečih. Medtem ko smo poslušali s strani
-gledalcev “Haj rošu” (“dajmo rdeči”), smo manevrirali kar se je le dalo optimalno po polju in se držali dogovorjene
-“circuit” stratgije. Z uspešno napeljanim vezjem in zadovoljivim številom točk smo uspeli končati naš nastop na
-tekmovanju First Tech Challenge v uspešni luči.
+Soon lunch was over too, and with it the time until our last qualification match, number 115. Still with the red square fixed to the side of the robot, we worked out a strategy in good time with team Gentlemen (#17857). For the last time, we pinned our Driver and Coach badges to our shirts and made our way to the playing field. The starting siren soon sounded, followed by a successful autonomous phase for both red teams. Whilst the spectators chanted ‘Haj rošu’ (‘Come on, red’), we manoeuvred about the field as efficiently as we possibly could and stuck to the agreed ‘circuit’ strategy. With a successfully completed circuit and a satisfying number of points, we managed to end our appearance at the FIRST Tech Challenge competition in a good light.
 
 ![IMG_1428-scaled.jpg](img/IMG_1428-scaled.jpg)
 
-Kmalu po naši zadnji igri se je začel izbor alians za polfinale tekmovanja. Vedno več prisotnih se je nabiralo okoli
-igralnih polj, na balkonih in stopnicah, da so lahko spremljali pofinale in finale v živo, četudi s pogledom na veliki
-ekran. Napetost in hrup sta se le stopnjevala, kar je doprineslo k vzdušju samih iger, ki so bile v slogu "prva ekipa do
-dveh dobljenih iger, zmaga" (best of three).
+Soon after our last match, the alliance selection for the competition’s semi-finals began. More and more people gathered round the playing fields, on the balconies and on the stairs, so as to follow the semi-finals and finals live, even if by looking at the big screen. The tension and noise only mounted, adding to the atmosphere of the matches themselves, which were played on the principle of ‘the first team to win two matches wins’ (best of three).
 
 ![20230215_151021-scaled.jpg](img/20230215_151021-scaled.jpg)
 
-Ko je hrup publike in pihal usahnil, smo se premaknili s sosednji paviljon, kjer se je odvila slavnostna podelitev
-nagrad. Dogodek je vključeval nam tuji jezik (brez podnapisov), ploskanje in navijanje za naše prijatelje, ko so le ti
-osvojili nagrado. Po prijetnem dogodku smo se še zadnjič za ta dogodek sestali z našim prijateljem Christianom, s komer
-smo si uspeli izmejati še nekaj besed.
+When the noise of the audience and the horns had died away, we moved to the neighbouring pavilion, where the awards ceremony took place. The event involved a language foreign to us (without subtitles), applause, and cheering for our friends whenever they won an award. After the pleasant event, we met our friend Christian one last time at this event and managed to exchange a few more words.
 
 ![IMG_1594-scaled.jpg](img/IMG_1594-scaled.jpg)
 
-Hitro smo ugotovili kaj je sledeče na sporedu za lačne in utrujene tekmovalce in tekmovalke, kaj drugega kot pa večerja!
-Po krajšem obisku hotelskih soban smo se odpravili v nam že znan Carefour Express nakupovalni center. Tekom odločanja
-med ponudniki hitre hrane so do nas pristopili naši kolegi iz ekip DarkEnergy in DecebalTech. Pogovor je tekel o manj
-tekmovalnih tematikah, predvsem pa o hrani in središču mesta. Dolgemu pogovoru je sledilo še daljše poslavljanje, ki se
-je pa vendarle končalo z obilo nasmehov. Na koncu smo se v veliki večini odločili za obisk restavracije ChopStix, razen
-za nekatere, ki so se odločili za obisk ponunika Popeye’s. S polnimi trebuhi in dobrotami za na pot smo se odpravili do
-najbližje postaje za podzemni vlak.
+We quickly worked out what came next on the programme for hungry and tired competitors – what else but dinner! After a short visit to our hotel rooms, we set off for the Carrefour Express shopping centre we already knew. Whilst we were choosing between fast-food outlets, our friends from teams DarkEnergy and DecebalTech came up to us. The conversation turned to less competitive topics, chiefly food and the city centre. A long conversation was followed by an even longer farewell, which nevertheless ended with plenty of smiles. In the end the great majority of us decided on the ChopStix restaurant, apart from a few who opted for Popeye’s. With full stomachs and goodies for the road, we made for the nearest underground station.
 
 ![IMG_1683-scaled.jpg](img/IMG_1683-scaled.jpg)
 
-S pomočjo enostavnega sistema in voznega reda smo se kmalu uspeli usesti na vlak, ki nas je za le par minut v zameno za
-dobre pol evra pripeljal do središča mesta, natančneje v bližino znamenitosti, ki je prva na našem seznamu – parlament.
-Na poti do površja smo se srečali tudi s simulacijo Krasa, natančneje vetrov le tega. Nekaj minut hoje nas je pripeljalo
-do drugega največjega parlamenta na svetu, ki smo si ga lahko ogledali s parkinga, ki je primerno oddaljen od sprednje
-strani zgradbe.
+Thanks to a simple system and timetable, we were soon able to sit down on a train, which, in just a few minutes and in exchange for a good half a euro, took us to the city centre, close to the sight at the top of our list – the Parliament. On the way up to the surface we also encountered a simulation of the Karst – or rather of its famous bora wind. A few minutes’ walk brought us to the second-largest parliament building in the world, which we could view from a car park at a suitable distance from the front of the building.
 
 ![IMG_1684-scaled.jpg](img/IMG_1684-scaled.jpg)
 
-Ogled mesta smo nadaljevali v smeri starega mestnega jedra, ki ga okrašujejo visoke zgradbe, sumljivo temačni podhodi in
-malodane nerešljive Kirchoffove zanke. Ozke ulice so na srečo imele veliko manjših zemljevidov za lažjo orientacijo,
-tako da smo lahko brez težav si ogledali znamenitosti kot je Nacionalni muzej. Zaradi omejitev glede transporta smo
-morali pohiteti in smo na poti lahko ujeli le še nekaj zaprtih trgovin, cerkev, nacionalni muzej umetnosti, trg univerze
-in kip sedečega moškega (Iuliu Maniu). Hitre noge so nas pravočasno pripeljale do postaje ob reki, nato pa nas je vlak
-odpeljal nazaj do okolice nakupovalnega središča Carefour.
+We continued our tour of the city towards the old town centre, adorned with tall buildings, suspiciously dark underpasses and well-nigh unsolvable Kirchhoff loops. Fortunately the narrow streets had many small maps to help with orientation, so we could see sights such as the National Museum without difficulty. Owing to transport constraints we had to hurry, and on the way we could catch only a few closed shops, a church, the National Museum of Art, University Square and the statue of a seated man (Iuliu Maniu). Quick feet brought us to the station by the river in time, and then the train took us back to the neighbourhood of the Carrefour shopping centre.
 
 ![20230215_230358-scaled.jpg](img/20230215_230358-scaled.jpg)
 
-Toplina hotelskih soban nas je spravila v stanje udobja in nas spodbudila k še zadnjemu večernemu druženju v Romuniji,
-ki je pa žal bilo delno okrašeno tudi z pakiranjem orodja in lokalnih energijski pijač. Kmalu je napočil čas za spanec,
-vendar za nekatere prej kot za ostale. Novo jutro je s seboj prineslo nove avanture. Zaradi popoldanskega leta smo se
-odločili, da po srečanju z dvema prostovoljcema in zamenjavi majc, obiščemo znamenitost v neposrednji bližini – jezero
-Lacul Morii. Po zajtrku in oddaji kartic ter prtljage smo se napotili na ogled omenjene znamenitosti. Pot do tja smo
-napeljali skozi park, ki ga je skupaj z njegovo okolico načel čas in nas je spomnil na sovjetski slog. Igrala in
-dogajanje sta bila, kljub zelo prijetnemu sončnemu vremenu, precej nenavdušujoča, če ne štejemo vojaške opreme
-razstavljene v parku. Samo jezero je pa občutno večje od parka, obdaja ga pa tekaška steza in oboki v slogu moderne
-umetnosti, ki so služili kot preizkus hitrosti s pomočjo golobov. Na oddaljenem koncu je bilo možno opaziti manjši
-polotok, na katerem so ostanki starodavnih stebrov.
+The warmth of our hotel rooms put us in a state of comfort and encouraged one last evening get-together in Romania, which, alas, was partly taken up with packing tools and local energy drinks. Soon it was time for sleep, though for some sooner than for others. The new morning brought new adventures with it. As our flight was in the afternoon, we decided that after meeting two volunteers and swapping shirts, we would visit a sight close by – the lake Lacul Morii. After breakfast and handing in our key cards and luggage, we set off to see it. Our route led through a park which, together with its surroundings, had been worn by time and put us in mind of the Soviet style. The playground equipment and the goings-on were, despite the very pleasant sunny weather, rather uninspiring, if one does not count the military equipment on display in the park. The lake itself, however, is considerably larger than the park, and is surrounded by a running track and arches in a modern-art style, which served as a speed test with the help of pigeons. At the far end one could make out a small peninsula bearing the remains of ancient columns.
 
 ![IMG-20230216-WA0001.jpg](img/IMG-20230216-WA0001.jpg)
 
 ![IMG_1696-scaled.jpg](img/IMG_1696-scaled.jpg)
 
-Kmalu smo se vrnili v hotel, kjer nam je le še preostalo čakanje naročenega Uberja in klic Sina Valentina. Prevoz do
-letališča nam je ponudil ponovno izkušnjo romunskih vozniških spretnosti ter ogled znamenitosti kot sta Slavolok zmage (
-Arcul de Triumf) in Muzej vaške zgodovine. Srečanju na letališču je sledilo čakanje in checkin ter pojasnitev, da v
-škatli za robota vendarle niso buteljke vina. Tekom potovanja smo tudi objavili zahvalni video namenjen našim tokratnim
-podpornikom, Zavarovalnici Triglav.
+Soon we returned to the hotel, where all that remained was to wait for the Uber we had ordered and for a call from Sin Valentin. The ride to the airport offered us another taste of Romanian driving skills, as well as a look at sights such as the Triumphal Arch (Arcul de Triumf) and the Village Museum. Meeting up at the airport was followed by waiting, check-in and an explanation that the robot’s box did not, after all, contain bottles of wine. During the journey we also published a thank-you video for our supporters on this occasion, Zavarovalnica Triglav.
 
 ![IMG_1713-scaled.jpg](img/IMG_1713-scaled.jpg)
 
-Do prihodnjič,<br></br>
+Until next time,<br></br>
 salut

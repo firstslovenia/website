@@ -1,27 +1,27 @@
 ---
 slug: poslovilni-razgledi-na-stolpnice
-title: "Poslovilni razgledi na stolpnice"
+title: "Farewell Views of the Skyscrapers"
 authors: [ david-zindovic ]
 tags: [ fgc-2026 ]
 ---
 
 ![](img/Day7_00.jpg)
 
-Še zadnjič za letošnje leto so budilke naših telefonov zazvenele na korejskih tleh in najavile čas za vstajanje. S pripravljeno prtljago smo se napotili na prvi možni termin za zajtrk in se z zaspanimi pogledi še zadnjič ozrli na stolpnice in parke iz Oakwood Premier hotela.
+For the last time this year, the alarms on our telephones rang out on Korean soil, announcing that it was time to rise. With our luggage ready, we headed to the earliest possible breakfast sitting and, with sleepy eyes, took one last look at the skyscrapers and parks from the Oakwood Premier hotel.
 <!-- truncate -->
 ![](img/Day7_01.jpg)
 
-Preden smo se lahko po korejsko zahvalili smo že oddali kartice gospe na recepciji in se spustili 36 nadstropij nižje, kjer smo čakali na naš avtobus do letališča Incheon. Mirna vožnja, prebujajoče se mesto, Incheon napis na hribu v daljavi in pogled na letališče povedo vse. Na letališču smo uporabili še zadnje kose folije za sendviče za povijanje kovčkov, spili še zadnje kapljice tekočin in se napotili v check-in vrsto ob zvoku strojev za porivanje vozičkov za kovčke, ki med vožnjo predvajajo Für Elise od Beethovna. Pred oddajo prtljage smo morali še par stvari spraviti ven iz nahrbtnikov, saj so nas tokrat opozorili, da mora biti vsota teže nahrbtnika in majhnega kovčka 10 kg. Po odstranitvi in tehtanju, smo lahko pospravili nazaj. Deset minut smo še počakali, če bi nas slučajno poklicali nazaj v primeru neprimernih vsebin v oddani prtljagi (kot je robot).
+Before we could even say thank you in Korean, we had already handed our key cards to the lady at reception and descended 36 floors to await our coach to Incheon Airport. A calm ride, a city waking up, the Incheon sign on a hill in the distance and a view of the airport say it all. At the airport, we used the last pieces of cling film to wrap our suitcases, drank the last drops of our drinks and joined the check-in queue to the sound of the machines that push luggage trolleys and play Beethoven’s Für Elise as they go. Before dropping off our bags, we had to take a few things out of our rucksacks, as this time we were warned that a rucksack and a small suitcase together may not weigh more than 10 kg. Once everything was out and weighed, we could pack it all back in. We waited another ten minutes in case we were called back over anything unsuitable in our checked-in luggage (such as a robot).
 
-![](img/Day7_02.PNG)
+![](img/Day7_02.png)
 ![](img/Day7_021.jpg)
 
-Kmalu smo se napotili skozi varnostni pregled in mimo trgovin ter postaj za vrnitev davkov za nakupe kot tujec, vse do naših vrat za vkrcanje. Za tem smo si privoščili počitek in se sprehodili po trgovinah, mimo imitacije sprehoda kraljeve družine ter trgovin s krofi, sojuvenirji in magneti. Pomahali smo še slovu slovenskemu FIRST prostovoljcu Jakatu in se napotili na letalo, ki je bilo manj prostorno in luksuzno kot tisto, na katerem smo preživeli pot do Koreje. Kapljanje klime in prenos toplote nista najbolj pohvalni karakteristiki letala z Rolls-Royce oznako na sebi.
+Soon we made our way through security, past the shops and the tax refund stations for foreign shoppers, all the way to our boarding gate. We then allowed ourselves some rest and strolled about the shops, past a re-enactment of a royal procession and purveyors of doughnuts, souvenirs and magnets. We bade farewell to Jaka, the Slovenian FIRST volunteer, and boarded an aeroplane that was less spacious and luxurious than the one that had carried us to Korea. Dripping air conditioning and heat transfer are not the most commendable features of an aeroplane with Rolls-Royce written on it.
 
 ![](img/Day7_03.jpg)
 
-Tako smo ob filmih, spancu, večerji in zajtrku spet prepotovalni številne časovne pasove in kmalu začeli naš 5 urni prestop v Warsavi z avtomatizirano mejno kontrolo, ki ji je sledilo iskanje sedišča, spanec ali pa sprehod s trebuhom za kruhom. Pot do Zagreba smo prespali, na letališču pa pobrali kovčke, prešteli klobuke in se napotili proti prevozu s podaljšanim gasilskim kombijem domov.
+So, with films, sleep, dinner and breakfast, we once again crossed numerous time zones and soon began our five-hour stopover in Warsaw, with automated border control followed by a hunt for a seat, a nap or a stroll in search of food. We slept through the flight to Zagreb, and at the airport we collected our suitcases, counted our hats and set off for our ride home in an extended fire brigade van.
 
-Do naslednjič
+Until next time
 
 hayrli tun

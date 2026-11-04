@@ -1,6 +1,6 @@
 ---
 slug: ali-imate-kaksen-suvenir
-title: "Ali imate kakšen suvenir?"
+title: "Have You Got Any Souvenirs?"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---
@@ -11,57 +11,57 @@ tags: [ fgc-2025 ]
 <!-- truncate -->
 ![](img/driveteamakcija.jpg)
 
-Danes nas čakajo 3 tekme, zato smo zgodaj začeli s prvo tekmo dneva, ki jo organizatorji beležijo pod zaporedno številko 299. Tokrat smo krasili drečo stran skupaj z ekipama iz Združenih držav Tanzanije in Češke. Nadgradnje na robotu in dobra strategije sta se poplačala in smo uspeli pričarati izzid 74:68 na našo stran. Tokrat smo po dveh minutah in pol segli v roke predstavnikom San Marina, Nizozemske in Latvije.
+Three matches await us today, so we started early with the first match of the day, which the organisers list as number 299. This time we graced the red side together with the teams from the United Republic of Tanzania and the Czech Republic. The upgrades to the robot and a good strategy paid off, and we managed to conjure up a 74:68 result in our favour. This time, after two and a half minutes, we shook hands with the representatives of San Marino, the Netherlands and Latvia.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W_ZVyhQoIOg?si=Yy6hiWANcxhHo2px&amp;start=1795" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_ZVyhQoIOg?start=1795" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Kratka pavza in smo že drveli nazaj v čakalno vrsto. Tokrat smo bili poparčkani s sosedi in smo se lahko zbližali z Italijani, trojico so pa dopolnili še prestavniki Afganistana. Igra na polju 4 je bila napeta, vendar žal se je tekma št. 317 končala z zmago na strani kolegov iz Djibouti-ja, Cipra in Konga (36:40).
+A short pause, and we were already rushing back into the queue. This time we were paired with our neighbours and could get closer to the Italians, and the trio was completed by the representatives of Afghanistan. The match on field 4 was tense, but sadly match no. 317 ended in victory for our colleagues from Djibouti, Cyprus and the Congo (36:40).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W_ZVyhQoIOg?si=87uNzGz-phkbgBGo&amp;start=4331" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_ZVyhQoIOg?start=4331" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Da zaključimo spored smo pristopili še kvalifikacijski igri s številko 337 na polju 1. Tokrat smo imeli čast soustvarjati strategijo in igro skupaj z Nikaragvo in Kirgizistanom. Naš poskus na tekmovanju First Global Challenge smo zaključili z zmago proti (oz. z, saj želimo zmagati kot skupnost) Mozambiku (pri katerih je nastopal le human player, voznikov in robota ni bilo), Paragvaju in Arubi. Zaključne številke na ekranu so izpisale 48:40. Statistika za Slovenijo je s tem beležila 8 zmag, 2 izenačenji in 2 izgubi. 
+To round off the programme, we took part in qualification match number 337 on field 1. This time we had the honour of shaping the strategy and the match together with Nicaragua and Kyrgyzstan. We ended our attempt at the FIRST Global Challenge with a victory against (or rather with, since we wish to win as a community) Mozambique (who fielded only a human player – there were no drivers and no robot), Paraguay and Aruba. The final figures on the screen read 48:40. With that, Slovenia’s record stood at 8 wins, 2 draws and 2 defeats.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FbAeVwfciMQ?si=cqvyOio84_0DkONZ&amp;start=7566" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FbAeVwfciMQ?start=7566" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Bližal se je konec dogodka, zato smo morali začeti pospravljati štand. Preden smo se tega lotili smo poskrbeli, da smo se slikali z majicami naših sponzorjev.
+The end of the event was drawing near, so we had to start packing up the pit. Before setting about it, we made sure to have our photograph taken in our sponsors’ T-shirts.
 
 ![](img/squad.jpg)
 
-V procesu pospravljanja so se oglasili obiskovalci ostalih držav in nas prosili za podpise v knjigice, drese in nas vprašali če imamo še kaj suvenirjev. Debate so zabredle v presdstavitve o Sloveniji in v obratno smer, tako da vemo več o Južni Afriki, Alžeriji, Ukrajini in še nekaterih. Ko smo potrebovali počitek, smo se pa odpravili menjati dres za dres s prijateljskimi državami.
+Whilst we were packing up, visitors from other countries called by, asked us to sign their booklets and shirts, and asked whether we had any souvenirs left. The conversations drifted into presentations about Slovenia and vice versa, so now we know more about South Africa, Algeria, Ukraine and a few others. When we needed a rest, we went off to swap shirt for shirt with friendly countries.
 
 ![](img/razstavljanjestanda.jpg)
 
-Na večerji smo se pa najedli in po mnogih burgerjih je ostalo mnogo škatlic, zato so se naši dijaki odpravili na misijo, da izdelajo stolp. Ko se je le ta podrl, so se odločili ojačati strukturo v tristrano prizmo. Kmalu je izdelava stolpnice spodbudila druge države, da so prispevale svoje škatlice. Kmalu so priskočili na pomoč kolegi iz Moldavije in navdušeno pomagali pri stolpu. Po treh iteracijah smo skupaj našli idealno strukturo, ki je spominjala na Burj Khalifo iz Dubaja. Eno štuporamo kasneje smo bili na višini mnogih škatlic in dobili aplavz od dvorane ter pozorne poglede in nasmehe natakarjev. Stolp se je seveda potem podrl, vendar nič za to.
+At dinner we ate our fill, and after many burgers there were many boxes left over, so our students set off on a mission to build a tower. When it collapsed, they decided to reinforce the structure into a triangular prism. Before long, the building of the tower block encouraged other countries to contribute their boxes. Soon our colleagues from Moldova jumped in and helped with the tower enthusiastically. After three iterations, we found together the ideal structure, which resembled Dubai’s Burj Khalifa. One shoulder-stand later, we stood at the height of many boxes and received applause from the hall, as well as the watchful looks and smiles of the waiting staff. The tower then collapsed, of course, but no matter.
 
 ![](img/burgerkhalifa.jpg)
 
-S spakiranim robotom in pospravljenim štandom smo se napotili do avtobusa in v hotel. Slabo uro smo namenili pakiranju prtljage in zavarovanju robota.
+With the robot packed and the pit cleared, we made our way to the coach and back to the hotel. We devoted just under an hour to packing our luggage and securing the robot.
 
 ![](img/pakiranje.jpg)
 
-Za počitek od pakiranja smo naročili 2 Uberja in se odpravili v staro mesto oz. Casco Viejo. Nočno temo so krasile prijetne rumene luči, ki so nas spremljale že od naše prve postaje, in sicer parka Plaza Herrera. Tam smo si lahko ogledali spomenike in stavbe ter ujeli eno izmed še odprtih trgovin za suvenirje.
+For a rest from packing, we ordered 2 Ubers and set off for the old town, Casco Viejo. The darkness of night was adorned by pleasant yellow lights, which accompanied us from our very first stop, the Plaza Herrera park. There we could look at monuments and buildings and catch one of the souvenir shops still open.
 
 ![](img/trg.jpg)
 
-Z vrečami v rokah smo pot nadaljevali do konca polotoka, kjer smo poleg morja našli spomenike, stolp in manjše obzidje.
+Carrier bags in hand, we continued to the end of the peninsula, where besides the sea we found monuments, a tower and a small stretch of wall.
 
 ![](img/morjestolp.jpg)
 
-Nazaj v mesto nas je pospremil tunel lučk, za katerim smo zavili levo na ulico klobukov, pri kateri smo našli tudi trgovino s klobuki.
+A tunnel of lights escorted us back into town, after which we turned left into the street of hats, where we also found a hat shop.
 
 ![](img/lucketunel.jpg)
 ![](img/fantjeklobuki.jpg)
 
-Pot po ozkih pločnikih in mimo oboroženih policistov, ki varujejo trge, nas je popeljala do popeljala do umetnostnega muzeja, cerkve in nacionalnega gledališča.
+Our way along narrow pavements and past armed police officers guarding the squares led us to the art museum, a church and the national theatre.
 
 ![](img/epicpic.jpg)
 
-Na poti nazaj smo obiskali še cerkev in stavbe na trgu samostojnosti (Plaza De La Independencia).
+On the way back we also visited the church and the buildings on Independence Square (Plaza de la Independencia).
 
 ![](img/predcerkvijo.jpg)
 
-Za tem smo se mokrih las usedli v uber, ki smo ga morali naročiti v sosednji ulici od trga (zaradi policajev), in se odpravili domov.
+After that, with wet hair, we got into an Uber, which we had to order to the street next to the square (on account of the police), and went home.
 
-Do naslednjič,
+Until next time,
 
 dobroyi nochi

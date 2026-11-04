@@ -21,21 +21,21 @@ smo oddrveli na prvo resno igro, in sicer na tekmo številka 22, ki smo jo igral
 Maroka in Tunizija. Žal smo bili premagani z izzidom 24 - 32 proti modri alianci, ki so jo
 sestavljale Irak, Italija in Laos.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/V06dYpW1Yrw?si=OTZYkwNOXv4_FZhz&amp;start=4489" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/V06dYpW1Yrw?start=4489" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Manjši popravki in uvodna vaja so nam dali dodatno motivacijo, ki je prišla do izraza v naši
 drugi igri oz. tekmi številka 51, ki smo jo odigrali v družbi ekip iz Črne Gore in Kajmanskih
 otokov. Tokrat smo končali z močnejšim izzidom s kar 55 točkami, ki jih je pa uspela nasprotna
 alianca izenačiti. V igri proti državam Niger, Belorusija in Cookovi otoki ni bilo zmagovalca.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/Pu7E_WJHU_g?si=uudp9p1rpWLiSbnp&amp;start=12575" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/Pu7E_WJHU_g?start=12575" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Kmalu je nastopilo kosilo, ki nam je poleg skoraj zmagane igre dalo dodatno energijo. Pisk
 je ponovno naznanil začetek tekme, in sicer tekme številka 82. Tokrat smo združili moči s
 Ciprom in Ekvadorjem, da smo si pridobili zmago z rezultatom 48 - 42 proti Angoli, Alžiriji
 in Bocvani.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/V06dYpW1Yrw?si=Iph78Gqizm8fAHy6&amp;start=17316" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/V06dYpW1Yrw?start=17316" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Zadnja igra pred našo napovedano večerjo mešanih kultur je imela zaporedno številko 102.
 Tokrat smo na rdeči strani strani sodelovali z Japonsko in Urugvajem. Vse je tekoče teklo,
@@ -48,7 +48,7 @@ je rezultiral v spremembi strategije do te mere, da smo samo še prevažali roč
 rezultatom, saj se je igra končala z izzidom 57 - 77. S tem smo prvi dan točkovanih iger
 zaključili z 1 zmago, 1 izenačenjem in 2 izgubljenima igrama.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/Pu7E_WJHU_g?si=UDEZANhfYD42BBRq&amp;start=20014" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/Pu7E_WJHU_g?start=20014" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Napočil je čas, da se preoblečemo v nekoliko drugačna oblačila. Tokrat smo ubrali majice z
 napisom Slovenija in se ob klicu odpravili na avtobus proti Stavros Niarchos kulturnemu

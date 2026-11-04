@@ -1,51 +1,27 @@
 ---
 slug: ne-hiti-pocasi
-title: Ne hiti počasi
+title: "Do Not Make Haste Slowly"
 authors: [ ales-volcini ]
 tags: [ fgc-2017 ]
 ---
 
-Končno smo imeli prost dan, zato smo zjutraj kljub dragocenemu času spanje potegnili do
-pol desetih. Ob šestih zjutraj sem opazil, da so v našem nadstropju samo še ženski
-toaletni prostori. Very funny again.
+At last we had a day off, so despite time being precious, we stretched our sleep out until half past nine. At six in the morning I noticed that our floor now had only ladies’ lavatories. Very funny again.
 <!-- truncate -->
 
-Zanimivo, da nikoli nismo videli, kdo naše prostore sploh vzdržuje. Vedno so bili zjutraj
-snažni, pomiti in koš za smeti prazen. Tudi dvigalo, ki se je enkrat ali dvakrat pokvarilo,
-je bilo vedno kmalu v pogonu.
+Curiously, we never once saw who looked after our rooms. Every morning they were spotless and freshly cleaned, with the wastepaper basket emptied. Even the lift, which broke down once or twice, was always soon running again.
 
-Približno ob osmih sem spodaj slišal neke glasove in pogledal skozi okno. Zunaj pred vhodom
-sta bili parkirani dve policijski vozili, dva policista sta se pogovarjala z našo oskrbnico
-in se kmalu nato odpeljala. Malo iz dolgčasa, malo iz radovednosti sem se sprehodil po našem
-nadstropju, si ogledoval opremo in našel še drugo dvigalo. Nekatere ekipe so ta dan že
-odhajale in dve sobi sta bili odprti in razmetani, kot da je nekdo zelo malomarno in v
-naglici odhajal. Messy.
+At about eight o’clock I heard voices below and looked out of the window. Two police cars were parked outside the entrance; two officers were talking to our warden and drove off soon afterwards. Partly out of boredom and partly out of curiosity, I took a stroll around our floor, examined the furnishings and found a second lift. Some teams were already leaving that day, and two rooms stood open and in disarray, as though someone had left very carelessly and in a great hurry. Messy.
 
-Ko smo končno vsi vstali, so fantje šli v bližnjo delikateso na zajtrk, jaz pa sem počakal
-v sobi. Po zajtrku smo se odpravili v muzej aviacije in osvajanja vesolja Smitsonian. Tja
-smo prispeli približno ob pol dvanajstih. Vstop je bil brezplačen, so pa nas na vhodu
-pregledali, kot da se najmanj vkrcavamo na letalo. Ker ni bilo vstopnine, smo si ob treh
-lažje privoščili prigrizek v muzejskem McDonaldsu. Ogledovali smo si tudi spominke, a smo
-nakupe pustili za konec, ko bomo vedeli, kaj vse ponujajo. What a mistakea to makea.
+When we had all finally got up, the boys went to the nearby delicatessen for breakfast whilst I waited in the room. After breakfast we set off for the Smithsonian’s National Air and Space Museum. We arrived there at about half past eleven. Admission was free, but at the entrance we were searched as though we were boarding an aeroplane at the very least. As there was no entrance fee, we could more easily afford a snack at the museum’s McDonald’s at three o’clock. We also browsed the souvenirs, but left our purchases until the end, when we would know everything on offer. What a mistakea to makea.
 
-![Smitsonian](img/rover.jpg)
+![Smithsonian](img/rover.jpg)
 
-Za ogled smo namenili dve uri, a je zapiranje muzeja ob pol šestih zvečer prišlo tako
-iznenada, da nismo utegnili kupiti niti enega spominka. Sicer je bilo 15 minut prej po
-ozvočenju opozorilo, da nekaj zapirajo, a smo ga zanemarili, ker je bilo govora samo o
-galeriji, ki smo si jo trenutno ogledovali. Praktično pa so ob pol šestih vse obiskovalce
-po kavbojsko nagnali ven. Tudi v trgovino s spominki se ni dalo več. How rude.
+We had set aside two hours for the visit, but the museum’s closing at half past five in the evening came so suddenly that we did not manage to buy a single souvenir. To be fair, there had been an announcement over the loudspeakers 15 minutes earlier that something was closing, but we ignored it, as it mentioned only the gallery we were looking round at the time. In practice, however, at half past five they herded all the visitors out, cowboy-style. Even the souvenir shop was out of bounds. How rude.
 
 ![Windows 2000](img/2000.jpg)
 
-Odpravili smo se proti centru mesta, a ko smo prišli tja, razen trgovin, ob katerih se je
-denarnica kar skrčila, ni bilo videti ničesar posebnega. Menda je zvečer tamkajšnja
-razsvetljava zelo umetniška. Ker čakati na večer ni imelo smisla, smo naročili Lyft in si
-šli pogledat Lincoln Memorial, če je res tak, kot v Planetu opic.
+We headed towards the city centre, but when we got there, apart from shops at the sight of which one’s purse simply shrank, there was nothing special to see. Apparently the lighting there is very artistic in the evening. As there was no point in waiting for evening, we ordered a Lyft and went to see the Lincoln Memorial, to find out whether it really is as it appears in Planet of the Apes.
 
 ![Lincoln Memorial](img/kip.jpg)
 
-Naredili smo še kak kilometer in se usedli na klop ob reki ter tuhtali, kaj gremo še lahko
-gledat. In ugotovili smo, da še nismo šli pogledat nobenega trgovskega centra. Za konec
-dneva smo si potem ogledali še dve trgovini (BestBuy in Target) v 7 km oddaljenem trgovskem
-centru, kjer smo nakupili nekaj malenkosti za domov in na pot.
+We walked another kilometre or so, sat down on a bench by the river and pondered what else we might go and see. And we realised that we had not yet visited a single shopping centre. So, to round off the day, we looked round two more shops (Best Buy and Target) in a shopping centre 7 km away, where we bought a few trifles for home and for the journey.

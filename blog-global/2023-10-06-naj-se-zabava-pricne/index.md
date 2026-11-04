@@ -1,70 +1,41 @@
 ---
 slug: naj-se-zabava-pricne
-title: “Naj se zabava prične.”
+title: "‘Let the Fun Begin.’"
 authors: [ david-zindovic ]
 tags: [ fgc-2023 ]
 ---
 
-![Avtocesta](img/bus.jpg)
+![The motorway](img/bus.jpg)
 
-Drugi dan našega singapurškega soneta smo začeli z zajtrkom, ki je vključeval sončni vzhod
-in hrano kot so paratha (palačinke), poha(rumeni riž) in hway teow (praženi rezanci). Po
-zehanju smo se počasi odpravili v nagužvano dvigalo in skupaj z robotom v singapurško EXPO areno.
+We began the second day of our Singaporean sonnet with a breakfast that included a sunrise and food such as paratha (flatbread pancakes), poha (yellow rice) and kway teow (fried noodles). After some yawning, we slowly made our way into the crowded lift and, together with the robot, to Singapore’s EXPO arena.
 <!-- truncate -->
 
-Nam zanimiv dogodek nas je čakal v hali 3, medtem ko so v ostalih potekale tržnice in tudi
-največji sejem opreme za dojenčke. Nestrpno čakanje v predprostoru smo popestrili z debatami
-in obiski naših prijateljev. Ko so se vrata odprla, smo se odpravili v halo, v kateri nas
-je navdušila prostornost. Medtem ko je eden izmed mentorjev urejal postopek registracije
-ekip in ob tem prejel nekaj izdelkov za vsakega člana in mentorja svoje ekipe: dve majici,
-vreča, flaša, obesek in predvsem obesek z imenom udeleženca/-ke. Mentorje so člani nestrpno
-dočakali v družbi svojih prijateljev iz Nizozemske in petju Zdravnika.
+The event that interested us awaited us in Hall 3, whilst the other halls were hosting markets and even the largest baby equipment fair. We livened up the impatient wait in the foyer with discussions and visits from our friends. When the doors opened, we went into the hall, whose spaciousness delighted us. Meanwhile, one of the mentors saw to the team registration, receiving a few items for each member and mentor of the team: two T-shirts, a bag, a bottle, a keyring and, above all, a name badge for each participant. The members waited impatiently for the mentors in the company of their friends from the Netherlands, singing ‘Zdravnik’.
 
-![Z Nizozemci za mizo](img/zaMizo.jpg)
+![At the table with the Dutch](img/zaMizo.jpg)
 
-S koncem kratke veselice smo šli v gruči ljudi iskati še ostale nam znane reprezentance.
-Po krajšem času smo jih našli in odkrili, da imajo letos enega člana in mentorico, ki sta
-iz Slovenije. Martino in Ožbeja (ali kar Bej) je bilo prijetno spoznati in spremljati njuno
-prvo srečanje s tekmovanjem First Global Challenge.
+When the little party was over, we went off in a cluster to look for the other teams we knew. Before long we found them and discovered that this year one of them had a member and a mentor who were both from Slovenia. It was a pleasure to meet Martina and Ožbej (or simply Bej) and to accompany them on their first encounter with the FIRST Global Challenge.
 
-![Ožbej in novozalandci](img/novozalanci.jpg)
+![Ožbej and the New Zealanders](img/novozalanci.jpg)
 
-Kmalu je prišel čas za uradno odprtje štandov držav. Vsaka izmed držav je bila pričakana z
-aplavzom in vzkliki s strani organizatorjev v spodbudo.
+Soon it was time for the official opening of the national pits. Every country was greeted with applause and encouraging cheers from the organisers.
 
-![Luka pod FIRST Global zastavo](img/zastava.jpg)
+![Luka beneath the FIRST Global flag](img/zastava.jpg)
 
-Prva naloga dneva je bila okraševanje štanda, druga pa dopolnitev robota. Čeprav smo bili
-v zaostanku z nedokončanim robotom (podobno kot mnoge druge države), so naši prijatelji
-ekipe Netherlands bili na slabšem, saj njihovega robota niso naložili na letalo zaradi
-primankljaja dovoljenj. Novica nas je pretresla in smo želeli pomagati kolikor lahko. Čeprav
-je njihov načrt bil, da ga pošljejo 6.10. zjutraj, niso bili prepričani če bo prišel v času
-za prvo kvalifikacijsko tekmo. Zaradi tega smo dva naša člana, Jako in Brino, poslali v pomoč.
-Skupaj z njuno pomočjo je bil postopek izdelave robota občutno hitrejši.
+The first task of the day was decorating the pit, and the second was finishing the robot. Although we were behind schedule with an unfinished robot (like many other countries), our friends from the Netherlands team were worse off, as their robot had not been loaded onto the aeroplane owing to a lack of permits. The news shook us, and we wished to help as much as we could. Although their plan was to send it on the morning of 6 October, they were not sure whether it would arrive in time for the first qualification match. We therefore sent two of our members, Jaka and Brina, to help. With their assistance, building the robot went markedly faster.
 
-![Pomoč nizozemcem](img/nizozemci.jpg)
+![Helping the Dutch](img/nizozemci.jpg)
 
-Nastopil je čas za kosilo in napet izbor med 4 meniji (Western, Asian, International in Vegetarian),
-ki ga je vsak izmed nas prejel zapakiranega za s seboj, jedel pa kar tu. Ob kosilu in po le
-tem smo imeli priložnost se družiti z ekipo nizozemske (ob izdelovanju robotov obeh ekip)
-in se naučiti nekaj novih besed v njihovem jeziku (in obratno).
+Then came lunchtime and a tense choice between four menus (Western, Asian, International and Vegetarian), which each of us received packed to take away, but ate right there. Over lunch and afterwards, we had the opportunity to spend time with the Dutch team (whilst both teams worked on their robots) and to learn a few new words in their language (and they in ours).
 
-![Nizozemski cokli](img/cokli.jpg)
+![Dutch clogs](img/cokli.jpg)
 
-Dan smo zaključili s prejemom kuponov za večerjo in se odpravili v bližnjo barvito zgradbo
-(Timbre+) kot po navodilih organizatorjev. Tam nas je pričakala gneča in precejšen nabor
-restavracij, pri katerih smo lahko naše bone porabili s sistemom 2 bona za 1 glavno jed,
-ali pa 1 bon za 1 prilogo/sladico/posebno pijačo. Ekipa se je razdelila in se sestala pri
-vnaprej dogovorjeni mizi z piskajočimi obročki ter pridno počakala na svojo hrano (približno
-pol ure). Kar nekaj piščanca, riža, pekočih začimb in podobnih jedi kasneje smo ugotovili,
-da nam je še nekaj kuponov ostalo. Skupinska odločitev je vodila v vnovčitev kuponov v zameno
-za 6 napitkov iz sugarcane sestavine. Z okusnimi napitki in hrano v želodcih smo se odpravili
-na avtobus nazaj do hotela.
+We rounded off the day by receiving dinner vouchers and, as instructed by the organisers, headed to a colourful building nearby (Timbre+). There a crowd awaited us, along with a considerable selection of eateries, where we could spend our vouchers on the basis of two vouchers for one main course, or one voucher for one side dish, pudding or special drink. The team split up, reassembled at a table agreed in advance with their beeping buzzers, and waited patiently for their food (about half an hour). A good deal of chicken, rice, hot spices and similar dishes later, we realised that we still had a few vouchers left. A group decision led to their being cashed in for six sugar cane drinks. With tasty drinks and food in our stomachs, we went to catch the bus back to the hotel.
 
-![Tržnica hrane](img/food.jpg)
+![The food hall](img/food.jpg)
 
-Tam nas je ujela utrujenost, ki smo se je kmalu znebili s spancem (večina nas). 
-Jutri se pa tekmovanje uradno začne.
+There, weariness caught up with us, which we soon dispelled with sleep (most of us, at any rate).
+Tomorrow, however, the competition officially begins.
 
-Do prihodnjič,
+Until next time,
 Pō mārie

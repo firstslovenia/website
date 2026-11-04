@@ -1,47 +1,18 @@
 ---
 slug: opice-templji-in-mestne-cetrti
-title: Opice, templji in mestne četrti
+title: "Monkeys, Temples and City Quarters"
 authors: [ david-zindovic ]
 tags: [ fgc-2023 ]
 ---
 
 ![](img/zgradbe.jpg)
 
-Poslednje jutro našega obiska Singapurja smo začeli nekoliko kasneje kot ponavadi, saj smo
-želeli malo več počitka (in pospraviti nazaj prtljago). Po zajtrku smo se odjavili od hotela
-in pustili prtljago. Logistiki je sledil začetek naših zadnjih singapurških avantur.
+We began the final morning of our visit to Singapore somewhat later than usual, as we wanted a little more rest (and to pack our luggage again). After breakfast we checked out of the hotel and left our luggage there. The logistics were followed by the start of our last Singaporean adventures.
 <!-- truncate -->
 
 ![](img/graddbisce.jpg)
 
-Skočili smo na avtobus 980 in kasneje prestopili na linijo 166 (dvonadstropen), tako da smo
-si lahko ogledali mesto na drugačen način. Ta nas je odložil na postaji Flame Tree Park in
-smo začeli našo pot po njihovem narodnem parku. Pot z deščicami se je začela na Squirrel
-Trail trasi, na kateri smo imeli priložnost srečati rdeče kačje pastirje, lokalno rastlinstvo
-in veverice. S koncem omenjene trase so se začeli pojavljati znaki za usmeritev, pri čemer
-smo sledili znakom za TreeTop Walk. Na naši poti, ki je delno speljana vzporedno z lokalno
-cesto, smo srečali tudi druge pohodnike in celo dva kuščarja. Soparno vreme in visoke
-temperature niso bile ravno spodbudne, vendar je pot vedno hitreje minevala. Od 3km potrebnih
-do cilja smo slabe 2km prehodili precej hitro. Ustavili smo se ob posebnemu obisku – opice!
-Na poti smo srečali opice, ki so se mirno gibale po gozdu in plezale po drevesih. Naslednji
-postanek je bil pri pitnikih, ki so nameščeni tik pred najhujšim klancem celotne poti do
-Tree Top Walk-a. Asfaltirana pot ni bila ravno zanimiva, nas je pa presenetil nenaden dež,
-ki ni bil napovedan. Izkorstili smo srečo v nesreči kot priložnost za ohladitev. Na vrhu
-nas je čakal naš cilj in tudi sprememba načrta. TreeTop Walk – sprehod po mostu med gozdnimi
-krošnjami – ima pravilo, da ko obiskovalec stopi na most mora nadaljevati pot v smeri trase
-(ni vračanja po tej točki, kar znaki zelo očitno povejo). Tako smo z dežjem v laseh hodili
-v višini drevesnih krošenj in občudovali razgled, ki se razprostiral na vse strani. Za
-mostom nas je čakala pot z ograji in deščicami, tekom katere smo srečali kar nekaj sprehajalcev,
-ki so se skrili pred dežjem. Na koncu označene poti smo se lotili makedamske poti, ki nas
-je pripeljala nazaj do pitnikov, vendar je tokrat bil obisk nekoliko bolj zanimiv. Kmalu po
-začetku počitka so nas obiskale opice. Imeli smo priložnost videti mamo in njenega opičjega
-otroka ter tudi strategije tatvine : medtem ko je ena opica prikupna in krade pozornost,
-druga poskusi ukrasti karkoli pride po njene prste. Po nekem času in obili slik smo se
-odpravili nazaj po trasi po kateri smo prišli do pitnikov prvič. Na poti nazaj smo šli po
-drugi (lepši) poti do veveričje steze (Squirrel Trail) in smo lahko videli, da je takoj ob
-polnem sijanju sonca začela voda z lesenih desk izparevati. Po približno treh urah hoje smo
-opravili krog in se vrnili na začetno točko, kot je zemljevid na začetku napovedal. Prepoteni
-in utrujeni smo se odpravili na avtobus do naše naslednje točke.
+We hopped onto the number 980 bus and later changed to route 166 (a double-decker), so that we could see the city in a different way. It dropped us off at the Flame Tree Park stop, and we began our walk through their national park. The boardwalk began on the Squirrel Trail, where we had the chance to meet red dragonflies, the local flora and squirrels. At the end of that trail, signposts began to appear, and we followed the ones for the TreeTop Walk. Along our way, which runs partly parallel to a local road, we also met other walkers and even two lizards. The muggy weather and high temperatures were not exactly encouraging, but the path passed ever more quickly. Of the 3 km to our destination, we covered just under 2 km fairly swiftly. We stopped for some special visitors – monkeys! On the path we met monkeys moving calmly through the forest and climbing the trees. Our next stop was at the drinking fountains, which stand just before the steepest slope of the entire route to the TreeTop Walk. The tarmac path was not especially interesting, but we were surprised by a sudden shower that had not been forecast. Every cloud has a silver lining, and we took this one as a chance to cool down. At the top, our destination awaited us – and a change of plan. The TreeTop Walk – a walk along a bridge amongst the forest canopy – has a rule that once visitors step onto the bridge, they must carry on in the direction of the trail (there is no turning back after that point, as the signs make very plain). And so, with rain in our hair, we walked at the height of the treetops and admired the view stretching out on every side. Beyond the bridge, a path with railings and boards awaited us, along which we met a good many walkers sheltering from the rain. At the end of the marked path, we set off along a macadam track, which brought us back to the drinking fountains, but this time the visit was rather more interesting. Soon after we had begun our rest, the monkeys paid us a call. We had the chance to see a mother with her baby, as well as their thieving tactics: whilst one monkey is endearing and steals the attention, another tries to steal whatever comes within reach of its fingers. After a while, and a wealth of photographs, we set off back along the route by which we had first reached the drinking fountains. On the way back we took another (prettier) path to the Squirrel Trail and could see that, the moment the sun shone in full, the water began to evaporate from the wooden boards. After about three hours of walking, we had completed the loop and returned to our starting point, just as the map at the start had foretold. Drenched in sweat and weary, we went to catch the bus to our next stop.
 
 ![](img/veverica.jpg)
 ![](img/vGoszdu.jpg)
@@ -50,50 +21,24 @@ in utrujeni smo se odpravili na avtobus do naše naslednje točke.
 ![](img/nace.jpg)
 ![](img/treeTop.jpg)
 
-Kavarna s cenovno nedostopno glasbeno opremo, natančneje slušalkami, je bila točka za počitek
-za fante, medtem ko je preostali del ekipe prepešačil večji del mestne četrti Little India
-(ime izhaja iz tega, da tržnica, ljudje in vse ostalo spominja na Indijo) in ob tem si ogledali
-tudi dva hindujska templja: Sri Veeramakaliamman Temple in Sri Srinivasa Perumal Temple. Na
-koncu četrti so obiskali City Square Mall in poslali razglednice. Na poti nazaj do fantov
-se je preostanek ekipe ustavil tudi v trgovini za spominčke ter supermarketu z živimi ribami
-in raki ter nižajočim se stropom. Kmalu se je ekipa ponovno zbrala v trgovskem središču za
-računalniško opremo in elektroniko Sim Lim Square, ki ima kar šest nadstropij. Po krajšem
-preletu trgovin se je ekipa odpravila na kosilo v restavracijo Hill Street Tai Hwa Pork
-Nuddle, ki je street food z eno Michellinovo zvezdico.
+A café with prohibitively expensive audio equipment – headphones, to be precise – served as a resting point for the boys, whilst the rest of the team walked through most of the Little India quarter (so named because the market, the people and everything else are reminiscent of India), visiting two Hindu temples along the way: the Sri Veeramakaliamman Temple and the Sri Srinivasa Perumal Temple. At the far end of the quarter they visited City Square Mall and sent postcards. On the way back to the boys, the rest of the team also stopped at a souvenir shop and at a supermarket with live fish and crabs and an ever-lowering ceiling. Soon the team reassembled at Sim Lim Square, a shopping centre for computer equipment and electronics with no fewer than six floors. After a brief whirl round the shops, the team went to lunch at Hill Street Tai Hwa Pork Noodle, a street food stall with one Michelin star.
 
 ![](img/kafe.png)
 ![](img/piramida.jpg)
 
-Po kosilu se je ekipa razdelila na počivalno polovico, ki je ostala v hotelu, in raziskovalno
-polovico, ki se je odpravila v kitajsko četrt mesta – Chinatown. Različne trgovine, trgovski
-center in stojnice krasijo omenjeno četrt, pri čemer je preostanek pohodnikov bil na lovu za
-enim izdelkom, Maneki-Neko (figura mačke s premikajočo roko). Po uspešnem preletu in nakupu
-po nižji ceni je stoječa polovica ekipe hitro stopila na vijolično linijo metrojev, nato
-prestopila na zeleno, ki jih je pripeljala do hotela.
+After lunch the team split into a resting half, which stayed at the hotel, and an exploring half, which set off for the city’s Chinese quarter – Chinatown. The quarter is adorned with assorted shops, a shopping centre and market stalls, and the remaining walkers were on the hunt for one item in particular: a Maneki-Neko (the figure of a cat with a moving paw). After a successful sweep and a purchase at a lower price, the still-standing half of the team quickly boarded the purple underground line, then changed to the green one, which took them back to the hotel.
 
 ![](img/ulica.jpg)
 ![](img/zajcki.jpg)
 ![](img/macke.jpg)
 
-Pred odhodom na letališče je ostal le še en korak: preurejanje prtljage in s tem prerazporeditev
-teže. Z urejenimi kovčki smo se odpravili na zadnji avtobus tega potovanja. Na letališču smo
-opravili preskok med terminali s pomočjo vlaka seveda in opravili check in ter obenem tudi
-odložili robota in kovčke, ki jih pred Ljubljano ne bomo več videli. Za tem so se nekateri
-člani odločili za osvežitev pod letališkimi tuši, ki so bili le en parking stran od čakalnice
-v kateri so ostali ostali člani ekipe. Po ponovnem zboru je naša ekipa opravila varnosti
-pregled in oddrvela do čakalnice za naš let. Prej kot smo se zavedali smo že sedeli na letalu,
-pred nami je pa bil 13 urni let, ki smo ga na srečo večino prespali, čeprav po delih.
+Only one step remained before leaving for the airport: rearranging our luggage and, with it, redistributing the weight. With our suitcases in order, we set off for the last bus of this journey. At the airport we hopped between terminals – by train, of course – and checked in, at the same time dropping off the robot and the suitcases, which we would not see again before Ljubljana. After that, some members decided to freshen up in the airport showers, which were just a car park away from the lounge where the other members of the team stayed. Once reassembled, our team went through the security check and dashed off to the departure lounge for our flight. Before we knew it, we were sitting on the aeroplane, with a 13-hour flight ahead of us, most of which, fortunately, we slept through, albeit in fits and starts.
 
 ![](img/zurich.png)
 
-Nekaj obrokov, neudobnih pozicij za ležanje in filmov kasneje smo pristali na letališču v
-Zurichu. Tu smo ponovno obiskali vlak s spremljevalnim glasom risane junakinje Heidi, da smo
-lahko prišli do pravilnega dela letališča. En promocijski video za našega podpornika Zavarovalnico
-Triglav kasneje smo od dela letališča z najboljšimi trgovinami se odpravili do našega
-zadnjega gate-a. Švicarska temperatura nas je prijetno presenetila, saj nismo zašvicali.
-Let do domače prestolnice je bil kratek, preostal nam je le še najtežji del – poslavljanje.
+A few meals, uncomfortable sleeping positions and films later, we landed at Zurich airport. Here we once again rode the train with the accompanying voice of the cartoon heroine Heidi, so as to reach the right part of the airport. One promotional video for our supporter Zavarovalnica Triglav later, we made our way from the part of the airport with the best shops to our final gate. The Swiss temperature pleasantly surprised us, as for once we did not break into a sweat. The flight to our home capital was short; all that remained for us was the hardest part – saying goodbye.
 
 ![](img/brnik.png)
 
-Do prihodnjič
+Until next time
 再见

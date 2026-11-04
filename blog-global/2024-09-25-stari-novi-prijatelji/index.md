@@ -1,91 +1,47 @@
 ---
 slug: stari-novi-prijatelji
-title: Stari novi prijatelji
+title: "Friends Old and New"
 authors: [ david-zindovic ]
 tags: [ fgc-2024 ]
 ---
 
 ![](img/norvezani.jpg)
 
-Našo sredo smo začeli z obilnim zajtrkom na strehi hotela Titania ob sončnem vzhodu, do
-katerega smo se morali prebiti preko stopnišča zasilnega izhoda zaradi zasedenosti dvigal.
-V 11. nadstropju nas je dočakala gneča, poleg pogleda na akropolo. Pomanjkanje pribora je
-kompenzirala okusna hrana, ki smo jo morali hitro počistiti s krožnikov, da ne bi zamudili
-avtobusa, kot se je to zgodilo nekaterim državam, medtem ko nekatere druge sploh še niso
-prispele v Atene.
+We began our Wednesday with a hearty breakfast at sunrise on the roof of the Hotel Titania, which we had to reach by way of the emergency stairs, as the lifts were all taken. On the 11th floor a crush of people awaited us, along with a view of the Acropolis. The shortage of cutlery was made up for by the tasty food, which we had to clear from our plates quickly so as not to miss the coach, as had happened to some countries, whilst some others had not even arrived in Athens yet.
 <!-- truncate -->
 
 ![](img/zajtrk.jpg)
 
-Polne avtobuse olimpijcev je pot popeljala po avtocesti do stadiona miru in prijateljstva
-(Peace and Friendship Stadium). Olimpijska arena je postavljena tik ob morju in ima ukrivljeno
-streho v obliki čips-a. Naraščajoče temperature so z vsakim avtobusom spremljali tudi glasovi
-članov ekip, ki so nestrpno čakali na odprtje vhodnih vrat. V tem času smo imeli priložnost
-pozdraviti stare prijatelje, natančneje ekipi Slovaške in Norveške. Debate in spoprijateljevanje
-novih članov je hitro minilo, čas je bil da vsaka država najde svoje mesto v olimpijski
-abecedi in razpakira svoje orodje ter prične z delom na robotu.
+The coaches full of Olympians took the motorway to the Peace and Friendship Stadium. The Olympic arena stands right by the sea and has a curved roof in the shape of a crisp. With every coach, the rising temperatures were joined by the voices of team members waiting impatiently for the entrance doors to open. In the meantime we had the chance to greet old friends, namely the teams of Slovakia and Norway. The chatter and the befriending of new members passed quickly, and it was time for each country to find its place in the Olympic alphabet, unpack its tools and begin work on its robot.
 
 ![](img/arena.jpg)
 ![](img/slovenskeZastavce.jpg)
 
-Naše udomačevanje v kotičku z napisom “Slovenija” so popestrili stari prijatelji iz Južne
-Afrike, Slovaške in Solomonskih otokov. Za tem smo razpakirali robota in pričeli z manjšim
-po-transportnim servisom, ki ga je prekinila velika nesreča – z enega izmed verižnikov za
-naš dvigni mehanizem je zdrsnila ketna zaradi ponesrečene pozicije matice in vijaka ter se
-za tem zagozdila med verižnik in profil. Ketna poleg tega ni bila pravilno sestavljena.
-Kmalu smo ketno razstavili, popravili, ponovno napeljali in skupaj povezali oba konca.
-Podvozje robota je bilo pripravljeno, potrebno je bilo le še preizkusiti dvižni mehanizem,
-ki spominja na škarje.
+Our settling in to the corner bearing the sign ‘Slovenija’ was enlivened by old friends from South Africa, Slovakia and the Solomon Islands. After that we unpacked the robot and began a small post-transport service, which was interrupted by a great misfortune – the chain slipped off one of the sprockets of our lifting mechanism, owing to the unfortunate position of a nut and bolt, and then jammed between the sprocket and the aluminium profile. On top of that, the chain had not been assembled correctly. We soon took the chain apart, mended it, threaded it back on and joined both ends together. The robot’s chassis was ready; all that remained was to test the lifting mechanism, which resembles a pair of scissors.
 
 ![](img/borg.jpg)
 
-Dvižni mehanizem je s pomočjo elastik bil zmožen dviga dveh žog. Skrb se je porodila med
-člani ekipe zaradi nagibanja celotnega mehanizma tekom dviganja ali spuščanja. Zaradi enake
-poti oz. poteka pri dviganju in spuščanju smo se odločili mehanizem pustiti kot je. Sledilo
-je nekaj preizkusnih dvigov in urejanje rampe za samodejen potek žogic proti izhodu škatle.
-Pri tem je bilo potrebno urediti naklon, saj bi lahko premalo napihnjena žoga ušla ven iz
-škatle v primeru nenadnega ustavljanja robota.
+With the help of elastic bands, the lifting mechanism was capable of raising two balls. Concern arose amongst the team members over the whole mechanism tilting as it rose or descended. Since its path was the same going up as coming down, we decided to leave the mechanism as it was. There followed a few test lifts and some adjustment of the ramp that lets the balls roll of their own accord towards the exit of the box. In doing so, we had to adjust the incline, as an under-inflated ball could escape from the box if the robot stopped suddenly.
 
 ![](img/floor.jpg)
 
-Tekom popravljanja je mentor Luka prinesel škatlo z dresi, vrečkami, flašami in drugimi
-manjšimi darili, ki jih prejme vsaka država. Potna oblačila smo zdaj lahko končno zamenjali
-s športnimi majicami, kmalu za tem smo pa odkrili, da je vzrok za vročino na delovnem mestu
-vseh držav napačno montirana klimatska naprava z zunanjo enoto na našem koncu. Za tem smo
-se odločili začeti svetovno izmenjavo zastav, kjer lahko vsaka država dobi slovensko
-zastavo,če svojo pusti pri nas.
+During the repairs, our mentor Luka brought a box of team shirts, bags, bottles and other small gifts that every country receives. We could at last exchange our sweaty clothes for sports shirts, and soon afterwards we discovered that the cause of the heat in every country’s workspace was a wrongly installed air-conditioning unit, with its outdoor unit at our end. After that we decided to start a worldwide flag exchange, in which every country can have a Slovenian flag if it leaves its own with us.
 
 ![](img/mesaneZastavce.jpg)
 
-Kmalu po trenutkih obdarovanja smo se odpravili na kosilo, ki je zajemalo kar nekaj menijev
-in veliko dvorano, ki je sicer telovadnica z igrišči za košarko. Po kosilu s prijatelji iz
-Norveške smo se polni energije odpravili nazaj na pit oz. štand, kjer smo kmalu po vrnitvi
-dobili priložnost, da opravimo z inšpekcijo robota. Gospa je našega robota temeljito
-pregledala in po demonstraciji delovanja rekla, da smo čudovito opravili. Pozabila nam je
-dati nalepko za opravljen pregled in indikator v obliki LED lučke, ki je namenjen prikazovanju
-za katero stran (alianco) igraš, tako da smo to dobili kasneje.
+Soon after these moments of gift-giving, we went to lunch, which involved quite a few menus and a large hall that is otherwise a gymnasium with basketball courts. After lunch with our friends from Norway, we went back to our pit full of energy, where, soon after our return, we had the opportunity to get the robot inspection done. The lady examined our robot thoroughly and, after a demonstration of its workings, said that we had done a wonderful job. She forgot to give us the sticker for passing inspection and the LED-light indicator that shows which side (alliance) one is playing for, so we received those later.
 
 ![](img/judge.jpg)
 
-Po inšpekciji so se dijaki razdelili, pri čemer so nekateri odkorakali do poskusnih polj ostali
-pa na spoznavanje ostalih ekip oz. držav. V vmesnem času sta mentorja varovala naš štand
-in debatirala z mentorji ostalih ekip.
+After the inspection the students split up, some marching off to the practice fields and the others going to get to know the other teams, or rather countries. In the meantime the two mentors minded our pit and chatted with the mentors of other teams.
 
 ![](img/arabci.jpg)
 
-Po ponovnem zboru vseh dijakov na delovnem mestu smo slišali po ozvočenju za sestanek voznikov,
-ki smo ga zasledili tudi na že vnaprej objavljenem sporedu. Vozniki in t.i. človeški igralci 
-(human player) so tekom dobro uro dolgega sestanka izvedeli več o pravilih izvedbe samih
-tekem. Takoj po koncu sestanka se je odprla priložnost za poskusno igro in po enem klicu
-je bil robot že na poti.
+Once all the students had gathered at the workspace again, we heard over the loudspeakers about the drivers’ meeting, which we had also spotted on the schedule published in advance. Over the course of the meeting, a good hour long, the drivers and the so-called human players learnt more about the rules for running the matches themselves. Straight after the meeting ended, an opportunity for a practice match arose, and one call later the robot was already on its way.
 
 ![](img/practise.jpg)
 
-Po daljšem času so se dijaki vrnili, kot nalašč v času za večerjo. Tudi tokrat smo se v
-dveh izmenah podali na par minutni sprehod okoli celotne arene, da smo prispeli do jedilnice,
-kjer nas je dočakal nov meni in še ena obilna jed. Po večerji smo še pospravili naš štand
-in se odpravili na avtobus domov. Pred počitkom smo še zadnje popravke namenimili naši
-dokumentaciji in se dogovorili za tisk z osebjem na recepciji hotela.
+After quite some time the students returned, just in time for dinner, as luck would have it. This time, too, we went in two shifts on a walk of a few minutes around the entire arena to reach the dining hall, where a new menu and another hearty meal awaited us. After dinner we tidied up our pit and went to catch the coach home. Before turning in, we made our final corrections to our documentation and arranged with the staff at the hotel reception for it to be printed.
 
-Do naslednjič,
+Until next time,
 dobru noc

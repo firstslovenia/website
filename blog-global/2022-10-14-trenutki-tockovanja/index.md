@@ -1,43 +1,27 @@
 ---
 slug: trenutki-tockovanja
-title: Trenutki točkovanja
+title: "Moments of Scoring"
 authors: [ david-zindovic ]
 tags: [ fgc-2022 ]
 ---
 
-![Robot obešen po tekmi](img/hanging.jpg)
+![The robot hanging after a match](img/hanging.jpg)
 
-Petke običajno povežemo s počitkom in udobjem, v primeru svetovne olimpijade pa precejšnjo
-mero adrenalina in pozitivne nervoze. Po prvenstvenem zajtrku se je nenaspana reprezentanca
-odpravila proti vhodnim vratom Palexpo arene, za katerimi nas je še čakala obila dela na robotu.
+We usually associate Fridays with rest and comfort, but in the case of a world olympiad, with a considerable measure of adrenaline and positive nerves. After a championship breakfast, the sleep-deprived team set off towards the entrance of the Palexpo arena, behind which plenty of work on the robot still awaited us.
 <!-- truncate -->
 
-![Robot obešen po tekmi 2](img/hanging2.jpg)
+![The robot hanging after a match 2](img/hanging2.jpg)
 
-Tekom popravljanja smo prejeli urnik pripravnih tekem, ki so bile vse skupaj tri, te so se
-pa odvile med deveto in dvanajsto uro. Tekom preizkušanja je drive team (David, Ana, Jaka)
-odkril kup napak, ki so jih vsako prosto minuto poskušali popraviti. Trema pred prvimi
-ocenjevalnimi igrami, po katerih se tudi štejejo točke za uvrstitev na lestvici, je postala
-vse hujša. Na srečo nas je kosilo s pomočjo majhnih sendvičev in solat ter pudingov uspelo
-pomiriti.
+Whilst making repairs, we received the schedule of practice matches, three in all, which took place between nine o’clock and noon. During testing, the drive team (David, Ana, Jaka) discovered a heap of faults, which they tried to fix in every spare minute. The nerves before the first ranked matches, which count towards a team’s place on the leaderboard, grew ever worse. Fortunately, lunch, with the help of little sandwiches, salads and puddings, managed to calm us down.
 
-![Luka s tribun](img/tribune.jpg)
+![Luka in the stands](img/tribune.jpg)
 
-Prva ocenjevalna tekma je vozniški del ekipe pahnila v začasno slabo počutje, saj so prvi
-porazi najzahtevnejši za zaužiti. Vendar kot pravi Baltazarji, smo držali glave pokonci in
-si že z drugo igro prisvojili prvo zmago. Razmerje zmag proti izgubam je nihalo okoli ravnovesja,
-mesto na lestvici prvega tekmovalnega dne nam je pa tudi bilo všeč.
+The first ranked match plunged the drive team into temporary low spirits, as first defeats are the hardest to swallow. But like true Baltazars, we kept our heads held high and claimed our first win as early as the second match. Our ratio of wins to losses hovered around even, and we were rather pleased with our place on the leaderboard after the first day of competition.
 
-![Voznika tik pred tekmo](img/3-2-1.jpg)
+![The drivers just before a match](img/3-2-1.jpg)
 
-Poleg tekmovalnega dogajanja smo imeli tudi srečo v družabnih. Spoznali smo med drugimi reprezentanco
-Črne Gore ter dvojnika asistenta Fakultete za računalništvo. Bili smo tudi deležni prijetnega
-obiska gospe Bruant Gulejove iz CERN-a, ki se je zanimala za sodelovanje z dijaki naše srednje
-šole. Tik pred zaključkom dneva nas je obiskal krokodil, ki grize s šalami, gospod Michael
-iz Floride. Tisti večer je bil načrtovan kot kulturni večer, da bi udeleženci prišli na
-večerjo oblečeni v tradicionalna oblačila in tudi plesali svoje plese. Tovrstnega interesa
-žal ni bilo, vendar upamo, da se kaj takega pripeti prihodnje leto.
+Besides the competition itself, we were also fortunate on the social front. Amongst others, we met the team from Montenegro and the double of a teaching assistant from the Faculty of Computer and Information Science. We also had the pleasure of a visit from Ms Bruant Gulejová of CERN, who was interested in working with students from our secondary school. Just before the end of the day, we were visited by a crocodile who bites with jokes, Mr Michael from Florida. That evening was planned as a cultural evening, with participants coming to dinner dressed in traditional costume and performing their own dances. Sadly there was no interest of that sort, but we hope something of the kind happens next year.
 
-![Ekipa s pomembno gospo](img/pomembnaGospa.jpg)
+![The team with an important lady](img/pomembnaGospa.jpg)
 
-Do naslednjič, laku noč.
+Until next time, laku noć.

@@ -5,10 +5,8 @@ authors: [ david-zindovic ]
 tags: [ fgc-2020 ]
 ---
 
-Hipla hopla hop, pika poka čop. Se še spomnete tistega zapletenega stavka iz vašega otroštva?
-Tistega, ki smo ga vsi poskušali čim hitreje izustiti brez da bi se nam jezik zafecljal?
+Hipla hopla hop, pika poka čop. Do you still remember that tricky tongue-twister from your childhood? The one we all tried to say as fast as we could without our tongues getting in a twist?
 <!-- truncate -->
-No, danes vam bomo obudili spomin, na nekatere izmed njih. Lepo vabljeni, da si ogledate
-naš video (ki je tudi v angleščini!) :
+Well, today we shall jog your memory of a few of them. You are cordially invited to watch our video (which is in English, too!):
 
-P.S.:Ajvar je bil slikan v Dubaju, blizu Šumi bonbonov. #ostajamoglobalni
+P.S. The ajvar was photographed in Dubai, next to the Šumi sweets. #ostajamoglobalni (#westayglobal)

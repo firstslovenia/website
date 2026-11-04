@@ -1,29 +1,19 @@
 ---
 slug: vsaka-uspesna-zgodba-ima-ovire
-title: Vsaka uspešna zgodba ima ovire
+title: "Every Success Story Has Its Obstacles"
 authors: [ david-zindovic ]
 tags: [ fgc-2019 ]
 ---
 
 ![](img/featured.jpg)
 
-Nov dan, nove igre! Pomanjkanje spanca nas pri prvem dvoboju ni prav nič oviralo, saj smo 
-združeni s pozitivno naravnanostjo Gvajane in Gabona dosegli rezultat 119 : 60. Takratni
-rezultat domačinov je bil 3 : 1. <!-- truncate --> Po kratkem počitku smo z robotom v rokah
-že drveli nazaj v areno, kjer smo se spoprijateljili z Jamajčani in Estonci. Peta igra je
-potekala proti Tanzaniji, Madagaskarju ter Salomonovim otokom. Kljub večji količini morja
-okoli otoka je voda še vedno naplavila zmago na našo obalo. 4 : 1, lep rezultat, a prišel
-je tudi težji čas za nas, saj smo morali tokrat poraženo odkorakati od mize. Kljub pomoči
-Bermudov in Jordanije nam ni uspelo, vendar upanje umre zadnje! 4 : 2, ekipa je malce potrta,
-vendar še vedno nasmejanih obrazov. Sedem slovenskih palčkov je čakala sedma igra
-kvalifikacijskega kroga, vendar tokrat sedmica ni bila naša dobitna številka. 4 : 3. Nastopil
-je konec drugega dne. Sedaj le upamo, da bo naslednji dan uspešnejši od današnjega.
+A new day, new matches! Lack of sleep did not hinder us one bit in the first contest, as, joined by the positive attitude of Guyana and Gabon, we achieved a score of 119 : 60. Our record at that point stood at 3 : 1. <!-- truncate --> After a short rest, we were already racing back to the arena with the robot in our arms, where we made friends with the Jamaicans and the Estonians. The fifth match was against Tanzania, Madagascar and the Solomon Islands. Despite all the sea around those islands, the tide still washed a win up onto our shore. 4 : 1, a fine record, but a harder time came for us too, as this time we had to march away from the table defeated. Despite the help of Bermuda and Jordan, we did not manage it, but hope dies last! 4 : 2; the team was a little downcast, but still wearing smiles. The seven Slovenian dwarfs then faced the seventh match of the qualification round, but this time seven was not our lucky number. 4 : 3. And so the second day drew to a close. Now we can only hope that tomorrow will be more successful than today.
 
-Do prihodnjič, <br />
+Until next time, <br />
 God natt
 
-![Švedi in rumene majice](img/rumeneMajice.jpg)
+![The Swedes and the yellow shirts](img/rumeneMajice.jpg)
 ![SAR](img/sar.jpg)
-![Kavarna](img/kavarna.jpg)
+![The café](img/kavarna.jpg)
 ![Shopping](img/shopping.jpg)
 ![DUCKS](img/racke.jpg)

@@ -1,65 +1,39 @@
 ---
 slug: poslovilno-podpisovanje-majic
-title: Poslovilno podpisovanje majic
+title: "The Farewell Shirt-Signing"
 authors: [ david-zindovic ]
 tags: [ fgc-2023 ]
 ---
 
 ![](img/kazahstan.jpg)
 
-Zadnji tekmovalni dan se je pričel pestro, saj smo morali zgodaj vstati, da smo ugodili ekipi
-Kazahstana, ki so želeli skovati popolno strategijo za našo igro, do katere smo imeli še
-nekaj ur časa. Nekaj članov ekipe je naknadno vkorakalo v areno, medtem ko so ostali pridno
-risali in razmišljali o igri. Preizkušanje dvižnega mehanizma je prav tako zaznamovalo naš
-začetek dneva, skupaj z željo članov ekipe Kazahstana, ki so želeli pomagati pri popravilu
-oz. izboljšavi našega robota.
+The last day of competition got off to an eventful start, as we had to rise early to oblige the team from Kazakhstan, who wished to forge the perfect strategy for our match, which was still a few hours off. A few of our team members marched into the arena later, whilst the others diligently drew diagrams and pondered the match. Testing the lifting mechanism also marked the start of our day, together with the wish of the Kazakhstan team members to help repair, or rather improve, our robot.
 <!--truncate -->
 
 ![](img/reservoir.jpg)
 
-Ura tika taka, na nič ne čaka. Preden smo se zavedali smo že stali v čakalni vrsti z dobrim
-upanjem za [igro številka 280](https://youtu.be/96H0_qOIa84?t=7123). Tokrat smo bili
-priviligirano postavljeni na isto stran kot ekipi držav Kazahstan in Kambodža. Naša do
-popolnosti izpiljena strategija je delovala odlično in nam prinesla kar 155 točk! V igri
-proti ekipam držav Egipt, Centralna Afriška Republika in Bahami smo se na lestvici dvignili
-za kar 81 mest.
+Tick-tock goes the clock, and it waits for nobody. Before we knew it, we were already standing in the queue, full of hope, for [match number 280](https://youtu.be/96H0_qOIa84?t=7123). This time we had the privilege of being placed on the same side as the teams of Kazakhstan and Cambodia. Our strategy, honed to perfection, worked splendidly and brought us no fewer than 155 points! In the match against the teams of Egypt, the Central African Republic and the Bahamas, we climbed a full 81 places on the leaderboard.
 
 ![](img/redAlliance.jpg)
 ![](img/kazahstanCenter.jpg)
 
-V pozitivnem šoku smo se hvaležno vrnili v svoj štand po proslavljanju s prijatelji, ki so
-prišli navijati za nas. Počasi smo se seveda začeli pripravljati na našo zadnjo tekmo, ki
-je slučajno bila tudi zadnja tekma rednih kvalifikacij. V
-[igri številka 319](https://youtu.be/hQeEWxXgboc?t=12359) smo bili poparčkani z ekipama držav
-Tadžikistan in Kolumbija. To tekmovanje smo bili z majhnim zadovoljni, tako smo tudi z manjšo
-številko izzida 23:22 veselo odkorakali stran od igralnega polja. Zadnjo kvalifikacijsko
-tekmo je zmagala trojica, ki so jo tvorile ekipe držav Albanija, Eswatini in Dominica.
+In a state of happy shock, and after celebrating with the friends who had come to cheer us on, we gratefully returned to our pit. Slowly, of course, we began to prepare for our last match, which happened also to be the last match of the regular qualification rounds. In [match number 319](https://youtu.be/hQeEWxXgboc?t=12359) we were paired with the teams of Tajikistan and Colombia. At this competition we were content with little, and so, even with the smaller half of a 23:22 score, we marched cheerfully away from the playing field. The last qualification match was won by the trio formed by the teams of Albania, Eswatini and Dominica.
 
 ![](img/vobot.jpg)
 ![](img/tribune.jpg)
 
-Najboljših nekaj držav je bilo izbranih skupaj z nekaj naključnimi predstavnicami, da smo
-imeli končnih 32 ekip razdeljenih v štirice. Napete tekme so v finale pripeljale le tri izmed
-osmih štiric, zmagovalna štirica na podlagi povprečnega števila točk je bila sestavljena iz
-ekip držav: Kitajska, Eritreja, ekipa Hope in Vietnam.
+The top few countries were chosen, together with a few others at random, giving a final 32 teams divided into groups of four. Tense matches brought only three of the eight foursomes to the final; the winning foursome, on the basis of its average score, was made up of the teams of China, Eritrea, Team Hope and Vietnam.
 
 ![](img/nizozemci.png)
 
-Napetim igram je sledil obred podeljevanja nagrad. Mi smo bili deležni bronaste nagrade za
-pomoč ostalim ekipam (Helping Hands Award). Zapuščanje sedišč, iz katerih smo opazovali vse
-napete igre tekom dogodka, pomeni tudi zapuščanje singapurškega EXPO centra za seboj.
-Poslovili smo se od drugih ekip, izmenjali majice in podpise z ekipo Nizozemske ter se nato
-odpravili na večerjo. Ob poslavljanju in obroku smo lahko opazovali gradbenike, ki so prišli
-razstaviti štandte in tribune ter odstraniti napise First Global Challenge.
+The tense matches were followed by the awards ceremony. We received the bronze award for helping other teams (the Helping Hands Award). Leaving the seats from which we had watched all the tense matches over the course of the event also meant leaving Singapore’s EXPO centre behind us. We bade farewell to the other teams, swapped shirts and signatures with the Netherlands team, and then went off to dinner. Whilst saying our goodbyes and eating, we could watch the workmen who had come to dismantle the pits and the stands and to take down the FIRST Global Challenge signs.
 
 ![](img/suriname.png)
 ![](img/norvežani.png)
 
-Pa je že za nami. V hotelu smo si vzeli malo časa za oddih in se odpravili na sprehod do nam
-najbolj znane trgovine FairPrice po prigrizke, preden smo začeli z nabiranjem energije za naš
-zadnji dan v levjem mestu.
+And just like that, it is behind us. At the hotel we took a little time to rest and then went for a walk to the shop we knew best, FairPrice, for snacks, before we began gathering our strength for our last day in the Lion City.
 
 ![](img/waiting.jpg)
 
-Do prihodnjič,
+Until next time,
 Қайырлы түн

@@ -1,134 +1,60 @@
 ---
 slug: pokanje-mehanizma-mack-in-cevljev-vojakov
-title: Pokanje mehanizma, mačk in čevljev vojakov
+title: "A Snapping Mechanism, Exploding Kittens and Clattering Soldiers’ Shoes"
 authors: [ david-zindovic ]
 tags: [ fgc-2024 ]
 ---
 
 ![](img/grobnica.jpg)
 
-Nastopila je sobota, naš predzadnji dan v glavnem mestu Grčije. Jutranjemu ritualu je
-sledila obilna porcija dela, saj je bilo potrebno robota spraviti v red pred prvo tekmo dneva,
-ki pa ni bila ravno daleč stran od ure našega prihoda. Vijačenje se je žal zavleklo do te
-mere, da smo eno igro odigrali brez robota, le s človeškim igralcem, ki je zastopal našo
-ekipo. S tem smo tekmo številka 123 v družbi Argentine in Kapverdskih otokov proti zasedbi
-Saint Vincent in Grenadine, Maldivov ter Sudana zaključili s porazom (16 - 58).
+Saturday had arrived, our penultimate day in the Greek capital. The morning ritual was followed by a generous helping of work, as the robot had to be put in order before the first match of the day, which was not very long after the hour of our arrival. Unfortunately the work with the screwdrivers dragged on to such an extent that we played one match without a robot, with only our human player representing the team. So it was that we ended match number 123, in the company of Argentina and Cape Verde, against the line-up of Saint Vincent and the Grenadines, the Maldives and Sudan, with a defeat (16–58).
 <!-- truncate -->
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?si=gXGlAzbY1yMvj_nk&amp;start=2029" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?start=2029" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Vijačenje robota še ni bilo končano, smo pa kmalu po prvi uradni tekmi imeli napovedan
-nastop na dodatnem tekmovanju Skills Challenge, kjer naj bi unikatno možnost robota pokazali,
-česar se pa seveda na koncu nismo šli z nedelujočim robotom. Nastop smo preklicali in nadaljevali
-s servisiranjem. Robot je bil po nekem času v občutno bolj delujočem stanju z mehanizmom,
-ki se je uspel dvigniti. Pojavila se je težava pri dvigovanju dveh žog, zato smo bili
-primorani v tekmah dvigati le eno. Upogibanje je ostalo težava pri dvigu do 120cm, vendar
-je druga igra dneva nastopila prehitro. Tekma številka 153 je s piskom spustila modro alianco,
-ki smo jo sestavljali Slovenija, Vietnam in Filipini, ter rdečo alianco, ki so jo sestavljale
-Čad, Saint Lucia in Guam, v začetek tekme. Tokrat je zmago ponovno pobrala rdeča alianca z
-izzidom 53 - 31.
+The work on the robot was not yet finished, but soon after the first official match we were scheduled to appear in the additional Skills Challenge competition, where we were supposed to show off one of the robot’s unique capabilities – something which, with a robot that did not work, we naturally did not go through with in the end. We cancelled our appearance and carried on with the servicing. After a while the robot was in a markedly more working state, with a mechanism that managed to rise. A problem arose with lifting two balls, so we were obliged to lift only one in the matches. Bending remained a problem when lifting to 120 cm, but the second match of the day came round too soon. With a whistle, match number 153 set the blue alliance, made up of Slovenia, Vietnam and the Philippines, and the red alliance, made up of Chad, Saint Lucia and Guam, off on their match. This time, once again, the red alliance carried off the win, 53–31.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?si=IPPslYgt26dvl1A4&amp;start=7403" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?start=7403" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Naknadno smo ugotovili, da so za nas kritični deli (High Strength Hex Hub) bili tako nameščeni,
-da se ja vsakič uničil naslednji od prejšnjega dokler se ni zaključil krog. Seveda je bilo
-potrebno ob vsakem uničenju zadevo zamenjati. Preizkušanje je s seboj prineslo več uničenih
-komponent enake sorte, tako da je robot običajno obratoval dobro približno malo več kot eno
-igro, preden je potreboval servis. Kompleksen sistem, ki smo ga načrtali in izdelali, je
-sicer impresiven, vendar ima premalo moči oz. preveč kritičnih točk.
+We later realised that the parts critical to us (the High Strength Hex Hubs) were fitted in such a way that each one failed in turn after the one before it, until the cycle came full circle. Naturally, each breakage meant the part had to be replaced. Testing brought with it more broken components of the same kind, so the robot usually ran well for a little more than one match before it needed servicing. The complex system we designed and built is impressive, to be sure, but it has too little power, or rather too many critical points.
 
 ![](img/dreml.png)
 
-Dan smo nadaljevali in nastopili na tekmi številka 209 v družbi Moldavije in Turkmenistana.
-Na drugi strani polja smo lahko videli predstavnike Severne Makedonije, Nigerije in Deviških
-otokov (Ameriško ozemlje). Omenjena igra je bila za nas znatnega pomena, saj je Moldavija
-ena izmed najboljših držav na tekmovanju in to je ena izmed naših redkih priložnosti, da
-lahko igramo ob strani enega izmed najboljših robotov. Tokrat je bila premoč na naši strani
-in smo uspeli v štand priti nasmejani in motivirani zaradi tekme z izzidom 113 - 57.
+We carried on with the day and played in match number 209 in the company of Moldova and Turkmenistan. On the other side of the field we could see the representatives of North Macedonia, Nigeria and the Virgin Islands (the American territory). This match was of considerable importance to us, as Moldova is one of the best countries in the competition, and it was one of our rare opportunities to play alongside one of the best robots. This time the upper hand was ours, and we came back to the pit smiling and motivated after a match that ended 113–57.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/V9FKjsyXfr0?si=Cj2958JK9F2jgdIc&amp;start=18604" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/V9FKjsyXfr0?start=18604" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Sledilo je kosilo, do katerega smo se lahko odpravili nekoliko manj prepoteni, saj so nas
-že od jutra hladili ventilatorji, ki kompenzirajo narobe nameščeno klimo. Kmalu je nastopil
-čas za tekmo številka 238. Tokrat smo igrali le v dvojici skupaj z članico iz Afganistana,
-ki žal ni mogel pripeljati preostanka ekipe zaradi težav na meji. Tretja članica rdeče
-alianca bi morala biti ekipa Marshallovih otokov, ki se pa ni prikazala. Na nasprotni strani
-smo lahko videli robote Britanskih Deviških otokov, Pakistana in Libije. Zmaga je pristala
-na strani modre aliance z izzidom 43 proti 22.
+Then came lunch, to which we could go somewhat less drenched in sweat, as since the morning we had been cooled by fans making up for the wrongly installed air conditioning. Soon it was time for match number 238. This time we played as a pair only, alongside Afghanistan, which sadly could not bring the rest of its team owing to problems at the border. The third member of the red alliance should have been the team from the Marshall Islands, which, however, did not appear. On the opposite side we could see the robots of the British Virgin Islands, Pakistan and Libya. Victory went to the blue alliance, 43 to 22.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/53eYbymnZd4?si=QUg66DSKfddGM_FG&amp;start=22979" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/53eYbymnZd4?start=22979" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Vmesni odmori med tekmami so omogočili reden servis in tudi preizkušanje sladkarij skoraj
-vseh držav sveta. Sladkor se je izkazal za solidno surovino za točke, vendar ga očitno ni
-bilo dovolj, da bi lahko tekmo številka 263 končali na zmagovalni polovici. Tokrat smo na
-modri strani sodelovali s Federativnimi državami Mikronezije in Singaporjem, ki so mu naši
-člani pripeli vzdevek "Sigmapor", s katerim so se popolnoma nasmejani strinjali. Rdečo
-stran so krasili zastopniki Kostarike, Kitajske in Barbadosa. Tokrat si je naša stran
-uspela prislužiti kar 85 točk, vendar smo bili za 8 prekratki. Tako se je igra končala z
-izzidom 93 - 85 za nasprotnike.
+The breaks between matches allowed for regular servicing and also for sampling sweets from nearly every country in the world. Sugar proved a solid raw material for points, but evidently there was not enough of it for us to finish match number 263 on the winning half. This time, on the blue side, we worked with the Federated States of Micronesia and Singapore, on whom our members pinned the nickname ‘Sigmapore’, to which they agreed, beaming from ear to ear. The red side was graced by the representatives of Costa Rica, China and Barbados. This time our side managed to earn no fewer than 85 points, but we fell 8 short. And so the match ended 93–85 to our opponents.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/V9FKjsyXfr0?si=1gmXxXzK7apTq8GT&amp;start=26367" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/V9FKjsyXfr0?start=26367" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Tekom dneva smo imeli priložnost si ogledati ponudbo ameriških kolidžev WPI in MIT ter tudi
-kaj počnejo pri grških izobraževalnih, telekomunikacijskih in energetskih podjetjih. Poleg
-omenjenega smo lahko tudi videli primer lesene robotske gospe, ki se lahko premika s pomočjo
-stročnic in natoči mešanico vode in vina, ko je v njeno dlan postavljena posoda. S tem smo
-se lahko kratkočasili, ko nismo popravljali našega prekompleksnega mehanizma.
+During the day we had the chance to look at what the American colleges WPI and MIT have to offer, and also at what Greek education, telecommunications and energy companies do. Besides this, we could also see an example of a wooden robot lady who can move with the help of legumes and pours a mixture of water and wine when a cup is placed in her palm. With these we could while away the time when we were not repairing our over-complicated mechanism.
 
 ![](img/pinecil.jpg)
 
-Občutne težave so se izkazale za usodne pri tekmi številka 285, ki je zaznamovala tudi zadnjo
-za predzadnji dan tekmovanja. Tokrat smo kot vsako tekmo predčasno skovali strategijo, le
-da smo se tokrat pogovarjali z Luksemburgom ter Antigvo in Barbudo. Čeprav morajo naši roboti
-sodelovati, se to redko izkaže med modro in rdečo alianco, ki so jo tokrat sestavljale ekipe
-iz Svazija, Libanona in Ukrajine. Žal smo zadnjo igro dneva končali s porazom, v številkah 50 - 32.
+Serious problems proved fatal in match number 285, which was also the last of the penultimate day of competition. As before every match, we forged a strategy in advance, only this time we were conferring with Luxembourg and Antigua and Barbuda. Although our robots are meant to cooperate, this rarely shows between the blue and the red alliance, the latter made up this time of the teams from Swaziland, Lebanon and Ukraine. Sadly we ended the last match of the day with a defeat, 50–32 in figures.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?si=F0O_w0e07r_kOzP3&amp;start=29180" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?start=29180" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Po napornem tekmovalnem delu dneva se spodobi sprostitev, ki so nam jo organizatorji zagotovili
-v baru poleg stadiona miru in prijateljstva. Tam so nas čakale aktivnosti, kot je bilo risanje
-tetovaž z vodnimi barvami, labirint in decimalke številke pi, po kateri je zabava tudi poimenovana.
-Naša prva postaja je bila ob vhodu, kjer smo si lahko izdelali broško po želji. Temu je
-sledila menjava kupona za brezalkoholno pijačo po želji. Za tem, ko smo našli prosto mizo
-brez sedežev (stoječa miza) smo se odločili stoje začeti z igro Exploding Kittens. Tekom
-naše igre se je na najbolj odprtem delu plesišča pričela predvajati glasba, ob kateri so se
-lahko obiskovalci naučili tradicionalnih grških plesov. Naših nekaj iger ekspolizivnih muckov
-se je razvleklo do odhoda avtobusov. Tekom čakanja ob cesti izven bara smo uspeli stopiti
-do morja in si namočiti prste. Naše čakanje avtobusa za hotel Titania je bilo utrujajoče,
-saj smo čakali pravilen avtobus iz kolone avtobusov, pri čemer smo čakali približno 1,5 h.
+After the strenuous competitive part of the day, some relaxation is only proper, and the organisers provided it at a bar next to the Peace and Friendship Stadium. There, activities awaited us such as painting watercolour tattoos, a maze, and the decimals of the number pi, after which the party was also named. Our first stop was by the entrance, where we could make a brooch of our own design. This was followed by exchanging a voucher for a soft drink of our choice. Having found a free table without seats (a standing table), we decided to start a game of Exploding Kittens on our feet. During our game, music began to play on the most open part of the dance floor, to which visitors could learn traditional Greek dances. Our few games of exploding kittens stretched out until the coaches left. Whilst waiting by the road outside the bar, we managed to pop down to the sea and dip our toes in. Our wait for the coach to the Hotel Titania was tiring, as we had to wait for the right one out of a long line of coaches, which took about an hour and a half.
 
 ![](img/palma.jpg)
 
-Po povratku v hotel smo se hitro preoblekli in se podali na sprehod po mestu. Naš prvi obisk
-je bila državna banka, pred katero vedno varujeta dva vojaka kip neznanega padlega vojaka.
-Ob polni uri se straža zamenja, kar je v Atenah ena izmed znamenitosti. Ker smo prispeli
-dobrih deset minut pred začetkom menjave smo se sprehodili po podhodu, ki je med drugim
-tudi postaja za podzemni metro, vendar ima tudi razstavo na prostem. Ogledali smo si lahko
-ostanke posod in obzidja oz. grobov. Nato smo skočili še do bližnjega parka, znotraj
-katerega se skriva palača, pred katero so ob času našega obiska stali manjši šotori,
-ki so nas spomnili na DM-ov tek za ženske.
+On returning to the hotel, we quickly changed and went for a walk about the city. Our first visit was to the national bank, in front of which two soldiers always guard the statue of the unknown fallen soldier. On the hour, the guard changes, which is one of the sights of Athens. As we had arrived a good ten minutes before the changing began, we walked through the underpass, which, amongst other things, is also a station for the underground, but which also has an exhibition open to passers-by. We could see the remains of vessels and of walls, or rather graves. Then we popped over to a nearby park, within which a palace lies hidden, and in front of which, at the time of our visit, stood some small tents that reminded us of the DM women’s run back home.
 
 ![](img/luc.jpg)
 
-Ravno ob pravem času smo se lahko pridružili čredi obiskovalcev, ki so prav tako prišli na
-ogled menjave straže. Za čas menjave stojita dva manj tradicionalna oz. zanimiva vojaka pri
-hišici blizu, eden ki bo za čas izmene tam in drugi, ki bo pospremil vojaka, ki sta pravkar
-opravila dolžnost. Menjava traja nekaj minut in zahteva s strani obiskovalcev, da stojijo
-na primerni razdalji stran, saj so sicer opozorjeni, da naj stopijo nazaj. Tekom menjave
-pristopita nova dva vojaka s počasnim dvigom ene roke in noge ter slišnim podrsavanjem čevljev
-z večjo okroglo bunko na koncu čevlja. Vojaki so opravljeni v tradicionalna oblačila in nosijo
-čepico ter orožje ves čas. Po menjavi nova vojaka stojita vsak pri svoji postaji, stacionirani
-(" manj tradicionalen ") vojak jima pride popraviti oblačila in čepico. Tradicionalna vojaka,
-ki sta opravila izmeno, pospremi eden izmed dveh manj tradicionalnih vojakov, ki prvo mora
-zagotoviti prostor med ljudmi, da lahko pridejo mimo.
+Just in time, we joined the herd of visitors who had likewise come to watch the changing of the guard. During the changing, two less traditional, or rather less interesting, soldiers stand by a little sentry box nearby: one who will remain there for the duration of the watch, and another who will escort the two soldiers who have just completed their duty. The changing lasts a few minutes and requires visitors to stand at a suitable distance, as otherwise they are told to step back. During the changing, the two new soldiers approach, slowly raising one arm and one leg, with an audible scraping of their shoes, which have a large round pompom on the toe. The soldiers are dressed in traditional garb and wear a cap and carry a weapon at all times. After the changing, the two new soldiers each stand at their post, and the stationed (‘less traditional’) soldier comes to straighten their clothes and caps. The two traditional soldiers who have finished their watch are escorted away by one of the two less traditional soldiers, who must first clear a way through the crowd so that they can pass.
 
 ![](img/stavba.jpg)
 
-Za tem smo se odločili pogledati park, ki je spominjal na domači park Zvezda s fontano v
-sredini. Nekateri člani ekipe so se z mentorjem ustavili na večerji v KFC-ju, medtem ko so
-se ostali odpravili na počitek v hotel, pri čemer so na poti iskali še diagonalne torbice.
+After that we decided to look at a park that resembled Park Zvezda back home, with a fountain in the middle. Some members of the team stopped with a mentor for dinner at KFC, whilst the others went back to the hotel to rest, looking for cross-body bags on the way.
 
 ![](img/vodospric.jpg)
 
-Do naslednjič,
+Until next time,
 تصبح على خير

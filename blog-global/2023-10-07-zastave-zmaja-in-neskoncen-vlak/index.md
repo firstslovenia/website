@@ -1,67 +1,40 @@
 ---
 slug: zastave-zmaja-in-neskoncen-vlak
-title: Zastave, zmaja in neskončen vlak
+title: "Flags, Dragons and an Endless Train"
 authors: [ david-zindovic ]
 tags: [ fgc-2023 ]
 ---
 
-![Jaka, Jurij in Vid](img/jakaJurijVid.png)
+![Jaka, Jurij and Vid](img/jakaJurijVid.png)
 
-Dan srečne številke v oktobru, 7.10.2023, se je začel počasi in postal vsak trenutek bolj
-pospešen. Obilnemu zajtrku in pol ure vožnje je sledilo popravljanje robota z namenom
-pridobitve kljukice pri robotskem inšpektorju.
+The day of the lucky number in October, 7 October 2023, began slowly and grew busier by the minute. A hearty breakfast and half an hour’s drive were followed by repairs to the robot, with a view to earning a tick from the robot inspector.
 
 <!-- truncate -->
 
-Po kosilu so nas čakali le še manjši popravki, brez katerih nam je vseeno uspelo priti skozi
-inšpekcijo! Očitno jih kakšen nepovezan kabel prav nič preveč ne moti. Veseli smo bili, da
-smo dobili kljukico in zeleno nalepko dovolj zgodaj, saj je ob dveh popoldne po singapurškem
-času (ki je šest ur naprej od domačega) naše člane in članici čakala vaja za otvoritveno
-prireditev. Čakanje v vrsti in vihtenje zastave lastne države v kulturnih oblačilih ni
-ravno najlažje opravilo, sploh če je teh zastav 191.
+After lunch only minor repairs awaited us, and even without them we nonetheless managed to pass inspection! Evidently the odd unconnected cable does not trouble them unduly. We were glad to have received the tick and the green sticker early enough, as at two o’clock in the afternoon, Singapore time (six hours ahead of home), our team members had a rehearsal for the opening ceremony. Queuing and waving one’s own country’s flag in national dress is not exactly the easiest of tasks, especially when there are 191 flags.
 
-![Pred opening ceremony-jo](img/vegovcki.png)
+![Before the opening ceremony](img/vegovcki.png)
 
-Po vaji smo bili veseli obiska naših prijateljev iz države Suriname, sploh pa mentorja Yurija,
-s katerim smo se spoprijateljili že lansko leto v Ženevi. Darilo prijateljstva se ni končalo
-le pri kolegih, ki radi zaužijejo aligatorje, saj smo srečali tudi Christiana iz Romunije,
-ki nam velikokrat nameni pozitiven nasvet in je poln zanimivih šal in zamisli o šolstvu.
-Ta dan smo tudi obiskali članice balkana, ki so nas povabile na skupinsko sliko, ki je že
-nekakšna tradicija na dogodku First Global Challenge.
+After the rehearsal we were glad of a visit from our friends from Suriname, and especially from their mentor Yuri, with whom we had already made friends last year in Geneva. The gift of friendship did not end with our alligator-eating friends, as we also met Christian from Romania, who often gives us positive advice and is full of interesting jokes and ideas about education. That day we also visited our fellow Balkan teams, who invited us to a group photograph, which is by now something of a tradition at the FIRST Global Challenge.
 
 ![Team Yugoslavia](img/jugoslavija.png)
 
-“Pa začnimo dogodek!”, so si rekli organizatorji. Otvoritvena proslava je vključevala sprehod
-vsake izmed 191 držav po odru med igralnimi polji, pri čemer so vihteli zastavo in po želji
-oblekli narodno nošo. Vsak sprehod je spremljala anekdota s strani komentatorjev. Morje
-zastav je bilo z vsako ekipo bolj razburkano, da sploh nismo iz tribun mogli videti na oder.
-Po nastopu vseh držav je sledil uvodni govor ustanovitelja Deana Kamena, za njem pa tudi
-ministrice za trajnost Singapurja Grace Fu in dr. Philip Yeo (vodja oddelka razvojnih inovacij
-v Singapurju). Za konec nas je pozdravil z govorom tudi vodja Lam Research podjetja.
+‘Let the event begin!’ the organisers said to themselves. The opening ceremony included a walk across the stage between the playing fields by each of the 191 countries, waving their flags and, if they wished, wearing national costume. Each walk was accompanied by an anecdote from the commentators. With every team, the sea of flags grew choppier, until we could not even see the stage from the stands. Once all the countries had appeared, there followed an opening speech by the founder, Dean Kamen, and after him by Singapore’s Minister for Sustainability, Grace Fu, and Dr Philip Yeo (head of development innovation in Singapore). Finally, the head of Lam Research also greeted us with a speech.
 
 ![Opening ceremony](img/ceremony.png)
 
-Otvoritev se je zaključila s plesom zmajev, plesalcev in plesalk v tradicionalnih oblačilih,
-in hiphop skupine. Navdušeni in pripravljeni na tekmovanje smo s težkim srcem spakirali
-stvari in se vrnili v hotel.
+The opening ceremony ended with a dragon dance, dancers in traditional dress and a hip-hop group. Thrilled and ready for the competition, we packed up our things with heavy hearts and returned to the hotel.
 
-![Zmaj na opening ceremony-ji](img/zmaj.jpg)
+![A dragon at the opening ceremony](img/zmaj.jpg)
 
-Dneva še ni bilo konec za nas, prav tako pa tudi ne za ekipo Nizozemske. Po krajšem počitku
-smo se odpravili na MRT oz. podzemni metro do centra mesta. Vlak, ki ob zavojih ni imel ne
-konca ne začetka, je bil izjemno hiter, pogost in cenovno dostopen, tako da smo se kmalu znašli
-v središču mesta. Od hotela (postaja Lavender) do mesta (Raffles place) smo potrebovali le
-8 minut. Pot nas je povedla okoli Marina Bay znamenitosti, kjer smo si lahko ogledali
-osvetljen del mesta, visoke stolpnice in tudi luksuzno nakupovalno središče. Zaradi časovne
-zadrege (saj podzemna železnica obratuje le do polnoči), smo se kar znotraj shopping mall-a
-odpravili nazaj v hotel in v procesu dvakrat prestopali metroje.
+The day was not yet over for us, nor indeed for the Dutch team. After a short rest, we took the MRT, the underground railway, into the city centre. The train, which on the bends seemed to have neither end nor beginning, was exceptionally fast, frequent and affordable, so we soon found ourselves in the heart of the city. From the hotel (Lavender station) to the city (Raffles Place) took us a mere 8 minutes. Our route took us around the sights of Marina Bay, where we could see the illuminated part of the city, tall skyscrapers and a luxury shopping centre too. Being pressed for time (as the underground runs only until midnight), we headed back to the hotel from right inside the shopping centre, changing trains twice in the process.
 
 ![](img/jezero.png)
 ![](img/voda.png)
 ![](img/tristolpnica.png)
 ![](img/trgovina.png)
 
-Zadovoljni in zmatrani smo se ulegli in se prepustili začetku prijetnega počitka.
+Contented and worn out, we lay down and surrendered ourselves to the beginning of a pleasant rest.
 
-Do prihodnjič,
+Until next time,
 Goedenacht

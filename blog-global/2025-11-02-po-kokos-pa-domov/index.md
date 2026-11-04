@@ -1,29 +1,29 @@
 ---
 slug: po-kokos-pa-domov
-title: "Po kokos pa domov"
+title: "A Coconut, Then Home"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---
 
 ![](img/kokos.jpg)
 
-Jutro zadnjega dne smo nekateri začeli bolj zgodaj kot drugi. Kdor je želel je imel priložnosti iti še zadnjič v tem tednu do dežurne trgovine, sicer pa je ostala možnost daljšega spanca in kasnejšega zajtrka. V trgovini smo našli prigrizke in napitke ter kokos, ki nam ga je lastnik odprl z nožem in ponudil slamico.
+Some of us began the morning of the last day earlier than others. Anyone who wished had the chance to go to the all-night shop one last time that week; otherwise there remained the option of a lie-in and a later breakfast. In the shop we found snacks and drinks, and a coconut, which the owner opened for us with a knife, offering us a straw.
 <!-- truncate -->
 ![](img/taxi.jpg)
 
-Trgovine v Panami so obratovale normalno čeprav je bila nedelja, vendar je imela vsaka svoj čas odprtja. Zato smo se trije mušketirji odpravili do nam že znane trgovine Arrecha, na hitro opravili nakupe in se opravili nazaj v hotel. Pobrali smo svoje stvari in se zbrali v avli hotela. Avtobus je kmalu prispel za ekipo "Slovenia". Stvari smo predali gospodu vozniku, da je naložil v shrambo avtobusa. Na letališču smo se takoj umaknili na stran in prerazporedili stvari po kovčkih ter v njih spravili še vsebino vrečk, ki so jih nekateri pozabili spakirati.
+The shops in Panama were operating normally even though it was Sunday, though each had its own opening hours. So we three musketeers set off for the Arrecha shop, which we already knew, did our shopping in a hurry and went back to the hotel. We collected our things and gathered in the hotel lobby. The coach soon arrived for team ‘Slovenia’. We handed our things to the driver to load into the coach’s hold. At the airport we immediately stepped aside and redistributed our things amongst the suitcases, also stowing in them the contents of the bags that some had forgotten to pack.
 
 ![](img/prepakiranje.jpg)
 
-S pripravljenimi in stehtanimi kovčki smo se postavili v dolgo vrsto. Na sredini le te je do nas prišel gospod in rekel, da lahko pridemo z njem na drugo stran hale, kjer je kolona prazna. Priložnost smo zagrabili in se napotili za njem. Na poti nam je povedal, da moramo škatlo od robota zaviti v folijo. Ekipa je šla namprej, mentor pa pristopil gospodu s strojem za folijo. Med nalaganjem je zasledil račun na stroju in vprašal za ceno. Stric je pokazal na napis "17$", kar je mentor vljudno zavrnil. Nato smo preverili, če lahko škatlo sami zavijemo in so rekli, da lahko. Tako da smo dodajali srebrni lepilni trak po robovih, ogljiščih in čez glave vijakov. Vmes smo preverjali in vsakič je bilo "še malo". Nato smo malo po ovinkih prišli mimo zaposlenih, češ da je "vaš sodelavec rekel da je ok". Na recepciji za check-in je mentor dobil od gospoda listek, na katerem je podpisal in odkljukal, da oddaja prtljago brez folije. S tem smo to komplikacijo rešili. Zdaj pa varnostni pregled in na letalo. Čakali smo nekaj časa na prvotnih vratih in hodili po trgovinah. Vmes so vrata zamenjali, tako da smo počasi prešli na drug konec hodnika, vendar nas je tam pričakala dolga kolona in še en varnostni pregled (aha, zato nam rekli da ne moremo pijač iz trgovine nesti na letalo).
+With our suitcases ready and weighed, we joined a long queue. Halfway along it, a gentleman came up to us and offered to take us to the other side of the hall, where the queue was empty. We seized the opportunity and followed. On the way we were told that we had to wrap the robot’s box in plastic film. The team went on ahead, and a mentor approached the man with the wrapping machine. Whilst loading the box, the mentor noticed that the machine issued receipts and asked the price. The chap pointed to a sign reading ‘17$’, which the mentor politely declined. We then checked whether we could wrap the box ourselves, and they said that we could. So we applied silver duct tape along the edges, round the corners and over the heads of the screws. We checked in between, and each time the answer was ‘a little more’. Then, by a slightly roundabout route, we got past the staff on the grounds that ‘your colleague said it was OK’. At the check-in desk, the mentor was handed a slip to sign and tick, confirming that the luggage was being checked in unwrapped. And so that complication was resolved. Now for security and the aeroplane. We waited for a while at the original gate and wandered round the shops. Meanwhile the gate was changed, so we slowly moved to the other end of the corridor, but there a long queue and another security check awaited us (aha, so that is why we had been told we could not take drinks from the shops onto the aeroplane).
 
 ![](img/gremonaletalo.jpg)
 
-Skoraj enourni zamudi je sledila pot do Miami letališča. Zaradi zamude smo prispeli kasneje v vrsto z 100-200 ostalimi ljudmi, ki nimajo ameriškega državljanstva. Po krajšem zagovoru za vstop in slikanju smo šli prevzeti prtljago in šibali do naših vrat. Ko smo prispeli tja, so nam pa rekli da je za ta let krcanje zaključeno. Na srečo smo imeli vsi slamnike in so dojeli da preprečujejo vstop sedmim ljudem. Urgentno so klicali nadrejene in na neki točki je gospa pokazala kolegici 👍. Hitro smo kot po tekočem traku vsi opravili check-in in šibali na varnostni pregled. Komplikacija z baterijami za robota je bila hitro rešena in smo odhiteli naprej, prišli do vrat in še celo čakali v vrsti za vrkcanje. V miru smo se usedli na letalo do Munchna, kjer smo po pristanku preživeli približno 8 ur.
+A delay of almost an hour was followed by the journey to Miami airport. Because of the delay, we arrived late into a queue with 100–200 other people without American citizenship. After briefly making our case for entry and having our photographs taken, we went to collect our luggage and dashed to our gate. When we got there, however, we were told that boarding for this flight had closed. Fortunately we were all wearing straw hats, and they grasped that they were refusing boarding to seven people. They urgently called their superiors, and at some point one lady gave her colleague a 👍. Quickly, as if on a conveyor belt, we all checked in and dashed to security. A complication with the robot’s batteries was quickly resolved, and we hurried on, reached the gate and even waited in the queue for boarding. We settled calmly onto the aeroplane to Munich, where, after landing, we spent about 8 hours.
 
 ![](img/cakamo.jpg)
 
 
-Do naslednjič,
+Until next time,
 
 oíche mhaith

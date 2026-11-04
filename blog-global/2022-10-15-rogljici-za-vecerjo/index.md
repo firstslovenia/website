@@ -1,38 +1,21 @@
 ---
 slug: rogljici-za-vecerjo
-title: Rogljiči za večerjo
+title: "Croissants for Supper"
 authors: [ david-zindovic ]
 tags: [ fgc-2022 ]
 ---
 
-![V Franciji](img/francija.jpg)
+![In France](img/francija.jpg)
 
-Lepe avanture spremljali še lepši dnevi. Sobota reprezentance se je kot vsak dan začela
-zaspano, a po krepkem zajtrku smo pohiteli v areno, saj nas je prva tekma čakala že ob 9:15.
-S hitrimi popravki je naša trojica, ki jo sestavljajo voznik, sovoznica in “human player”,
-odhitela predstaviti Slovenijo v najboljši luči. Večino sobote smo preživeli na polju številka
-5, kar pomeni da so nas lahko gledali vsi na tribunah in na domačih kavčih.
+Fine adventures are accompanied by even finer days. The team’s Saturday began sleepily, like every other day, but after a hearty breakfast we hurried to the arena, as our first match awaited us at 9.15. After some quick repairs, our trio – driver, co-driver and ‘human player’ – hastened off to show Slovenia in the best possible light. We spent most of Saturday on field number 5, which meant that everyone could watch us, both in the stands and from their sofas at home.
 <!-- truncate -->
 
-![Tekma, obe ekipi imata 69 točk](img/nice.jpg)
+![A match where both alliances have 69 points](img/nice.jpg)
 
-Tekme so minevale, s tem pa so se tudi nabirale zmage (in žal tudi kakšen poraz), kot vsak
-stroj je pa tudi naša ekipa delala na sendvičih in solatah (nekateri pa tudi na čaju in
-energijskih napitkih). Kljub napornemu dnevu smo bili veseli, saj smo uspeli izmenjati par
-besed z mnogimi ekipami,  da je čas hitreje minil, in s tem je tudi prej nastopila večerja.
-Ob večerji je predstavnik iz LAM Research Lab, ki so zvesti podporniki dogodka First Global,
-izžrebal zmagovalno ekipo iz nabora žogic z  napisano vsoto izločenega ogljika po tekmi.
-Prva klicana država ni bila prisotna, po ponovnem žrebanju je pa bila izglasovana ekipa Velike
-Britanije in prijele nekaj Raspberry Pi računalnikov. Predstavitvi in podelitvi nagrad je
-sledil nastop DJ-a in (še en) ples, ki se ga je udeležilo občutno manj ljudi.
+The matches went by, and with them the wins piled up (and, alas, the odd defeat too), and like any machine, our team ran on sandwiches and salads (some of us also on tea and energy drinks). Despite the gruelling day we were happy, as we managed to exchange a few words with many teams, which made the time pass more quickly, and so dinner came round all the sooner. At dinner, a representative of Lam Research, loyal supporters of the FIRST Global event, drew the winning team from a collection of balls, each bearing the amount of carbon captured after a match. The first country called was not present, but at the second draw the team from Great Britain was chosen and received several Raspberry Pi computers. The presentation and prize-giving were followed by a DJ set and (yet another) dance, attended by noticeably fewer people.
 
 ![Let... me... just... hang... on....](img/bendy.jpg)
 
-Konec dneva smo zaznamovali s … pešačenjem v Francijo! Prvotni načrt je vseboval sprehod do
-E.Lecrerc-a, ki se je spremenil v obisk Cheatau-ja in ulic obmejnega mesteca Ferney-Voltaire.
-Majhno, skromno, prikupno. Moč je bilo občutiti spremembno arhitekture, miroljubnost je pa
-ostala enaka. Na poti nazaj smo si ogledali tamkajšnjo cerkev preden smo se usedli na avtobus,
-ki nas je odpeljal nazaj v Švico. Nekateri smo se odločili obiskati postelje, medtem ko so
-ostali odpeketali na večerni sprehod v mesto.
+We marked the end of the day with... a walk into France! The original plan was a stroll to the E.Leclerc, which turned into a visit to the château and the streets of the little border town of Ferney-Voltaire. Small, modest, charming. One could sense the change in architecture, though the tranquillity remained the same. On the way back we visited the local church before boarding the bus that took us back to Switzerland. Some of us decided to pay our beds a visit, whilst the others trotted off for an evening stroll into town.
 
-Do naslednjič, goedenacht.
+Until next time, goedenacht.

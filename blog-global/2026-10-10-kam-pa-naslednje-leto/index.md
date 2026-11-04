@@ -1,47 +1,47 @@
 ---
 slug: kam-pa-naslednje-leto
-title: "Kam pa naslednje leto?"
+title: "So, Where to Next Year?"
 authors: [ david-zindovic ]
 tags: [ fgc-2026 ]
 ---
 
 ![](img/Day5_06.jpg)
 
-Ob zajtrku smo si zaželeli Gud monin, kot bi rekli kolegi iz Solomonskih otokov, in počvekali med praznjenjem krožnikov. Nato smo raztegnili korak, da bi se čimprej pripravili na zadnje tri igre našega poskusa gašenja ognja na letošnji olimpijadi robotike FIRST Global Challenge.
+At breakfast, we wished each other ‘Gud monin’, as our friends from the Solomon Islands would say, and chatted whilst clearing our plates. Then we quickened our pace to get ready as soon as possible for the last three matches of our firefighting attempt at this year’s robotics Olympics, the FIRST Global Challenge.
 <!-- truncate -->
 ![](img/Day5_00.jpg)
 
-Pred prvo igro so nas obiskali vrstniki iz Urugvaja in Gambije, da smo se dogovorili za sodelovanje. Ker nas je čakal sodelovalni spopad z rdečo alianso, natančneje z Grčijo, Papuansko Novo Gvinejo in gostujočo državo Južno Korejo. Izkušnja čakalne vrste je bila prijetna, igra kratka, izzid dober, vendar ne dovolj. Sebi smo prišteli 129 točk, medtem ko so si jih nasprotniki 278 in tako se je zaključila tekma 253.
+Before the first match, our peers from Uruguay and the Gambia called by so that we could agree on how to work together, as a co-operative showdown awaited us against the red alliance, namely Greece, Papua New Guinea and the host country, South Korea. The queue was pleasant, the match short and the result good, but not good enough. We scored 129 points, whilst our opponents scored 278, and thus match 253 came to an end.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkQpTnlTcu8?si=-TTRzfjyGSzFyxq0&amp;start=26079" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkQpTnlTcu8?start=26079" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Danes je zadnji dan dogodka, zato smo spodbudili dijake, da se lotijo iskanja kandidatov za izmenjavo dresov. Med iskanjem dijakov so dijaki ponujali degustacijo Herba bonbonov in Cockta pijače, kar je navdušilo prostovoljce, sotekmovalce, prav vse. Uspeli smo se dogovoriti s kolegi iz Slovaške in Južne Afrike za zamenjavo, nekateri so celo organizirali zamenjavo preko grmičevja z ekipo iz Čila.
+Today was the last day of the event, so we encouraged the students to start looking for shirt swap candidates. Whilst searching, they offered tastings of Herba sweets and Cockta, which delighted the volunteers, the other competitors and absolutely everyone else. We managed to arrange swaps with our friends from Slovakia and South Africa, and some even organised a swap with the team from Chile across the bushes.
 
 ![](img/Day3_01.jpg)
 
-Par bonbonov in že smo bili poklicani ponovno v čakalno vrsto, tokrat za igro z zaporedno številko 279. Nekoliko bolj skromen nabor konkurence na obeh straneh, pri čemer smo rdečo stran zastopali skupaj s predstavniki držav Lesoto in Iran, medtem ko so modro stran zastopali Palestina, Eritreja in Cape Verde. Dve minuti in trideset sekund je trajalo gašenje ognja, ki se je zaključilo z izzidom 71 : 50 v našo prid. Za oddih smo si privoščili še zadnji odmor za kosilo s prigrizki.
+A couple of sweets later, we were called back to the queue, this time for match number 279. The competition was somewhat more modest on both sides: we represented the red side together with Lesotho and Iran, whilst the blue side was represented by Palestine, Eritrea and Cape Verde. Fighting the fire took two minutes and thirty seconds and ended 71 : 50 in our favour. To recharge, we treated ourselves to one last lunch break with snacks.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3H32iaSLciE?si=Cc2CHUQzCHsCJxQS&amp;start=2666" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3H32iaSLciE?start=2666" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Ves trud nas je pripeljal do naše zadnje tekme pred koncem kvalifikacijskih iger. Samozavestno smo segli v roke starim kolegom iz Venezuele in pustili dijake, da se skupaj še z Luksemburškimi dogovorijo kako bodo izpeljali še zadnjo igro. Stopili so do odra, na drugi strani pa njihovi vrstniki iz Mjanmarja, Yemena in Haitija. Čista komunikacija, veliko žogic in plezanje robotov žal ni bilo dovolj. Zaploskali smo vsem, kljub izzidu 240 : 178 za nasprotnike.
+All the hard work brought us to our last match before the end of the qualification rounds. We confidently shook hands with our old friends from Venezuela and left the students to agree with the team from Luxembourg on how to play the final match. They stepped up to the stage, with their peers from Myanmar, Yemen and Haiti on the other side. Clear communication, plenty of balls and climbing robots were unfortunately not enough. We applauded everyone, despite the 240 : 178 result to our opponents.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P4tHKmWGoS0?si=zSmAPPDij2u8l0hs&amp;start=7422" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4tHKmWGoS0?start=7422" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Čakanje na razglasitev najboljših 24 uvrščenih držav in 8 wildcard naključno izbranih držav smo krajšali vsak s svojim sogovornikom iz poljubnega konca sveta, kar je ravno tisti čar tega tekmovanja. Na žalost nismo bili izbrani, zato smo lahko stvari predhodno pospravili in odnesli v hotel. Po vrnitvi smo si privoščili navijanje za kolege iz Bosne in Hercegovine, ki so bili znotraj nabora najboljših 24-ih držav. Po naključju so bili izbrani predstavniki Črne gore, ki so pa pred razglasitvijo že pospravili vse kar so lahko, tako da je urgentno kovanje strategije s strani Kazahstana jih ujelo v šoku.
+Whilst waiting for the announcement of the top 24 countries and the eight randomly drawn wildcard countries, each of us passed the time chatting with someone from some corner of the world, which is precisely the charm of this competition. Unfortunately, we were not picked, so we could pack up early and take our things back to the hotel. Upon our return, we cheered on our friends from Bosnia and Herzegovina, who had made it into the top 24. Montenegro was drawn as a wildcard, but they had already packed away everything they could before the announcement, so Kazakhstan’s urgent strategy session caught them entirely off guard.
 
 ![](img/Day5_03.jpg)
 
-Iztekajoče se minute smo preživeli v družbi kolegov, ki bodo zapustili Korejo še pred polnočjo in na tribunah s polnimi pljuči dretja v znak podpore slovaški ekipi za stransko tekmovanje New Technology Experience. Ideja zvočnega razpoznavanja požarov je bila zanima in si prislužila tretje mesto na stopničkah in tako prvo medaljo za Slovaško. Roke smo ogreli tudi za razglasitev najboljših mentorjev, med katerimi sta bila nominirana mentor Bosne in Hercegovine ter mentor Slovaške.
+We spent the remaining minutes with friends who would be leaving Korea before midnight, and in the stands, cheering at the top of our lungs for the Slovak team in the New Technology Experience side competition. Their idea of detecting fires by sound was an interesting one and earned them third place on the podium, and with it Slovakia’s first medal. We also warmed up our hands applauding the announcement of the best mentors, with the mentors of Bosnia and Herzegovina and of Slovakia amongst the nominees.
 
 ![](img/Day5_04.jpg)
 ![](img/Day4_06.jpg)
 ![](img/Day5_05.jpg)
 
-Podelili smo še zadnjih nekaj obeskov in kapljic Cockte za tiste, ki so štand Slovenije našli kot svoj safe space. Nato smo se namenili na tribune za zaključno prireditev. Bili smo deležni zaključnih iger, K-pop nastopov v karate slogu in razglasitve lokacije za leto 2027. In naslednje leto bomo lomili kolesa, topili varovalke in delili nasmehe s prijatelji celotnega sveta nikjer drugje kot v Španiji, v Madridu.
+We handed out the last few keyrings and drops of Cockta to those who had made the Slovenian pit their safe space. Then we made our way to the stands for the closing ceremony. We were treated to the final matches, karate-style K-pop performances and the announcement of the 2027 venue. And next year we shall be breaking wheels, blowing fuses and sharing smiles with friends from all over the world nowhere else but in Madrid, Spain.
 
 ![](img/Day5_07.jpg)
 
-Zagrabili smo še zadnje prigrizke, pomahali v slovo vsem čudovitim prostovoljcem, organizatorjem in udeležencem. Pot smo dali pot noge v smeri Hyundai Outlet Centra, nekateri v Uberju drugi pa po tekaški stezi. Kar nas je pričakalo na koncu kilometerskega parka je bilo nakupovalno središče, ki je namen trgovin razporedilo po nadstropjih. Otroško, moško, žensko in splošno v kleti. Na odprtih hodnikih pa skulpture, jahte, stojnice in kavarne.
+We grabbed the last snacks and bade farewell to all the wonderful volunteers, organisers and participants. Then we set off towards the Hyundai Outlet Centre, some by Uber and others along the running track. What awaited us at the end of the kilometre-long park was a shopping centre that sorts its shops by floor: children’s, men’s, women’s, and general in the basement. And along the open-air walkways, sculptures, yachts, stalls and cafés.
 
 ![](img/Day5_071.jpg)
 ![](img/Day5_08.jpg)
@@ -49,18 +49,18 @@ Zagrabili smo še zadnje prigrizke, pomahali v slovo vsem čudovitim prostovoljc
 ![](img/Day5_11.jpg)
 ![](img/Day5_10.jpg)
 
-Splošna sekcija nam je bila najbolj zanimiva, saj je v kleti skrivala od Nintendo trgovine, Ikeje, knjigarne s kupom mehanskih tipkovnic do trgovin s premium oblačili in obutvijo, ki so rade kupce pričakale s stojali za njihovo pijačo. Radovedni kupci so odkrili tudi mamljiv hodnik, ki je med sprehajanju odkril vedno več restavracij. Če se je pa kupec napotil v zgornja nadstropja hodnika, se ja znašel v novem nakupovalnem središču z nazivom Triple Street, kjer so stavbe razdeljene od A do D z vmesnimi majhnimi parki od mestni za oddih. Tako smo se lahko sprehodili mimo kavarn, restavracij s korejskim BBQ ali hitro hrano, na koncu sprehajalne poti smo pa naleteli na glavno cesto.
+The general section was the most interesting to us, as the basement hid everything from a Nintendo shop, IKEA and a bookshop with a pile of mechanical keyboards to premium clothing and footwear shops that liked to greet customers with stands for their drinks. Curious shoppers also discovered a tempting corridor that revealed ever more restaurants the further one walked. And if one headed to the upper levels of the corridor, one found oneself in another shopping centre called Triple Street, where the buildings are labelled A to D, with small parks and places to rest in between. So we strolled past cafés and restaurants serving Korean barbecue or fast food, and at the end of the walkway, we came out onto the main road.
 
 ![](img/Day5_12.jpg)
 ![](img/Day5_101.jpg)
 
-Pozna ura nas je povabila nazaj domov skozi YingYang park, kjer smo poleg velikih odprtih površin našli tudi pomirjujočo bosonogo sprehajalno pot, ki jo uporabni zaključi s čiščenjem podplati s pomočjo pihalnika.
+The late hour beckoned us back home through YingYang Park, where besides large open spaces we also found a soothing barefoot walking path, which one finishes by cleaning the soles of one’s feet with an air blower.
 
 ![](img/Day5_13.jpg)
 ![](img/Day5_14.jpg)
 
-Brez začimb se ne spodobi prihajati domov, zato smo pred spancem skočili še v vsem že znan Lotte Mart, kupili suvenirje, omake in prigrizke ter se napotili v hotelske sobe. Na obisku se je oglasil norveški dijak Trym, ki je prišel zamenjat dres z našimi dijaki in ostal dlje kot je pričakoval. Pred počitkom je nastopilo še pakiranje in tehtanje kovčkov ter prerazporejanje prtljage na mesta, kjer smo prej pospravili 12 litrov Cockte
+It would not do to come home without spices, so before bed we popped into the by now familiar Lotte Mart, bought souvenirs, sauces and snacks, and retired to our hotel rooms. We had a visit from Trym, a Norwegian student who came to swap shirts with our students and stayed longer than expected. Before getting some rest, there was still the packing and weighing of suitcases to be done, and the shifting of luggage into the spaces where we had previously packed 12 litres of Cockta.
 
-Do naslednjič
+Until next time
 
 goeie nag

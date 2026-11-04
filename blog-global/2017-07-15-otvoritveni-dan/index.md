@@ -1,117 +1,51 @@
 ---
 slug: otvoritveni-dan
-title: Otvoritveni dan
+title: "Opening Day"
 authors: [ ales-volcini ]
 tags: [ fgc-2017 ]
 ---
 
-Naslednje jutro se je začelo zelo zanimivo. Maria, ki je nadomeščala Karla, je povedala,
-da so zasedeni do konca oz. prenapolnjeni in da manjkajo žimnice (verjetno je manjkala tista
-iz 504, na kateri je spal tisti na tleh). Nekomu je zato odstopila svojo in si prinesla
-spalno vrečo, nato pa odstopila še to. Nekdo je moral celo prespati v avli spodaj na kavču.
+The next morning began most interestingly. Maria, who was standing in for Karl, told us that they were completely full, or rather overfull, and that mattresses were missing (probably the one from 504, on which the person on the floor had slept). She had therefore given up her own to someone and brought herself a sleeping bag, and then given that up too. Someone even had to spend the night on a sofa in the lobby downstairs.
 <!-- truncate -->
 
-Ušteli so se, da so med tekmovalci tudi dekleta, ki bi jih morali ustrezno ločiti. Dobili
-pa so samo imena, po imenih s celega sveta pa niso mogli ugotoviti, kam kdo sodi. Tudi Frank,
-član osebja First Global, je to noč prespal v kombiju in je bil zjutraj zelo neprespan in
-slabe volje. Ugibali smo, da je bil verjetno prav on tisti, s katerim se je Karl prepiral
-prejšnji večer, saj bi moral imeti eno sobo zase.
+They had miscalculated, forgetting that there were also girls amongst the competitors who ought to have been housed separately. They had received only names, and from names from all over the world they could not work out who belonged where. Frank, a member of the FIRST Global staff, had also spent the night in a van and was very short of sleep and in a foul mood that morning. We guessed that he was probably the very person Karl had been quarrelling with the previous evening, as he should have had a room to himself.
 
-Seveda je bila prva stvar vprašati Franka, če so našli našega robota. Odgovor je bil, da
-nas verjetno čaka v DAR Hall-u, ali pa nam bo Tom iz servisa pomagal sestaviti novega. Right.
+Naturally, the first thing to do was to ask Frank whether they had found our robot. The answer was that it was probably waiting for us at DAR Hall, or else Tom from the repair station would help us build a new one. Right.
 
-Preden je prišel avtobus, sta se Mark in Luka odpravila v bližnjo delikateso po nakupih, a
-sta takoj prišla nazaj praznih rok, saj se le-ta odpre šele ob 8h, torej čez eno uro.
+Before the bus arrived, Mark and Luka set off to the nearby delicatessen to do some shopping, but came straight back empty-handed, as it did not open until eight o’clock, an hour later.
 
-Po nas je prišel avtobus in nas odpeljal v DAR Constitution Hall, prizorišče priprav in tekmovanj.
+The bus came for us and took us to DAR Constitution Hall, the venue for the preparations and the matches.
 
-Prostori za priprave so bili v pritličju okoli centralnega koncertnega prostora in kleti,
-ekipe pa zelo neenakomerno razporejene. V kleti s precej manjšo površino kot pritličje je
-bila skoraj polovica ekip in dobesedno ni bilo enega prostega kvadratnega metra, razen ob
-bližnjem servisu. Osvetljava je bila jakosti sveč, po dve ekipi sta si delili eno mizo z
-enim samim stolom.
+The preparation areas were on the ground floor around the central concert hall and in the basement, and the teams were very unevenly distributed. The basement, with a much smaller floor area than the ground floor, held almost half of the teams, and there was literally not a single free square metre, except by the nearby repair station. The lighting was of candle strength, and every two teams shared one table with a single chair.
 
-Gneča je bila nepopisna, ljudje so iskali svoje robote, ki so jih tja pripeljali ločeno od
-ekip. Večina ekip jih je hitro našla, le nekaj nesrečnikov, med njimi tudi mi, pa ne.
-Ukrajina svojega ni uspela pripeljati v ZDA, ker ga med prestopanjem letalska družba ni
-pravočasno pretovorila, in je prišel šele naslednji dan, dve ekipi sta svojega izgubili na
-poti, našega, ki smo ga v Thurston Hall poslali po DHL-u, pa tudi ni bilo nikjer. Ekipa
-Bahraina je prišla z enodnevno zamudo, a so robota kmalu našli. Malo manj so bili zadovoljni,
-ko so ugotovili, da imajo prenočišče tam kot mi, a da tam ni več prostora in si morajo najti
-zasebno bivališče.
+The crush was indescribable, with people searching for their robots, which had been brought there separately from the teams. Most teams found theirs quickly; only a few unfortunates, ourselves amongst them, did not. Ukraine had not managed to get theirs to the USA, because the airline had failed to transfer it in time during a change of flights, and it arrived only the following day; two teams had lost theirs on the way; and ours, which we had sent to Thurston Hall by DHL, was nowhere to be seen either. The team from Bahrain arrived a day late, but their robot was soon found. They were rather less pleased when they discovered that they had been given accommodation in the same place as us, but that there was no room left there and they would have to find private lodgings.
 
-Po uri iskanja smo angažirali še nekaj prostovoljcev in osebja, a zaman. Veliko nam je pomagal
-g.Gagan, član indijske ekipe, ki je bil iz nekega razloga zelo dobro informiran, kam se obrniti.
-Frank in ostali so tudi poskušali pomagati, a veliko učinka ni bilo. Nekdo iz servisa se je
-spomnil, da je videl škatlo, a je Mark pravilno posumil, da jo je videl zgolj na videu, ki
-smo ga objavili na spletni strani Youtube. Po kosilu, sendvič in čips, smo približno ob
-enih že obupovali, da robota morda sploh ne bomo več videli.
+After an hour of searching, we enlisted the help of a few more volunteers and staff, but to no avail. We were greatly helped by Mr Gagan, a member of the Indian team, who for some reason was very well informed about whom to turn to. Frank and the others also tried to help, but to little effect. Someone from the repair station recalled having seen the box, but Mark rightly suspected that they had merely seen it in the video we had posted on YouTube. After lunch – a sandwich and crisps – by about one o’clock we were beginning to despair of ever seeing the robot again.
 
-![Mr. Gagan in Mark](img/gagan.jpg)
+![Mr Gagan and Mark](img/gagan.jpg)
 
-Zjutraj od 8h do 11h so potekala še srečanja mentorjev z direktorjem Joe Sestakom, kjer je Joe,
-bivši kongresnik in mornariški častnik, razlagal, kako so prišli do take svetovne udeležbe,
-nekaj anekdot, kako vojska lahko samo ustavi konflikt, ne more pa ga razrešiti in kaj nameravajo
-s tekmovanjem v prihodnosti. Nekdo je omenil, kako je imela zgodba o afganistanskih dekletih
-velik odmev v javnosti in je nehote naredila veliko reklame za dogodek, še posebej po tem,
-ko se je ameriški predsednik menda osebno zavzel za odobritev viz. Joe je dejal, da mora
-osebje, ki izdaja vize, po službeni dolžnosti predvidevati, da želi prosilec ostati v ZDA
-za vedno, ta pa mora dokazati nasprotno. Do dovoljenja za vstop ali vize so prišle vse
-prijavljene ekipe, tudi ekipe Afganistana, Burundija in Gambije.
+In the morning, from eight until eleven, there had also been a meeting of the mentors with the director, Joe Sestak, at which Joe, a former congressman and naval officer, explained how they had achieved such worldwide participation, shared a few anecdotes about how the military can only stop a conflict but cannot resolve it, and told us what they intended to do with the competition in future. Someone mentioned how the story of the Afghan girls had caused a great stir amongst the public and had unwittingly given the event a great deal of publicity, particularly after the American President had reportedly taken up the matter of the visas personally. Joe said that the staff who issue visas are duty-bound to assume that an applicant wishes to stay in the USA for ever, and the applicant must prove otherwise. All of the registered teams had obtained entry permits or visas, including the teams from Afghanistan, Burundi and the Gambia.
 
 ![Joe Sestak](img/joe.jpg)
 
-Po sestanku sem ob 11h ujel še Liz, ki je obljubila svojo pomoč pri iskanju našega robota.
+After the meeting, at eleven o’clock, I also caught Liz, who promised to help us look for our robot.
 
-Ob 14h še vedno ni bilo nič novega, zato smo se odločili stvar vzeti v svoje roke. Mark in
-David sta se odpravila v Thurston Hall, da bi situacijo preverila na kraju samem, Luka in
-jaz pa sva počakala v DAR hallu. Čez tričetrt ure je od Marka prišel SMS, da robota nista
-našla, da pa imata novice. Cliffhanger.
+By two o’clock there was still no news, so we decided to take matters into our own hands. Mark and David set off for Thurston Hall to check the situation on the spot, whilst Luka and I waited at DAR Hall. Three quarters of an hour later, a text message arrived from Mark saying that they had not found the robot, but that they had news. Cliffhanger.
 
-Z Lukom sva ugibala: robota nista našla, imata pa novice. Kakšne? Najbrž vesta vsaj, da je
-prispel. Morda celo, kaj je z njim. Ali ga je nekdo videl ... Mark verjetno namerno ni
-povedal kakšne novice, torej so najbrž dobre. Namerno naju je pustil v negotovosti. Cheeky.
+Luka and I speculated: they had not found the robot, but they had news. What news? They probably knew at least that it had arrived. Perhaps even what had become of it. Or whether someone had seen it... Mark had probably deliberately not said what the news was, so it was probably good. He had left us in suspense on purpose. Cheeky.
 
-Mark in David sta se vrnila. Ko sta po paketu povprašala v Thurston Hallu, so ju skorajda
-odslovili. Tam je bila skupina varnostnikov. Varnostnica ju je skoraj odslovila, drugi
-varnostnik, ki se mu je dozdevalo, kaj se je zgodilo, pa je v bližnji govorilnici poklical
-nekoga iz administracije Univerze Georgea Washingtona (kamor spada Thurston Hall). Prijazna
-gospa na drugi strani je Marku povedala, da vse pošiljke pošiljajo v poštni center univerze,
-dva bloka stran, ki je trenutno zaprt. Odprt bo v ponedeljek zjutraj. Great.
+Mark and David returned. When they had asked about the parcel at Thurston Hall, they were very nearly sent away. There was a group of security guards there. One of the guards almost turned them away, but another guard, who had an inkling of what had happened, rang someone from the administration of George Washington University (to which Thurston Hall belongs) from a nearby telephone box. The kind lady at the other end told Mark that all deliveries were sent to the university’s post centre, two blocks away, which was currently closed. It would open on Monday morning. Great.
 
-![Med iskanjem](img/detektiva.jpg)
+![During the search](img/detektiva.jpg)
 
-Očitno je bil ta dan za nas izgubljen. Obvestili smo Franka, da gremo nazaj na Trinity sami,
-ker danes pač ne moremo narediti ničesar in gremo raje malo naokoli. Odpravili smo se do
-Thurston Halla, da bi se še posebej zahvalili varnostniku, a ga ni bilo več tam. Too bad.
+Clearly, the day was lost for us. We informed Frank that we would make our own way back to Trinity, since there was nothing we could do today, and that we would rather go and look around a little. We went to Thurston Hall to thank the guard in person, but he was no longer there. Too bad.
 
-Uro kasneje prileti elektronska pošta: gospa iz administracije je Marka med pogovorom dala
-trikrat na čakanje in vmes kontaktirala organizatorje, zdaj pa je direktor Joe sporočil,
-da bo robot dostavljen zvečer v DAR. Hvala, Jake in Joe. Yay.
+An hour later an e-mail arrives: during their conversation, the lady from the administration had put Mark on hold three times and in the meantime contacted the organisers, and now the director, Joe, had sent word that the robot would be delivered to DAR in the evening. Thank you, Jake and Joe. Yay.
 
-Mark se je zelo dobro znašel in hitro ugotovil, da storitev Lyft v Washingtonu sploh ni
-draga in odločili smo se, da se poskusimo z njo vrniti na Trinity Univesity v internat. Prva
-vožnja z Lyftom je potekala brez zapletov. Med pogovorom z voznikom smo ugotovili, da pozna
-Slovenijo in jo je pravilno postavil južno od Avstrije, k Trstu. Ko smo ga vprašali, kaj se 
-plača ogledati v Washingtonu, je naštel nekaj standardnih krajev, omenil pa je tudi Baziliko
-narodnega svetišča brezmadežnega spočetja in vedel povedati, da ima v njem tudi Slovenija
-svoj oltar. Pohvalil je prvo damo in dejal, da tako lepe prve dame v ZDA še niso imeli.
-Melanija je Slovenijo očitno dobro postavila na zemljevid, saj nas v času našega bivanja
-ni nihče vprašal, kje ali celo kaj Slovenija je. Nice.
+Mark proved most resourceful and quickly discovered that Lyft was not at all expensive in Washington, so we decided to try using it to get back to our hall of residence at Trinity University. Our first Lyft ride went off without a hitch. Chatting with the driver, we discovered that he knew of Slovenia and correctly placed it south of Austria, near Trieste. When we asked him what was worth seeing in Washington, he listed a few of the usual places, but also mentioned the Basilica of the National Shrine of the Immaculate Conception and knew that Slovenia had its own altar there. He praised the First Lady and said that the USA had never had such a beautiful First Lady. Melania had clearly put Slovenia firmly on the map, as during our stay nobody asked us where, or even what, Slovenia was. Nice.
 
-V internatu smo se malo osvežili in se nato peš odpravili do 4 km oddaljenega trgovskega
-centra Giant. Sprehodili smo se med tipično ameriškimi vrstnimi hišami, ozkimi in dva
-nadstropja visokimi, z nekaj malo trate pred vhodom in ugibali, koliko se je tam sploh
-varno sprehajati. A se v nas ni nihče vtaknil, vmes pa smo lahko videli pred hišami na
-trati kak neusposobljen starinski avto, osnovno šolo, sladoledarski avto z značilno
-lajnarsko glasbo in še kaj. Interesting.
+At the hall of residence we freshened up a little and then set off on foot to the Giant shopping centre, 4 km away. We walked amongst typically American terraced houses, narrow and two storeys high, with a little patch of lawn in front of the door, and wondered just how safe it was to stroll about there. But nobody bothered us, and along the way we saw the odd unroadworthy vintage car on the lawns in front of the houses, a primary school, an ice-cream van with its characteristic barrel-organ music and more besides. Interesting.
 
-V centru smo kupili nekaj pijače (voda iz pipe je bila precej klorirana, celo ustekleničena
-voda je bila sumljivega okusa – iz nekega razloga je imela dodane minerale ali »minerale«),
-nekaj toasta, marmelado in arašidovo maslo. Rahlo sem bil znerviran, ker od hrane nismo kupili
-nič zanimivega, pa sem kupil borovničevo pito ter neke narezane mesnine. Luka je kupil
-instant rezance, čeprav še nismo vedeli, kje bomo dobili vročo in pravo pitno vodo. Z Lyftom
-smo se odpeljali tudi nazaj. Meso je šlo zelo hitro, borovničeve pite pa naslednje dva dni
-ni hotel nihče niti poskusiti, pa je bila zelo dobra. Youth these days..
+At the shopping centre we bought some drinks (the tap water was heavily chlorinated, and even the bottled water had a suspicious taste – for some reason it had added minerals, or ‘minerals’), some sliced bread, jam and peanut butter. I was slightly irritated that we had bought nothing interesting to eat, so I bought a blueberry pie and some sliced cold meats. Luka bought instant noodles, even though we did not yet know where we would get hot water, or proper drinking water. We took a Lyft back as well. The meat went very quickly, but for the next two days nobody would so much as try the blueberry pie, and it was very good. Youth these days..
 
-Izgubili smo praktično ves dan, a smo vsaj z optimizmom zrli v jutrišnjega.
+We had lost practically the whole day, but at least we looked to the morrow with optimism.

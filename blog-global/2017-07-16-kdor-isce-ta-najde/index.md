@@ -1,81 +1,29 @@
 ---
 slug: kdor-isce-ta-najde
-title: Kdor išče ta najde
+title: "Seek and Ye Shall Find"
 authors: [ ales-volcini ]
 tags: [ fgc-2017 ]
 ---
 
-Za zajtrk toast, marmelada in arašidovo maslo ter raznorazne pregovorno škodljive sladke
-pijače. Ob 6:45 so nas z avtobusi odpeljali v DAR. Robota še vedno ni bilo tam, rečeno pa
-nam je bilo, naj počakamo, da ga bodo že pripeljali. Čakalo pa nas je še drugo presenečenje.
-Ponoči so nekaj ekip preselili drugam in za razliko od prejšnjega dne se je zdaj človek lahko
-celo premaknil, ne da bi komu stopil na nogo. Uspelo jim je prižgati tudi dva lestenca in
-tako se je dalo normalno delati.
+For breakfast: toast, jam and peanut butter, along with all manner of proverbially unhealthy sugary drinks. At a quarter to seven, buses took us to DAR. The robot was still not there, but we were told to wait, as it would be brought along shortly. Another surprise awaited us, however. During the night, some of the teams had been moved elsewhere, and unlike the previous day, one could now actually move without treading on anybody’s toes. They had also managed to switch on two chandeliers, and so it was possible to work normally.
 <!-- truncate -->
 
-Do 12h robota še ni bilo, menda je bil v Thurston Hallu. Spet smo se odločili, da ga gremo
-iskat sami, ker sicer bo šel še en dan po gobe. Mark in Luka sta se Tomom odpravila v 1 km
-oddaljeni Thurston Hall, da bi ga prinesli kar peš. Brave.
+By noon the robot had still not appeared; apparently it was at Thurston Hall. Once again we decided to go and fetch it ourselves, as otherwise another day would go to pot. Mark and Luka set off with Tom to Thurston Hall, 1 km away, to carry it back on foot. Brave.
 
-Ko je trojica bila najbrž že tam, pa so mi prišli povedat, da nas robot čaka gor. Stekel
-sem po stopnicah in res, naša škatla nas je čakala pred vhodom v DAR. Obvestil sem Marka,
-da je robot zdaj tu in da lahko pridejo nazaj, z Davidom pa sva škatlo odnesla do servisa,
-da bi jo tam odprla. A izkazalo se je, da je Tom vzel edini vijačnik s sabo, tako da sva z
-Davidom potem odvijala 10 cm vijake z izvijači in multifunkcijskimi orodji. Šlo je zelo
-počasi in še z enim prostovoljcem smo do takrat, ko so Mark, Luka in Tom prispeli nazaj,
-uspeli odviti polovico vijakov. Z vijačnikom je šlo do konca precej hitreje. Yay.
+Just when the trio had probably arrived there, someone came to tell me that the robot was waiting for us upstairs. I ran up the stairs and, sure enough, our box was waiting for us in front of the entrance to DAR. I let Mark know that the robot was now here and that they could come back, whilst David and I carried the box to the repair station to open it there. But it turned out that Tom had taken the only cordless drill with him, so David and I were left to undo 10 cm screws with screwdrivers and multi-tools. It was very slow going, and together with another volunteer we had managed to undo half the screws by the time Mark, Luka and Tom returned. With the drill, the rest went considerably faster. Yay.
 
-![Priprava robota](img/priprava.jpg)
+![Preparing the robot](img/priprava.jpg)
 
-Odnesli smo škatlo na naš prostor in sestavili robota, ki je bil podrt ravno toliko, da je
-bil pripravljen na varen prevoz. Po testiranju smo ga odnesli na pregled in tam so se stvari
-malo zapletle. Med kontrolorjem in razširitveno enoto smo namreč uporabili USB-povezavo,
-ker povezave RS-485 nismo mogli nikakor usposobiti. Komisija je vztrajala, da preidemo na
-RS-485, pa smo potem skupaj ugotovili, da povezava res nikakor ne dela. Rešitev je bila
-menjava kontrolne enote, jaz pa sem morda naredil napako, ko nisem zaradi večje zanesljivosti
-zahteval tudi menjavo razširitvene enote in vseh kablov. Čisti rez pač. Ker se je res mudilo,
-smo menjali samo kontrolno enoto. Na zamenjano enoto je bilo potrebno ponovno naložiti
-program (bili smo pripravljeni in smo imeli smo rezervno kopijo) in ponovno nastaviti,
-kateri motor in kateri senzor je na kakem priključku. Postopek se sliši enostaven, a ne z
-obstoječo programsko opremo. Na srečo se je Mark izredno dobro oborožil z iPripomočki in z
-Lukom sta dala vse od sebe, da smo dobesedno nekaj sekund pred zadnjim možnim treningom,
-načrtovanim za našo ekipo, imeli robota v delujočem stanju. Vsaj tako smo mislili, saj je
-sem ter tja prihajalo do manjših tehničnih težav s povezavami. Temu tako osebje kot mi nismo
-pripisovali večjega pomena, saj je bilo precej brezžičnih dostopnih točk v okolici in ker
-se je to občasno dogajalo tudi drugim. Mistake.
+We carried the box to our spot and assembled the robot, which had been taken apart just enough to be ready for safe transport. After testing, we took it for inspection, and there things became a little complicated. Between the controller and the expansion unit we had used a USB connection, as we simply could not get the RS-485 connection to work. The inspectors insisted that we switch to RS-485, and together we then established that the connection really did not work at all. The solution was to replace the control unit, and I perhaps made a mistake in not also demanding, for the sake of reliability, that the expansion unit and all the cables be replaced as well. A clean cut, as it were. As time was truly pressing, we replaced only the control unit. The program had to be loaded onto the replacement unit again (we had come prepared and had a backup copy), and we had to configure afresh which motor and which sensor was on which port. The procedure sounds simple, but not with the software available. Fortunately, Mark had armed himself exceedingly well with iGadgets, and together with Luka he gave his all, so that literally a few seconds before the last possible practice slot scheduled for our team, we had the robot in working order. Or so we thought, for every now and then there were minor technical problems with the connections. Neither the staff nor we attached much importance to this, as there were a good many wireless access points in the vicinity and it was happening to others from time to time as well. Mistake.
 
-V naslednjih urah smo še opravljali razne izboljšave, saj je robot med transportom rahlo
-spremenil svoje dimenzije. Vmes sta potekali še dve generalki otvoritve, kjer so tekmovalci
-prihajali na prireditveni prostor z nacionalnimi zastavami. Da ima problem z ločevanjem
-Slovenije in Slovaške še kdo drug, je med generalko ugotovila tudi slovaška ekipa, ki je
-na vprašanje prostovoljca, ki je pošiljal ekipe na prizorišče, »Slovenia?« najprej
-odgovorila pritrdilno. Funny.
+Over the following hours we made various further improvements, as the robot had changed its dimensions slightly in transit. In the meantime there were two dress rehearsals of the opening ceremony, in which the competitors came onto the stage with their national flags. That others, too, have trouble telling Slovenia and Slovakia apart was discovered during the rehearsal by the Slovak team, who, when the volunteer sending teams onto the stage asked ‘Slovenia?’, at first answered in the affirmative. Funny.
 
-![Dve slovenski ekipi](img/slovenijaSlovaska.jpg)
+![Two Slovenian teams](img/slovenijaSlovaska.jpg)
 
-Do konca dneva smo še ugotovili, da povezava med tablico in robotom čedalje pogosteje pada
-dol in preroško ugotovili, da bo to še problem.
+By the end of the day we had also noticed that the connection between the tablet and the robot was dropping out ever more often, and we prophetically concluded that this would yet prove a problem.
 
-Sledila je uradna otvoritev, ki so jo prenašali tudi preko spleta. Med govorniki sta bila
-predsednik Joe Sestak in ustanovitelj Dean Kamen. Tisti Dean Kamen, ki je pred leti svetu
-predstavil dvokolesnik Segway. Za govornika, ki naj bi navdahnil zbrane srednješolce, so
-čisto po ameriško za najbolj primernega povabili nekoč južnokorejskega imigranta, sedaj
-predsednika svetovne banke, Jim Yong Kima. Po končani otvoritvi so se na zaslonu prikazala
-imena ekip, ki naj počakajo na prizorišču, saj da jih bodo obiskali diplomatski predstavniki
-njihovih držav. Prišli so predstavniki večine držav, a slovenske smo čakali zaman, kljub
-temu da smo z zastavo zelo opozarjali nase.
+There followed the official opening ceremony, which was also streamed online. Amongst the speakers were the president, Joe Sestak, and the founder, Dean Kamen. That Dean Kamen, who some years ago introduced the world to the two-wheeled Segway. As the speaker meant to inspire the assembled secondary school students, they invited, in true American fashion, the man deemed most fitting: a one-time South Korean immigrant, now President of the World Bank, Jim Yong Kim. Once the ceremony was over, the names of the teams who were to wait at the venue appeared on the screen, as they would be visited by diplomatic representatives of their countries. Representatives of most countries came, but we waited in vain for the Slovenian one, even though we drew a great deal of attention to ourselves with our flag.
 
-![Luka, David in Mark s slovensko zastavo](img/ceremony.jpg)
+![Luka, David and Mark with the Slovenian flag](img/ceremony.jpg)
 
-Vrnili smo se v internat. Naredili smo analizo stanja, bili zadovoljni, da smo sploh prišli
-do robota, skrbelo pa nas je padanje povezave. Za večerjo smo se odločili, da gremo ven na
-kakšno pico ter našli Pizza Domino v bližini, a se je izkazalo, da jo tam lahko dobiš samo
-za sabo. Na srečo je bil takoj zraven Subway, kjer so nam naredili ne ravno poceni, a vseeno
-velike in dobre sendviče. Še preden smo pojedli, se je že pošteno stemnilo in ko smo se
-odpravili v Seven Eleven, dvoje vrat stran, je bilo tam že nekaj nesrečnikov, ki so prosili
-za drobiž za kak sendvič ali kaj drugega. Neki ženski sem dal pet dolarjev in popolnoma
-spregledal, da je bilo tam več ljudi z istim problemom. Malo mi je postalo zoprno, kajti
-prodajalne so bile nekako na samem, a me je pogled na dva policista v trgovini pomiril.
-Kupili smo še nekaj stvari za zajtrk, naročili Lyft in se izpred trgovine odpeljali domov.
-Voznica je bila prijazna in zgovorna, povedala je, da dela podaljšani delovni čas in da bo
-zato zamudila prvo epizodo nove sezone Igre prestolov, a da bo že bolje.
+We returned to the hall of residence. We took stock of the situation, pleased that we had got hold of the robot at all, but worried about the dropping connection. For supper we decided to go out for a pizza and found a Domino’s Pizza nearby, but it turned out that there one could only get it to take away. Fortunately there was a Subway right next door, where they made us sandwiches that were not exactly cheap, but large and good nonetheless. Before we had even finished eating, it had grown thoroughly dark, and when we went to the Seven Eleven two doors down, there were already a few unfortunates there begging for change for a sandwich or something else. I gave one woman five dollars, entirely overlooking the fact that there were several people there in the same predicament. I felt a little uneasy, as the shops were rather isolated, but the sight of two police officers in the shop put my mind at rest. We bought a few more things for breakfast, ordered a Lyft and drove home from outside the shop. The driver was friendly and talkative; she told us that she was working overtime and would therefore miss the first episode of the new season of Game of Thrones, but that she would manage.

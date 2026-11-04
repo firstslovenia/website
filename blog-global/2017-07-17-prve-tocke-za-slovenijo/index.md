@@ -1,65 +1,27 @@
 ---
 slug: prve-tocke-za-slovenijo
-title: Prve točke za Slovenijo
+title: "First Points for Slovenia"
 authors: [ ales-volcini ]
 tags: [ fgc-2017 ]
 ---
 
-Jutranja gneča je podaljšala čas prevoza na naši relaciji za skoraj 20 minut. Tokrat ni šlo
-brez hupanja in izsiljevanja prednosti, a na srečo ni bilo nobene škode.
+The morning rush hour lengthened our journey by almost 20 minutes. This time it did not pass without some hooting of horns and forcing of right of way, but fortunately no harm was done.
 
-Prvi dan uradnega tekmovanja nas je pričakal s štirimi igrami, kjer smo bili v različnih aliansah.
+The first day of the official competition greeted us with four matches, in each of which we were in a different alliance.
 
-![Dar Constitution Hall](img/arena.jpg)
+![DAR Constitution Hall](img/arena.jpg)
 <!-- truncate -->
 
-Prva tekma je bila daleč od načrtov. Po cca. 20 s se je povezava prekinila in fantje so se
-mrzlično trudili, da bi jo vzpostavili še pred koncem tekme. Neuspešno.
+The first match was far from what we had planned. After about 20 seconds the connection dropped, and the boys worked feverishly to restore it before the end of the match. Unsuccessfully.
 
-Drugo tekmo smo odigrali normalno.
+We played the second match normally.
 
-Tretja tekma je bila svetel primer sreče v nesreči. Kmalu po začetku igre je povezava padla
-dol, takoj po tistem, ko smo zadeli ob robota nasprotnika in mu nehote izpulili baterijo in
-ga popolnoma onesposobili. Naš robot pa, namesto da bi se ob padcu povezave varno ustavil,
-je šinil naprej, se zabil pod most in popolnoma blokiral žogice, ki so prihajale spodaj ven.
-Preostali del naše ekipe je ta čas pridno čistil, kar je bilo žogic na igrišču, novih žogic
-ni bilo, pred koncem igre pa smo uspeli ponovno vzpostaviti povezavo, a se z robotom nismo
-utegnili obesiti na ograjo (del igre, 20 točk), ker je kmalu spet padla dol. Kljub temu smo
-nasprotnike premagali za eno točko. Nizozemci so bili kljub zapletu strašno veseli, ker so
-za sabo že imeli en poraz. High five.
+The third match was a shining example of a blessing in disguise. Soon after the start, the connection dropped, immediately after we had bumped into an opponent’s robot, inadvertently knocking out its battery and disabling it completely. Our robot, however, instead of stopping safely when the connection dropped, shot forward, wedged itself under the bridge and completely blocked the balls coming out underneath. Meanwhile, the rest of our alliance diligently cleared whatever balls were left on the field; no new balls came out, and before the end of the match we managed to restore the connection, but did not have time to hang the robot on the barrier (part of the game, worth 20 points), as it soon dropped out again. Nevertheless, we beat our opponents by a single point. Despite the mishap, the Dutch were terribly pleased, as they already had one defeat behind them. High five.
 
-Način, kako je padla povezava, je presenetil in vzbudil zanimanje tehnične podpore, saj bi
-se moral robot ob izgubi povezave brezpogojno ustaviti. To je nakazovalo resen problem v
-opremi. Eden od prostovoljcev iz tehnične podpore je predlagal, da prestavimo kontrolno
-enoto, ker da kabli drsijo po terenu in da to povzroča prekinitve. Malo nam je bilo čudno,
-ker teh problemov doma nismo imeli, a smo se vseeno odločili za premontažo. Med montiranjem
-je nekomu uspelo odtrgati žico napajalnega kabla do razširitvene enote. Ni mi bilo jasno,
-kako se je to zgodilo ob sicer previdnem ravnanju in po premisleku sem prišel do zaključka,
-da je bil kabel tam nalomljen že od jutra, ko smo menjali nadzorno enoto in da ga je skupaj
-v kontaktu držala le skrčljiva cev za izolacijo. Zamenjali smo vse napajalne kable in
-povezava potem ni več padala dol. Vendar pa smo imeli v naslednji tekmi še vedno zanimivo
-nadaljevanje tehničnih problemov.
+The manner in which the connection dropped surprised the technical support staff and aroused their interest, as the robot ought to have stopped unconditionally upon losing its connection. This pointed to a serious problem with the equipment. One of the technical support volunteers suggested that we relocate the control unit, claiming that the cables were dragging along the field and causing the dropouts. We found this a little odd, as we had never had these problems at home, but we decided to remount it all the same. During the remounting, someone managed to tear the wire of the power cable to the expansion unit. I could not understand how this had happened despite careful handling, and on reflection I concluded that the cable had already been cracked since the morning we had replaced the control unit, and that only the heat-shrink insulation had been holding it together in contact. We replaced all the power cables, and after that the connection dropped out no more. In the next match, however, we were still treated to an interesting sequel of technical problems.
 
-V četrti tekmi se je izkazalo, da je zdaj problem še v igralni ploščici, gamepadu, ki je
-ravno tako izgubljal povezavo. Še posebej je bilo čudno videti, ko je tablica kazala, da je
-gamepad priklopljen, čeprav je bilo več kot očitno, da ga tam ni. Luka je za vsak slučaj
-naredil posnetek s telefonom. Po tekmi smo problem uspeli replicirati pred tehnično podporo,
-ki je bila nad dogodkom vidno presenečena. Nato nam je dala nov gamepad, v naši programski
-kodi popravila nekaj vrstic zaradi »znanih« hroščev ter z nekim servisnim programom
-stabilizirala delovanje. Na prizorišču smo ostali skoraj do 20h, ko so v hali ostali
-skorajda samo še varnostniki, a so vsaj problemi nekako izginili. Finally.
+In the fourth match it emerged that the problem now lay with the gamepad as well, which was likewise losing its connection. It was particularly strange to see the tablet showing the gamepad as connected when it was more than obvious that it was not. Luka filmed it on the telephone, just in case. After the match, we managed to reproduce the problem in front of the technical support staff, who were visibly surprised by it. They then gave us a new gamepad, corrected a few lines of our code on account of ‘known’ bugs and stabilised its operation with some service program. We stayed at the venue until almost eight in the evening, by which time practically only the security guards remained in the hall, but at least the problems had somehow disappeared. Finally.
 
-Ker je avtobus ob 20h že zdavnaj odpeljal, smo se v svoji režiji najprej odpravili v Pizza
-Hut in naročili vsak svojo pico. Za slovenski okus niso bile nič posebnega, je bila pa
-izbira dodatkov kar velika. Luka, Mark in David so svoje pice dobili, moja je malo zamujala,
-picopek pa je po treh picah izgledal brez dela. Nekdo je pripomnil, da bi se na mojem mestu
-že pritožil, meni pa se ni nikamor mudilo. Ko so ostali skoraj že pojedli, sem le vprašal,
-če bo moje naročilo kmalu. Picopek je rekel, da bo nekaj pogledal, izginil nekam zadaj
-(kasneje se je izkazalo, da je šel preverit naročilo), prišel nazaj, se opravičil, povedal,
-da bo vzelo 10 minut, ponudil, naj si izberem 2-litrsko plastenko pijače in dal zraven kar
-šest kozarcev. Ponudbo sem sprejel, ko mi je zagotovil, da ne gre na njegov račun. Fantje
-so bili presenečeni, jaz pa ves pameten in zadovoljen, da sem dokazal, da se tudi s
-potrpljenjem kaj doseže. Nekaj kosov pic je ostalo, pa smo jih poleg dveh kozarcev vzeli s
-seboj. Zunaj je že bila trda tema. Sleepy.
+As by eight o’clock the bus had long since departed, we made our own arrangements and first went to a Pizza Hut, where each of us ordered a pizza. To Slovenian tastes they were nothing special, but the choice of toppings was rather large. Luka, Mark and David got their pizzas, but mine was running a little late, even though the pizza maker appeared to have nothing to do after three pizzas. Someone remarked that in my place they would already have complained, but I was in no hurry. When the others had almost finished eating, I merely asked whether my order would be ready soon. The pizza maker said he would look into something, disappeared somewhere into the back (it later turned out that he had gone to check the order), came back, apologised, told me it would take 10 minutes, offered me a 2-litre bottle of a drink of my choice and threw in no fewer than six cups. I accepted the offer once he had assured me that it would not come out of his own pocket. The boys were surprised, and I was terribly clever and pleased with myself for having proved that patience, too, can get you somewhere. A few slices of pizza were left over, so we took them with us, along with two of the cups. Outside it was already pitch dark. Sleepy.
 
-Preden smo popadali spat, smo lahko še ugotovili, da je nekdo zamenjal napisa za moške in ženske toaletne prostore. Very funny.
+Before we collapsed into bed, we also discovered that someone had swapped the signs for the gentlemen’s and ladies’ lavatories. Very funny.

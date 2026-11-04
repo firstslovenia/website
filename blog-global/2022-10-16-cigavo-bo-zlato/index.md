@@ -1,39 +1,22 @@
 ---
 slug: cigavo-bo-zlato
-title: Čigavo bo zlato?
+title: "Whose Will the Gold Be?"
 authors: [ david-zindovic ]
 tags: [ fgc-2022 ]
 ---
 
-![Medalja](img/medalja.jpg)
+![The medal](img/medalja.jpg)
 
-Odgovor na naslov je zelo preprost, in sicer od marsikogar. Po običajnem pričetku dneva smo
-se znašli v areni in bili kmalu vabljeni k prevzemu nagrade “Helping hands”, ki smo si jo
-prislužili s tem, da smo pomagali drugim ekipam (Norvežani, Nova Zelandija, Sierra Leone…),
-na kar se bomo lahko spomnili ob pogledu na bronasto medaljo. <!-- truncate --> Skoraj vse
-države so bile deležne nekakšne nagrade, vendar nekatere žal brez medalje. Vsi smo zmagovalci,
-to je sporočilo tekmovanja! Zato smo tudi vsi bili deležni aplavza in fotografov ob prejemu
-nagrade. Večina držav je prejela nagrado za prisotnost na družabnih omrežjih in za varnost.
+The answer to the title is very simple: a great many people’s. After the usual start to the day, we found ourselves in the arena and were soon invited to collect the ‘Helping Hands’ award, which we had earned by helping other teams (the Norwegians, New Zealand, Sierra Leone...), something we shall be able to remember whenever we look at our bronze medal. <!-- truncate --> Almost every country received an award of some kind, though some, sadly, without a medal. We are all winners – that is the message of the competition! And so we all received applause and the attention of the photographers when collecting our awards. Most countries received awards for their social media presence and for safety.
 
-![Nizozemci pred našim pitom](img/nizozemci.jpg)
+![The Dutch in front of our pit](img/nizozemci.jpg)
 
-Na srečo smo v nedeljskem slogu bili deležni samo dveh iger, kmalu za tem smo pa tudi strastno
-že navijali za naše prijatelje iz Črne Gore in Makedonije. Vsak krog so kvalifikacije postajale
-bolj napete, tribune bolj glasne in rezultati vedno bližji, nekatere tekme so se celo končale
-z izenačenjem. Dinamika zadnjih iger dneva in tekmovanja je bila občutno višja, s tem pa se
-je tudi število točk znatno povišalo (povprečje 400-tih točk po igri).  Zmagovalno alianco
-letošnjega First Global Challenge tekomvanja so sestavljale Litva, Belize in Švica, izmed
-katerih je baltska država pristala na prvem mestu. (na sliki so ekipe, ki so osvojile
-Albert Einstein nagrado)
+Fortunately, in true Sunday style, we had only two matches, and soon afterwards we were already cheering passionately for our friends from Montenegro and Macedonia. With every round, the contest grew more tense, the stands louder and the scores ever closer; some matches even ended in a draw. The pace of the last matches of the day and of the competition was markedly higher, and with it the number of points rose considerably (an average of 400 points per match). The winning alliance of this year’s FIRST Global Challenge was made up of Lithuania, Belize and Switzerland, of which the Baltic country finished in first place. (Pictured are the teams that won the Albert Einstein Award.)
 
-![Prejemniki nagrade Albert Einstein](img/einstein.png)
+![Winners of the Albert Einstein Award](img/einstein.png)
 
-Preostanek dneva smo preživeli tako, da smo se poslavjali od naših prijateljev in podarjevali
-preostanek promocijskega materiala prostovoljcem in uslužbencem. Večer pred odhodom smo preživeli
-v družbi ekip Nizozemske, Kanade, Amerike in Surinama. Kulturno obarvan večer se je končal
-z voščenjem lahke noči v tujih jezikih in prejemu oranžnih klobukov od Nizozemcev, ki so v
-barvi kraljevine (kasskopf).
+We spent the rest of the day bidding farewell to our friends and giving away what was left of our promotional material to the volunteers and staff. We spent our last evening before departure in the company of the teams from the Netherlands, Canada, the USA and Suriname. The culturally tinged evening ended with wishing one another good night in foreign languages and receiving orange hats from the Dutch, in the colour of their kingdom (kaaskop).
 
-![Nizozemci v hotelu](img/hotel.jpg)
+![The Dutch at the hotel](img/hotel.jpg)
 
-Do naslednjič, good night.
+Until next time, good night.

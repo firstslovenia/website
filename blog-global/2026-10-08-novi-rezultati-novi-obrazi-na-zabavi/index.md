@@ -1,43 +1,43 @@
 ---
 slug: novi-rezultati-novi-obrazi-na-zabavi
-title: "Novi rezultati, novi obrazi na zabavi"
+title: "New Results, New Faces at the Party"
 authors: [ david-zindovic ]
 tags: [ fgc-2026 ]
 ---
 
 ![](img/Day3_04.jpg)
 
-Nov datum, nove dobrote na jedilniku pri zajtrku. Čevlje smo hitro ogreli z zgodnjimi stopinjami od hotela do arene, kjer se bodo v nekaj dneh izkazali roboti in z njimi mladimi, na katerih svet sloni.
+A new date, new treats on the breakfast menu. We quickly warmed up our shoes with an early walk from the hotel to the arena, where over the next few days the robots will prove their worth, and with them the young people upon whom the world rests.
 <!-- truncate -->
 ![](img/Day5_01.jpg)
 ![](img/Day4_01.jpg)
 
-Med zadnjimi popravki na robotu smo prejeli list papirja s sporedom tekem in s tem smo lahko videli tudi sotekmovalce v barvi naše alianse in nasprotni. Na slednje so se nekatere države že pripravljale vnaprej, saj so člane ekipe poslali na obisk delovnih postaj vseh ostalih držav, kjer so ob gledanju robota izpolnili vprašalnik na svoji platformi in s tem pridobili informacije o zmožnostih robotov posameznih držav. Proces so ponovile najbolj tekmovalne države kar dvakrat, saj so šibkejšim državam na svoji aliansi šle pomagat, nekatere države so pa zbrale vseh šest držav posameznih tekem, da se dogovorijo kako doseči čimveč točk skupaj, saj lahko le tako vsi pridobijo čim večje število točk.
+During the final repairs to the robot, we received a sheet of paper with the match schedule, which also showed us our alliance partners and our opponents. Some countries had prepared for this in advance by sending team members to visit the pits of every other country, where they filled in a questionnaire on their own platform whilst looking at each robot, gathering information about what every country’s robot can do. The most competitive countries went through this process twice, going to help the weaker countries on their alliance, whilst some countries gathered all six countries of a given match to agree on how to score as many points as possible together, since that is the only way everyone can achieve the highest possible score.
 
 ![](img/Day4_03.jpg)
 
-Kovanje strategij je nas pripeljalo skupaj z zaključnimi popravki na robotu do vadbene tekme, ki je v vozniški ekipi vzbudilo malo treme.
+Forging strategies, along with the last repairs to the robot, brought us to the practice match, which gave the drive team a touch of stage fright.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OYWoZl6scbM?si=yb8CcMWfmrlKS5lT&amp;start=4162" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OYWoZl6scbM?start=4162" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Igro z zaporedno številko 19 smo odigrali na rdeči strani skupaj z Burkina Faso in Kubo, medtem ko so modro stran krasili člani Paragvaja, Namibije in Indije. Morje oranžnih žogic je pripadalo modri aliansi, ki je z rdečo pometla in v naš repertoar napisala prvi poraz.
+We played match number 19 on the red side together with Burkina Faso and Cuba, whilst the blue side was graced by Paraguay, Namibia and India. The sea of orange balls belonged to the blue alliance, which swept the floor with red and wrote the first loss into our record.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2giQLSlMOgo?si=eAym-axdW17uYeaR&amp;start=6503" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2giQLSlMOgo?start=6503" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Ena ura traja šestdeset minut, ko smo doma, vendar na tekmovanju FIRST Global Challenge enaka časovna enaka traja nekaj pomežikov. Preden so se dijaki lahko nadihali so že stali v čakalnici pred velikim odrom. Kmalu je napočila tekma 36, kjer smo ramena prislonili ob predstavnike Tadžikistana in Španije. Skupaj smo uspeli v 2 minutah in 30 sekundah nabrati 161 točk, vendar to ni bilo dovolj, zato smo segli v roko modri aliansi in s tem kolegom iz držav El Salvador, Cookovi otoki in Japanske, ki so si zmago prislužili s 204-imi točkami.
+At home, an hour lasts sixty minutes, but at the FIRST Global Challenge the same unit of time lasts but a few blinks. Before the students could catch their breath, they were already standing in the queue in front of the big stage. Soon it was time for match 36, in which we stood shoulder to shoulder with Tajikistan and Spain. Together we managed to score 161 points in two minutes and thirty seconds, but it was not enough, so we shook hands with the blue alliance, our friends from El Salvador, the Cook Islands and Japan, who earned the win with 204 points.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-jA1YanHcB8?si=qVz-Aku7er3BOX39&amp;start=16342" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jA1YanHcB8?start=16342" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Odmor za kosilo nam je dobro del, vendar je zaradi prisotnosti v štandu moral potekati v izmenah. Tako so okrepčani in nekoliko nasmejani fantje kmalu začeli kovati strategijo z vrstniki iz nemčijo in Kolumbije. Modra aliansa se je tako soočila s predstavniki Velike Britanije, Bolgarije in Čila na tekmi številka 75. Tokrat je sodnik z roko pokazal proti nam, zato smo lahko z izzidom 60 : 45 pritekli v štand s prvo zmago v žepu.
+The lunch break did us good, although we had to take it in shifts, since someone always had to be in the pit. Refreshed and with a few more smiles, the boys soon set about forging a strategy with their peers from Germany and Colombia. And so the blue alliance faced Great Britain, Bulgaria and Chile in match number 75. This time the referee pointed towards us, so we ran back to the pit with a 60 : 45 result and our first win in our pocket.
 
 ![](img/Day5_02.jpg)
 
-Malo daljši odmor nam je omogočil, da smo priskočili na pomoč kolegom iz Južne Afrike, ki so imeli nekaj težav z robotom in samo programsko opremo zanj. Vzeli smo si še nekaj časa in obiskali Kanadsko reprezentanco, ki so nastopali z robotom in scissor lift mehanizmom. Mi se iz Grčije spomnimo neuspešnih poskusov s tem mehanizmom, kar pa oni zdaj izkušajo na lastni koži (no, na lastnih alu profilih).
+A slightly longer break allowed us to lend a hand to our friends from South Africa, who were having some trouble with their robot and its software. We also took some time to call on the Canadian team, who were competing with a scissor lift robot. We remember our own unsuccessful attempts with this mechanism back in Greece, and now they are experiencing it first-hand (well, on their own aluminium extrusions).
 
 ![](img/Day3_04.jpg)
 
-Po tekmi so nas obvestili o zabavi, ki bo potekala po odmoru za večejo. Tako smo se okrepčani vrnili med polja za robote, kjer smo v družbi glasbe uvodnega DJ-a in sladičk čakali na skritega gosta. Glasbo skupine Black Eyed Peas je zavrtel Apl.de.ap in pritegnil pozornost vseh tekmovalcev pod odrom. Tako smo nabirali utrujenost za lažji spanec in se po uri druženja odpravili proti hotelu. Odložili smo stvari in se lotili nekateri počitka z odkrivanjem podrobnosti delovanja naprav v stanovanju, medtem ko so drugi igrali Exploding Kittens dolgo v noč.
+After the match, we were informed of a party that would take place after the dinner break. So, refreshed, we returned to the robot fields, where, with music from the opening DJ and some desserts for company, we awaited a secret guest. Black Eyed Peas music was spun by apl.de.ap, who drew every competitor to the front of the stage. Thus we built up enough weariness for an easy sleep, and after an hour of socialising, we headed back to the hotel. We dropped off our things, and some of us rested by working out the finer details of how the gadgets in the flat work, whilst others played Exploding Kittens late into the night.
 
-Do naslednjič
+Until next time
 
 buenas noches

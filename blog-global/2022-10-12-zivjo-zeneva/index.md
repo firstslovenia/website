@@ -1,52 +1,27 @@
 ---
 slug: zivjo-zeneva
-title: Živjo Ženeva!
+title: "Hello, Geneva!"
 authors: [ luka-macek ]
 tags: [ fgc-2022 ]
 ---
 
-![Centralna postaja tramvajev v Ženevi](img/tramvaj.jpg)
+![Geneva’s central tram station](img/tramvaj.jpg)
 
-Mirne ženevske ulice in parke so 12.10. obiskali mladi dijaki in dijakinje inženirskih strok
-s celega sveta, med drugim tudi naša, slovenska reprezentanca. Letu iz Brnika je sledilo čakanje
-na pariškem letališču, od koder smo hitro prispeli v Ževeno. Prispeli smo že noč pred odprtjem
-arene, da smo se lahko spočili in dogradili našega robota – Baltazarja. Dan smo začeli z obilnim
-zajtrkom, ki mu je sledila postavitev naše miniaturne delavnice oz. pit-a. Obesili smo kar
-nekaj zastavic, si pripravili električne podaljške in se podali v akcijo.
+On 12 October, the quiet streets and parks of Geneva were visited by young engineering students from all over the world, our Slovenian team amongst them. The flight from Ljubljana’s Brnik airport was followed by a wait at the Paris airport, from where we soon arrived in Geneva. We had arrived the night before the arena opened, so that we could rest and finish building our robot – Baltazar. We began the day with a hearty breakfast, followed by setting up our miniature workshop, or pit. We hung up a good number of little flags, got our extension leads ready and sprang into action.
 <!-- truncate -->
 
-![Skoraj dokončana postavitev pita](img/booth.png)
+![The pit, almost set up](img/booth.png)
 
-Uvodni dan je bil obogaten z iskanjem zaklada, ki je bil podoben bingotu. Vsak opravljen
-izziv iz tabele potrdimo s podpisom tuje države. Iskanje drugih ekip, ki so ustrezali kriterijem
-izzivov, nam je vzelo kar nekaj časa, čeprav je bil Jaka zelo aktiven. Tekom dneva smo spoznali
-mnoge ekipe, Cayman Islands, Team Suriname, Slovakia in tudi naše stare prijatelje iz Norveške.
-Prvi dan smo po pripravah si postregli s kosilom, ki so ga sestavljale solate (kozji sir in
-orehi zmagajo – goated) in manjši sendviči ter jabolka. Kmalu za kosilom je na urniku bila
-večerja, kar je marsikateremu trebuhu nagajalo, vendar je bila hrana po pričakovanjih, zato
-smo si raje zagotovili dodatne zaloge. Čeprav je mentor Maček, smo izbrali medvedji pristop,
-kar se nam je na dolgem sprehodu do središča mesta splačalo. Kljub brezplačnemu javnemu prevozu
-smo bili primorani ubrati LPP metodo zaradi protesta s strani voznikov. Na srečo nas je zemljevid
-skupaj z orientacijo pomagal priti do znanega mostu ob Ženevskem jezeru.
+The opening day was enlivened by a treasure hunt not unlike bingo. Every challenge completed on the card had to be confirmed with the signature of a foreign country. Tracking down other teams that met the criteria of the challenges took us quite some time, even though Jaka was very active. Over the course of the day we met many teams – the Cayman Islands, Team Suriname, Slovakia – and also our old friends from Norway. After the preparations on the first day, we helped ourselves to lunch, which consisted of salads (goat’s cheese and walnuts win – goated), small sandwiches and apples. Dinner was on the schedule not long after lunch, which played havoc with many a stomach, but the food was as expected, so we preferred to lay in extra supplies. Although our mentor’s surname is Maček (‘tomcat’), we took the bear’s approach and stocked up, which paid off on the long walk into the city centre. Despite public transport being free, we had to resort to Shanks’s pony owing to a strike by the drivers. Fortunately, the map, together with our sense of direction, helped us reach the well-known bridge on Lake Geneva.
 
-![Kolo](img/kolo.jpg)
+![The big wheel](img/kolo.jpg)
 
-Prečkali smo zibajoči se most in si ogledali Genev-eye, sončnično uro iz rož, ki deluje na elektriko,
-in za konec uvodnega dela še sosednji vodošpric (fontana). Po rekalibraciji in šaljivih Kupidovih
-prizorih smo se odpravili skozi osrednji del mesta, ki je bil obogaten z trgovinami luksuznih
-znamk vse do zgodovinskega predela mesta. Nočna osvetlitev je polepšala marsikateri pitnik
-vode, ki smo ga srečali na poti do cerkve sv. Petra, po počitku smo pa pot nadaljevali proti
-Old Arsenal, kjer smo si ogledali tope in mozaike. Tej je sledil obisk parka, razgledne točke
-in igral. Zadnji turistnični obiski so bili namenjeni ogledu zunanjosti zgradbe Ateene, parka
-podobnega Tivoliju (vendar dvopasovna različica), kjer so bili spomeniki reformatorjev. Preden
-smo se odpravili na avtobus nazaj smo si ogledali Place de Nueve, eno izmed najbolj imenitnih
-zgradb v mestu, nasproti katere je kip generala Dufourja na konju.
+We crossed the swaying bridge and saw the Genev-eye, a ‘sundial’ made of flowers that actually runs on electricity, and, to round off the first part, the neighbouring water jet (the fountain). After a recalibration and some playful Cupid scenes, we made our way through the city centre, lined with luxury-brand shops, all the way to the old town. The night-time illumination made many a drinking fountain look lovely on our way to St Peter’s Cathedral, and after a rest we continued towards the Old Arsenal, where we looked at the cannons and mosaics. This was followed by a visit to a park, a viewpoint and a playground. Our last sightseeing stops were the exterior of the Athénée building and a park resembling Ljubljana’s Tivoli (albeit a two-lane version), with its monument to the Reformers. Before heading for the bus back, we took in the Place de Neuve and one of the grandest buildings in the city, opposite which stands an equestrian statue of General Dufour.
 
-![Svetleče stene v centru Ženeve](img/lights.jpg)
+![Glowing walls in the centre of Geneva](img/lights.jpg)
 
-Avtobus številka 3 nas je pripeljal do postaje Bel Air, kjer smo prestopili na avtobus št.
-5, ki nas je hitro pripeljal domov v hotel Ibis Budget zraven Palexpo arene.
+The number 3 bus took us to the Bel-Air stop, where we changed to the number 5, which quickly brought us home to the Ibis Budget hotel next to the Palexpo arena.
 
-![Kip](img/kip.jpg)
+![The statue](img/kip.jpg)
 
-Do naslednjič, lahko noč.
+Until next time, lahko noč.

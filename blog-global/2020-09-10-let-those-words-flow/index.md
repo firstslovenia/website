@@ -5,12 +5,10 @@ authors: [ david-zindovic ]
 tags: [ fgc-2020 ]
 ---
 
-> **“Vsak otrok je umetnik, težava leži v tem kako ostati umetnik, ko odrasteš.”** <br />
+> **‘Every child is an artist. The problem is how to remain an artist once we grow up.’** <br />
 -Pablo Picasso
 
-Tako bi na kratko opisali izziv “Let Those Words Flow”. Tokrat smo bili primorani se podati
-v bolj poetične vode. S skupnimi močmi smo uspešno privijačili tudi kar nekaj lepo zvenečih
-povedi. Lepo vas vabimo, da jih preberete ob kakšni jutranji kavici ali pa večernem čokoladnem mleku.
+That, in short, is how we would describe the ‘Let Those Words Flow’ challenge. This time we were obliged to venture into more poetic waters. By joining forces, we successfully bolted together quite a few fine-sounding lines. We cordially invite you to read them over a morning coffee or an evening mug of chocolate milk.
 <!-- truncate -->
  
 

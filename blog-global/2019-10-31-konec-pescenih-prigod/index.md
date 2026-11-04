@@ -1,29 +1,20 @@
 ---
 slug: konec-pescenih-prigod
-title: Konec peščenih prigod
+title: "The End of Our Sandy Adventures"
 authors: [ david-zindovic ]
 tags: [ fgc-2019 ]
 ---
 
-![Nace in pogled na Dubaj](img/naceDubaj.jpg)
+![Nace and a view of Dubai](img/naceDubaj.jpg)
 
-Čri, Čri, dan tri! Naša prva igra tretjega dne je padla v našo košaro z zmago proti Peruju,
-Braziliji ter Slonokoščeni obali. K doseganju rezultata 90 : 42 sta pripomogli tudi Džibuti
-ter Papua Nova Gvineja. <!-- truncate --> Pred nami je še zadnja kvalifikacijska igra. Skupaj
-z nami sta na strani rdeče ekipe bili tudi Vietnam ter Litva. Žal so bili nasprotniki tokrat
-spretnejši od nas, vendar smo še vedno s ponosom segli v roko članom Slovaške, Združenih
-arabskih emiratov ter Ruande. Žal se z rezultatom 5 : 4 nismo uvrstili v finale, vendar smo
-pristali na meji najboljše tretjine vseh tekmovalcev. Imeli pa smo priložnost s tribun gledati
-napet finale ter navijati za prijatelje iz Venezuele.
+Whoopee, it is day three! Our first match of the third day dropped into our basket as a win against Peru, Brazil and Côte d’Ivoire. Djibouti and Papua New Guinea also helped us to the score of 90 : 42. <!-- truncate --> Ahead of us lay the last qualification match. Alongside us on the red alliance were Vietnam and Lithuania. Alas, our opponents were more skilful than us this time, but we still proudly shook hands with the members of the teams from Slovakia, the United Arab Emirates and Rwanda. Unfortunately, with a record of 5 : 4 we did not qualify for the final, but we did land on the edge of the top third of all competitors. We did, however, have the opportunity to watch a nail-biting final from the stands and to cheer on our friends from Venezuela.
 
-Konec dober, vse dobro, smo si rekli, ko so nas počastili z zlato medaljo za »fundraising«.
-Nekaj dobrega v nečem slabem ter nekaj slabega v nečem dobrem! Iz velemesta kamel, puščav
-in dragih avtov smo se vrnili izkušenejši z lepimi spomini in novimi sklenjenimi prijateljstvi.
+All’s well that ends well, we told ourselves, when we were honoured with the gold medal for fundraising. A little good in something bad, and a little bad in something good! From the great city of camels, deserts and expensive cars, we returned wiser for the experience, with fond memories and newly forged friendships.
 
 
-Do prihodnjih avantur, <br />
+Until our next adventures, <br />
 good night
 
-![Stolpnice](img/stolpnice.jpg)
-![Ekipa na tribuni](img/tribune.jpg)
-![Delo](img/delo.jpg)
+![Skyscrapers](img/stolpnice.jpg)
+![The team in the stands](img/tribune.jpg)
+![Hard at work](img/delo.jpg)

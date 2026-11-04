@@ -1,50 +1,25 @@
 ---
 slug: ples-prvenstva
-title: Ples prvenstva
+title: "The Championship Dance"
 authors: [ david-zindovic ]
 tags: [ fgc-2022 ]
 ---
 
-![Slovenska ekipa na opening ceremony-ji](img/slovenijaaaa.jpg)
+![The Slovenian team at the opening ceremony](img/slovenijaaaa.jpg)
 
-Turistični dan Ženeve je v nas prebudil duh Švice in nas navdahnil za prve igre. 13.10.
-smo odigrali prve vadbene igre in vznemirjeno pričakovali otvoritveno predstavo.
+Our day of sightseeing in Geneva awakened the Swiss spirit in us and inspired us for the first matches. On 13 October we played our first practice matches and eagerly awaited the opening show.
 <!-- truncate -->
 
-Kljub vražjeverni številki je bil četrtek za nas prijeten dan. Srečali smo mnogo starih prijateljev,
-mentorjev in spoznali nove ekipe držav. Čeprav so bile priprave na tekmovanje polne pozitivnega
-stresa, saj nam mnogi mehanizmi robota niso bili naklonjeni, smo se uspeli za vsak obrok
-prijetno spočiti in ugotoviti, da smo se v resnici naučili nekaj novega. Rezultati so bili
-vse razen obetavni, saj smo komaj dosegli kako točko zaradi nezadovoljivega delovanja
-mehanizma za izstrelitev, smo pa vsakič odkrili novo pomanjkljivost dvižnega mehanizma.
+Despite the superstitious date, Thursday the 13th was a pleasant day for us. We met many old friends and mentors and got to know new national teams. Although the preparations for the competition were full of positive stress, as many of the robot’s mechanisms were not on our side, we managed to rest pleasantly at every meal and to realise that we had in fact learnt something new. The results were anything but promising, as we barely scored a point owing to the unsatisfactory performance of the launching mechanism, but every time we did discover a new shortcoming in the lifting mechanism.
 
-![Programiranje v pitu](img/software.jpg)
+![Programming in the pit](img/software.jpg)
 
-Dneva je bilo kmalu konec in smo se odpravili na zgodnjo večerjo (pozno kosilo bi se lahko
-temu reklo). Ob nekoliko nadležni glasbeni spremljavi Tunizije (ponovno) smo pojedli svojo
-zelenjavo in riž ter si postregli s sladico. Obiskal nas je tudi glasbenik Will.i.am in vsem
-udeležencem namenil motivacijski govor. Odpravili smo se nazaj v Halo 3 prosta Palexpo, kjer
-smo bili mentorji primorani sedeti na tribunah in čakati svoje ekipe, ki so počasi privihtele
-svoje zastave na oder ob spremni anekdoti komentatorjev. Države so se postavile v več vrst
-in čakale (kar nekaj časa) na uradno otvoritev dogodka First Global! Bili smo deležni besed
-ustanovitelja Dean-a Kamen-a, predstavnikov podjetij, ki so podporniki organizacije FIRST
-in pomembnežev Švice.
+The day was soon over, and we went off to an early dinner (one might call it a late lunch). To the somewhat irksome musical accompaniment of Tunisia (once again), we ate our vegetables and rice and helped ourselves to pudding. We were also visited by the musician will.i.am, who gave all the participants a motivational speech. We went back to Hall 3 of the Palexpo, where we mentors had to sit in the stands and wait for our teams, who slowly paraded their flags onto the stage, each accompanied by an anecdote from the commentators. The countries lined up in several rows and waited (for quite some time) for the official opening of the FIRST Global event! We were treated to words from the founder, Dean Kamen, from representatives of companies that support the FIRST organisation and from Swiss dignitaries.
 
 ![Opening Ceremony South Sudan](img/ceremony.jpg)
 
-Po uvodnih govorih se je prireditev šele zares začela. Na oder je prikorakal gospod, ki je
-zaigral svojo priredbo skladbe “Shape Of You” avtorja Eda Sheerena na dolg švicarski rog,
-kanglice za mleko in ropotuljice. V spremstvo so mu kasneje prišli gospodi, ki so vihteli
-Švicarsko zastavo za fanti, ki so plesali breakdance. Ravno, ko smo mislili, da se zabava
-končuje smo bili deležni standardne FIRST nadgradnje. Luči so se zatemnile in na oder so prišli
-možje z lučkastimi bobni v spremljavi fantov, ki so krožili z lučkastimi palicami z namenom,
-da med vrtenjem izrišejo grb švicarske zastave in logotip dogodka. Pridružili sta se jim plesalki
-z lučkami v obliki pavinega repa. Po uvodni glasbeni spremljavi je na oder prikorakal (neznani)
-DJ. Ob njegovi glasbi so že utrujeni člani in članice ekip prejele poživitev in začele plesati,
-plezati na oder in se zabavati na plesišču. Kljub temu, da so nekatere ekipe že pred začetkom
-odšle v svoje hotelske sobe, smo mi malce kasneje odkorakali v skupni prostor hotela, kjer
-smo noč končali z družabnimi igrami.
+After the opening speeches, the event truly began. Onto the stage marched a gentleman who played his own arrangement of Ed Sheeran’s ‘Shape of You’ on a Swiss alphorn, milk churns and rattles. He was later joined by gentlemen waving the Swiss flag behind boys dancing breakdance. Just when we thought the festivities were coming to an end, we were treated to the customary FIRST upgrade. The lights dimmed, and onto the stage came men with illuminated drums, accompanied by boys twirling illuminated poles so as to trace the Swiss cross and the event logo as they spun. They were joined by two dancers with lights in the shape of peacock tails. After this musical overture, an (unknown) DJ took to the stage. To his music, the already weary team members were revived and began to dance, to clamber onto the stage and to enjoy themselves on the dance floor. Although some teams had already gone to their hotel rooms before it began, we marched off a little later to the hotel’s common room, where we ended the night with board games.
 
-![Slovenski pit](img/slovenijaVPitu.jpg)
+![The Slovenian pit](img/slovenijaVPitu.jpg)
 
-Do naslednjič, ofi!
+Until next time, ofi!

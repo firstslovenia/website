@@ -15,7 +15,7 @@ ekipo. S tem smo tekmo številka 123 v družbi Argentine in Kapverdskih otokov p
 Saint Vincent in Grenadine, Maldivov ter Sudana zaključili s porazom (16 - 58).
 <!-- truncate -->
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?si=gXGlAzbY1yMvj_nk&amp;start=2029" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?start=2029" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Vijačenje robota še ni bilo končano, smo pa kmalu po prvi uradni tekmi imeli napovedan
 nastop na dodatnem tekmovanju Skills Challenge, kjer naj bi unikatno možnost robota pokazali,
@@ -28,7 +28,7 @@ ki smo jo sestavljali Slovenija, Vietnam in Filipini, ter rdečo alianco, ki so 
 Čad, Saint Lucia in Guam, v začetek tekme. Tokrat je zmago ponovno pobrala rdeča alianca z
 izzidom 53 - 31.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?si=IPPslYgt26dvl1A4&amp;start=7403" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?start=7403" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Naknadno smo ugotovili, da so za nas kritični deli (High Strength Hex Hub) bili tako nameščeni,
 da se ja vsakič uničil naslednji od prejšnjega dokler se ni zaključil krog. Seveda je bilo
@@ -46,7 +46,7 @@ ena izmed najboljših držav na tekmovanju in to je ena izmed naših redkih pril
 lahko igramo ob strani enega izmed najboljših robotov. Tokrat je bila premoč na naši strani
 in smo uspeli v štand priti nasmejani in motivirani zaradi tekme z izzidom 113 - 57.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/V9FKjsyXfr0?si=Cj2958JK9F2jgdIc&amp;start=18604" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/V9FKjsyXfr0?start=18604" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Sledilo je kosilo, do katerega smo se lahko odpravili nekoliko manj prepoteni, saj so nas
 že od jutra hladili ventilatorji, ki kompenzirajo narobe nameščeno klimo. Kmalu je nastopil
@@ -56,7 +56,7 @@ alianca bi morala biti ekipa Marshallovih otokov, ki se pa ni prikazala. Na nasp
 smo lahko videli robote Britanskih Deviških otokov, Pakistana in Libije. Zmaga je pristala
 na strani modre aliance z izzidom 43 proti 22.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/53eYbymnZd4?si=QUg66DSKfddGM_FG&amp;start=22979" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/53eYbymnZd4?start=22979" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Vmesni odmori med tekmami so omogočili reden servis in tudi preizkušanje sladkarij skoraj
 vseh držav sveta. Sladkor se je izkazal za solidno surovino za točke, vendar ga očitno ni
@@ -67,7 +67,7 @@ stran so krasili zastopniki Kostarike, Kitajske in Barbadosa. Tokrat si je naša
 uspela prislužiti kar 85 točk, vendar smo bili za 8 prekratki. Tako se je igra končala z
 izzidom 93 - 85 za nasprotnike.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/V9FKjsyXfr0?si=1gmXxXzK7apTq8GT&amp;start=26367" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/V9FKjsyXfr0?start=26367" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Tekom dneva smo imeli priložnost si ogledati ponudbo ameriških kolidžev WPI in MIT ter tudi
 kaj počnejo pri grških izobraževalnih, telekomunikacijskih in energetskih podjetjih. Poleg
@@ -83,7 +83,7 @@ da smo se tokrat pogovarjali z Luksemburgom ter Antigvo in Barbudo. Čeprav mora
 sodelovati, se to redko izkaže med modro in rdečo alianco, ki so jo tokrat sestavljale ekipe
 iz Svazija, Libanona in Ukrajine. Žal smo zadnjo igro dneva končali s porazom, v številkah 50 - 32.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?si=F0O_w0e07r_kOzP3&amp;start=29180" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/8MyPCVkS7EQ?start=29180" style={{ width: "100%", aspectRatio: '16/9' }} frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Po napornem tekmovalnem delu dneva se spodobi sprostitev, ki so nam jo organizatorji zagotovili
 v baru poleg stadiona miru in prijateljstva. Tam so nas čakale aktivnosti, kot je bilo risanje

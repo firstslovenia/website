@@ -1,52 +1,52 @@
 ---
 slug: palme-prekop-in-parada
-title: "Palme, prekop in parada"
+title: "Palms, a Canal and a Parade"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---
 
 ![](img/most.jpg)
 
-Tretji dan naše ameriške pustolovščine smo začeli na enak način, s tem da danes smo morali biti pozorni, da se po zajtrku na avtobus z nami napoti tudi kovček z narodnimi nošami. Na pot smo se podali skozi sončno jutro zopet preko mosta in skozi promet poln preventivnih hupajočih opozoril za vključitev.
+We began the third day of our American adventure in the same way, except that today we had to make sure that the suitcase with our national costumes boarded the coach with us after breakfast. We set off through the sunny morning, once again over the bridge and through traffic full of precautionary hooting to warn of merging.
 <!-- truncate -->
 ![](img/pogacar.jpg)
 ![](img/promet.jpg)
 
-Prva točka dneva je bila dokončna postavitev elementov v štandu, kar je pomenilo preizkušanje stola za ribarjenje in napihovanje "zofe", ki se je kasneje izkazala za pravi hit, saj je navdušila vsakega obiskovalca.
+The first item of the day was the final arrangement of things in the pit, which meant trying out the fishing chair and inflating the ‘sofa’, which later proved a real hit, delighting every visitor.
 
 ![](img/pumpanje.jpg)
 
-Na sporedu za današnji dan je bilo preizkušanje robota na prijateljskih tekmah (practice match), na katere so se člani morali prijaviti vnaprej. Med čakanjem na ogrevalne tekme so fanti preizkušali robota kar na prehodu med štandi. Ko fantje niso imeli roke polne dela so se namenili naokoli na ogled robotov, preizkušanje sladkarij ali pa opravljanje različnih družabnih opravil (podpisovanje knjižic, zastav ipd.).
+On the programme for the day was testing the robot in friendly matches (practice matches), for which the members had to sign up in advance. Whilst waiting for the warm-up matches, the boys tested the robot right there in the aisle between the pits. When the boys did not have their hands full, they went round looking at robots, trying sweets or attending to various social duties (signing booklets, flags and the like).
 
 ![](img/palme.jpg)
 
-Trdo delo si zasluži tudi primeren počitek, zato se je zasedba odpravila tudi na ogled bližnje okolice. Čez cesto je bila pot, ki nas je popeljala do spomenika, ki se navezuje na Južno Korejo in Panamo. Malo naprej od omenjenega spomenika je pa voda, ki teče skozi Panamski kanal. Naš pogled je ravno takrat prečkala velika tovorna ladja, ki je bila napotena proti znanemu mostu.
+Hard work deserves proper rest too, so the crew also went off to see the surrounding area. Across the road was a path that led us to a monument relating to South Korea and Panama. A little beyond this monument lies the water that flows through the Panama Canal. Just then a large cargo ship crossed our field of view, heading towards the famous bridge.
 
 ![](img/ladja.jpg)
 ![](img/dock.jpg)
 
-Bližje proti mostu smo našli tudi manjši pomol, na katerem so delavci nalagali tovor v manjših porcijah na manjše ladje. Okolico je krasilo raznoliko rastlinstvo že celo pot, od palm do kaktusov, od barvitih ptic in rož do neurejenih električnih napeljav manjkajočih uličnih svetilk.
+Closer to the bridge we also found a small jetty, on which workers were loading cargo in smaller lots onto smaller boats. The surroundings had been adorned the whole way by varied vegetation, from palms to cacti, from colourful birds and flowers to the untidy wiring of missing street lamps.
 
 ![](img/openingceremony.png)
 
-Kmalu je napočil trenutek, ko so fantje morali odložiti orodje, parkirati robota in se odpraviti na večerjo, kjer so srečali dolge vrste in neprestano izginotje zaloge. Po nekoliko manj obilni večerji so nadeli noši in klobuke ter se odpravili na generalko. Koncu le te je sledil krajši počitek, čas za osvežitev, malo za tem se je pa že pripravila vrsta zastav.
+Soon the moment came when the boys had to put down their tools, park the robot and go to dinner, where they met long queues and food that kept running out. After a somewhat less plentiful dinner, they put on their costumes and hats and went off to the dress rehearsal. Its end was followed by a short rest and time to freshen up, and shortly afterwards the line of flags was already forming.
 
 ![](img/slovak.jpg)
 
-Mentorja sta zasedla svoje mesto na koncu gruče ljudi, ki so pridno že greli plehnate tribune. Mentorja sva prav na teh srečala kolega Gregory-ja, ki je bil dijak v času tekmovanja v Dubaju (2019) in ga navdušila s svojim spominom, saj sva se spomnila celotne takratne zasedbe. Izdalo ga je to, da je rekel da je iz Venezuele. 
+The two mentors took their places at the end of a cluster of people already diligently warming the tin stands. It was there that we two mentors met our colleague Gregory, a student back at the competition in Dubai (2019), and impressed our old friend with our memory, as we remembered that year’s entire line-up. What gave the game away was hearing that Gregory was from Venezuela.
 
-Korakanje in vihtenje zastav v rokah bodočih inovatorjev je spremljal aplavz iz publike in občasno tudi nekaj trobil, odvisno od količine obiskovalcev iz izbrane države. Morje zastav je naznanilo pričetek govorov s strani ustanovitelja organizacije FIRST, prve dame Paname in še nekaterih pomembnih gostov. Premieri nove skladbe za tekmovanje FGC je pa sledil pravi panamski karneval, kjer sta zbor in orkester poskrbela za glasbeno spremljavo za plesalce in plesalke. Le ti so bili oblečeni v tradicionalna oblačila z različnim sijajem.
+The marching and the waving of flags in the hands of future innovators were accompanied by applause from the audience and now and then by a few trumpets, depending on how many visitors had come from the country in question. The sea of flags heralded the start of the speeches by the founder of FIRST, the First Lady of Panama and several other important guests. The premiere of a new piece of music for the FGC competition was followed by a true Panamanian carnival, in which a choir and an orchestra provided the musical accompaniment for the dancers. They were dressed in traditional costumes of varying splendour.
 
 ![](img/parada.png)
 
-Utrujeni a veseli smo se usedli na avtobus do doma. Nekateri smo imeli mirno pot domov, medtem ko so se sedeži drugih tresli v ritmu basov zaradi latinskih pesmi. V hotelu smo odložili stvari ter se napotili v McDonalds in za tem še do kolega v 24/7 trgovino, na poti do katerih smo srečali ameriško specialiteto - vozilo CyberTruck.
+Tired but happy, we took our seats on the coach home. Some of us had a quiet journey home, whilst the seats of others shook to the rhythm of the bass from Latin songs. At the hotel we put down our things and headed to McDonald’s and afterwards to our friend at the 24/7 shop, on the way to which we encountered an American speciality – a Cybertruck.
 
 ![](img/cybertruck.jpg)
 
-V trgovini smo si kupili različne pijače, čaje, prigrizke, plišaste tukane in magnete. Kot del kulturnega doživetja smo poskusili tudi plantano (široko banano z vonjem po kumarah), ki smo jo pripravili po tradicionalnem receptu.
+In the shop we bought various drinks, teas, snacks, soft-toy toucans and magnets. As part of the cultural experience we also tried a plantain (a broad banana that smells of cucumber), which we prepared according to a traditional recipe.
 
 ![](img/banana.jpg)
 
-Do naslednjič,
+Until next time,
 
 god natt

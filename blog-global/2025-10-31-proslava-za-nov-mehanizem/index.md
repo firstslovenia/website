@@ -1,50 +1,50 @@
 ---
 slug: proslava-za-nov-mehanizem
-title: "Proslava za nov mehanizem"
+title: "A Celebration for a New Mechanism"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---
 
 ![](img/zurkica.jpg)
 
-Nov dan, nove prilike za uspeh. Po jutranjem obredu smo se zapodili v štand, kjer smo dokončali prototip za nov mehanizem za roke in ga tudi implementirali v času prvih kvalifikacijskih tekem drugega dneva uradnega dela tekmovanja.
+A new day, new chances of success. After the morning ritual we dashed to the pit, where we finished the prototype of a new arm mechanism and also put it into service during the first qualification matches of the second day of the official competition.
 <!-- truncate -->
 ![](img/driveteam.jpg)
 
-Razlika je ta, da smo tokrat namesto servo motorjev uporabili core hex motorje z zobniškim prenosom, saj so omenjeni motorji bolj robustni. Kmalu je nastopila prva priložnost, da jih preizkusimo izven štanda in poskusnih polj. Prvo tekmo današnjega dne smo igrali skupaj z Virgin Islands in Indijo. Izboljšava rok se je hitro pokazala za koristno, saj smo uspeli nabrati večje število točk kot do zdaj in prinesti v štand zmago z rezultatom 44:42. Kolegi na nasproṭ̣̣ni strani polja za zastopali države Izrael, Guyana in Malta.
+The difference is that this time, instead of servo motors, we used Core Hex motors with gearing, as these motors are more robust. Soon the first opportunity arose to test them outside the pit and the practice fields. We played the first match of the day together with the Virgin Islands and India. The improvement to the arms quickly proved its worth, as we managed to collect more points than ever before and bring a 44:42 win back to the pit. Our colleagues on the opposite side of the field represented Israel, Guyana and Malta.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/19KenSMx4QI?si=Hf-_W4US8O6ZEngT&amp;start=4601" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19KenSMx4QI?start=4601" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tekmo z zaporedno številko 181 smo hitro dočakali in oddrveli z robotom na škatli do čakalne vrste za uradne tekme. Tokrat smo krasili rdečo alianco v družbi Bermude in Kosova. Tokrat ni bilo boljše aliance, le enakovredni. Domov smo prinesli 57 točk, tako naša alianca kot Eritreja, Luksemburg in Turčija.
+Match number 181 came round quickly, and we dashed off with the robot on its box to the queue for official matches. This time we graced the red alliance in the company of Bermuda and Kosovo. This time there was no better alliance, only equals: both our alliance and that of Eritrea, Luxembourg and Turkey took home 57 points.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IMzAHjn2oqA?si=Ea5T0Fw31TRV7dTH&amp;start=10396" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IMzAHjn2oqA?start=10396" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Dan nam ni dajal dolgih odmorov, kvečjem za kak prigrizek iz druge države ali pa sprehod in debato. Zvok troblje so kmalu predvajali na polju 3 in s tem naznanili začetek tekme 206. Tokrat smo bili na modri strani skupaj z Bulgarijo in Korejo. Za čim boljši uspeh smo sodelovali z "nasprotniki", tokrat s Sirijo, Savdsko arabijo in Švico. Še ena zmaga za nas z rezultatom 48:45. Trenutna statistika za Slovenijo beleži 4 zmage, 2 izenačenji in 1 izgubo.
+The day granted us no long breaks – at most enough for a snack from another country, or a stroll and a chat. Soon the sound of the horn rang out on field 3, announcing the start of match 206. This time we were on the blue side together with Bulgaria and Korea. For the best possible result, we cooperated with our ‘opponents’, this time Syria, Saudi Arabia and Switzerland. Another win for us, 48:45. Slovenia’s record currently stands at 4 wins, 2 draws and 1 defeat.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/19KenSMx4QI?si=VUtT1El6wE0lqSFM&amp;start=17720" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19KenSMx4QI?start=17720" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Bližmo se udarni tekmi na sporedu, vendar še nismo čisto tam. Loči nas še igra z zaporedno številko 232, tekom katere smo stali ob strani Sao Tome in Principe in Eswatini. Uspeli smo dvigniti povprečje še malo z zmagovalnim izzidom 58:56 proti Združenim Arabskim Emiratom, Cookovim otokom in Beninu.
+We are drawing near the headline match on the schedule, but we are not quite there yet. Match number 232 still stands in between, in which we stood alongside São Tomé and Príncipe and Eswatini. We managed to raise our average a little further with a winning result of 58:56 against the United Arab Emirates, the Cook Islands and Benin.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DzvYXbAkqIc?si=cbmBy9HnVEsqkxuz&amp;start=21441" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzvYXbAkqIc?start=21441" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Ura je napočila za udarno tekmo na udarnem polju. Tokrat smo bili na polju 5 poparčkani z nekaterimi "velikani". Nam v podporo so bili predstavniki Kazahstana in Združenih držav Amerike, tako da smo imeli strategijo pripravljeno in smo se dobro počutili pred igro. Na nasprotni strani smo lahko v oči pogledali kolege iz Venezuele, Papua Nove Gvineje in Brunei Derussalam. Tokrat smo med "velikani" mi bili ta večji in prinseli domov prijeten dvig povprečja z izidom 114:98.
+The hour had come for the headline match on the headline field. This time, on field 5, we were paired with a couple of ‘giants’. Supporting us were the representatives of Kazakhstan and the United States of America, so we had our strategy ready and felt good before the match. On the opposite side we could look our colleagues from Venezuela, Papua New Guinea and Brunei Darussalam in the eye. This time, amongst the ‘giants’, we were the bigger ones, and we took home a pleasant boost to our average with a result of 114:98.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yYWFSdB9Fd8?si=Z0xxCRFw532uYXE2&amp;start=24906" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yYWFSdB9Fd8?start=24906" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ![](img/vecerja.jpg)
 
-Napornemu dnevu je sledila večerja v nekoliko bolj prostorni dvorani kot do sedaj. Med kosilom smo zasledili, da so premikali mize in postavljali oder, tako da smo sklepali da bomo danes imeli zabavo, kar je pa samo še popestril nabor žurerskih dodatkov na mizah. Lahko smo si postregli zapestnice, očala ali pa palice, vse z lučkami za v temo.
+The strenuous day was followed by dinner in a somewhat roomier hall than before. During lunch we had noticed them moving tables and setting up a stage, so we deduced that there would be a party that day, a conclusion only reinforced by the array of party accessories on the tables. We could help ourselves to bracelets, glasses or sticks, all with lights for the dark.
 
 ![](img/partyboys.jpg)
 
-Proti zaključku večerje je DJ začel predvajati glasbo, s tem da so basi postajali iz minute v minuto občutnejši. Kmalu so se luči ugasnile in dijaki so pohiteli na plesišče pod odrom. Utripanje svetlečih palic in očal, glasna glasba in skakanje mladih robotikov je treslo tla po hali.
+Towards the end of dinner a DJ began to play music, the bass growing more noticeable by the minute. Soon the lights went out, and the students hurried to the dance floor below the stage. The flashing of glow sticks and glasses, the loud music and the jumping of young roboticists shook the floor throughout the hall.
 
 ![](img/zurkica.jpg)
 ![](img/partyanimal.jpg)
 
-Po uvodu gostujočega DJ-a je prišel na obisk gospod Dean Kamen in veselo naznanil, da sta prispeli dve državi, ki so ju zadrževale vremenske razmere, zato je predlagal da se jih premakne v finalni nabor 32 držav, da bosta lahko igrali. Seveda se je celo plesišče strinjalo. Nato je pa naznanil posebnega gosta, ki je večer res odprl. Pred nas je stopil will.i.am in nastopal v živo, s tem pa poskrbel za nepozaben večer. Na poti domov smo se zagrebli in si zagotovili Soyo transport avtobus, ki rad zabavo nadaljuje vse do hotela. Latinsko ameriške skladbe skupaj z globokimi basi skrajšajo pot.
+After the guest DJ’s opening set, Mr Dean Kamen paid us a visit, cheerfully announced that two countries held up by the weather had arrived, and proposed moving them into the final pool of 32 countries so that they could play. Naturally, the whole dance floor agreed. Then came the announcement of a special guest, who truly got the evening going. Out in front of us stepped will.i.am and performed live, making for an unforgettable evening. On the way home we scrambled to secure ourselves a Soyo transport coach, which likes to keep the party going all the way to the hotel. Latin American songs and deep bass make the journey shorter.
 
-Do naslednjič,
+Until next time,
 
 bari gisher

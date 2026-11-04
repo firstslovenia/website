@@ -1,43 +1,43 @@
 ---
 slug: dobrodosli-v-dezeli-orhidej
-title: "Dobrodošli v deželi orhidej!"
+title: "Welcome to the Land of Orchids!"
 authors: [ david-zindovic ]
 tags: [ fgc-2025 ]
 ---
 
 ![](img/letalo.jpg)
 
-Letošnja ekipa je svojo pot začela 27.10.2025 ob 5:00 na Brniku. Prelaganju in tehtanju prtljage je sledila logistika oddajanja robota kot kosa prtljage. Ko smo imeli karte v rokah smo opravili varnostni pregled in se napotili do vrat našega leta smo si lahko privoščili nekaj minut za oddih in ogled letal.
+This year’s team began its journey on 27 October 2025 at five o’clock in the morning at Brnik. Repacking and weighing the luggage was followed by the logistics of checking in the robot as a piece of luggage. Once we had our boarding cards in hand, we went through security and headed for the gate of our flight, where we could allow ourselves a few minutes to rest and look at the aeroplanes.
 <!-- truncate -->
 ![](img/gledajoletalo.jpg)
 
-Let do Frankfutra je trajal približno dve uri, po pristanku smo pa hitro opravili potovalno logistiko in se parkirali pred naslednji “gate”. Preostanek časa smo porabili za iskanje in uživanje v malici ali pa igranje igric o rolkanju na konzolah letališča.
+The flight to Frankfurt took about two hours, and after landing we quickly dealt with the travel logistics and parked ourselves in front of the next gate. We spent the rest of the time finding and enjoying a snack, or playing skateboarding games on the airport’s consoles.
 
 ![](img/tonyhawk.jpg)
 
-Odhod iz Frankfurta ni bil težaven, smo pa bili razporejeni na zgornje in spodnje nadstropje letala. Udobno smo se namestili, klobuke posadili v naročje ali nataknili na obešalnik in se kratkočasili s spanjem, opravljanjem službenih dolžnosti ali pa gledanjem filmov. 10 urni let je minil brez težav, trajal je pa le 4 ure (če bi gledali le uro prihoda in odhoda).
+Our departure from Frankfurt was not difficult, though we were split between the upper and lower decks of the aeroplane. We settled in comfortably, set our hats in our laps or hung them on a hook, and passed the time sleeping, attending to work duties or watching films. The 10-hour flight passed without trouble, though it lasted only 4 hours (if one looked only at the times of departure and arrival).
 
 ![](img/klobuknaletalu.jpg)
 
-Pristanek na Floridi nam je podaril pogled na gosto poseljena naselja, bazene vode in ameriške “highway-e”. Ker nismo imeli ameriških potnih listov smo se usmerili v dolgo vrsto, na koncu katere nas je čakalo krajše izpraševanje in pridobivanje podatkov o prstnih odtisih (4 na vsaki roki in palec vsake roke). Malo preden smo prišli na vrsto smo zasledili napis na ekranu, da ne smemo prinesti hrane, zato smo morali hitro pojesti svoje čokoladke in sendviče (sicer potem ni bilo težav, vendar vsaj nismo bili potem lačni vsi). Sledil je “check-in”, kjer smo zaradi jezikovnih ovir zgubili nekaj časa, še več časa je pa ušlo, ker so pri zadnjem članu narobe zastopili situacijo in mislili, da potrebuje za vstop vizo (kljub urejenim ESTA-m). Posledično smo šibali na varnostni pregled, kjer so kot nalašč pregledali nekaj naših nahrbtnikov, tako da smo še bolj zadnjo sekundo prišli do prijave za na letalo. Nekaj minut smo imeli za oddih, vendar ne dovolj da bi lačni člani poiskali prodajalno hrane. So pa uspeli člani ekipe posneti prispevek za Social Media Challenge, v katerem so morali dokumentirati svojo pot do Paname. 
+Landing in Florida treated us to a view of densely built-up suburbs, swimming pools and American ‘highways’. As we did not have American passports, we were directed into a long queue, at the end of which a short interrogation awaited us, along with the taking of our fingerprints (4 on each hand and the thumb of each hand). Shortly before our turn came, we spotted a notice on a screen saying that we were not allowed to bring in food, so we had to eat our chocolate bars and sandwiches in a hurry (as it turned out, there was no trouble after all, but at least not all of us were hungry afterwards). Next came check-in, where we lost some time owing to language barriers, and still more time slipped away because, with our last member, they misunderstood the situation and thought a visa was needed for entry (despite our ESTAs being in order). Consequently we dashed to security, where, as luck would have it, they searched several of our rucksacks, so that we reached boarding at the very last second. We had a few minutes to rest, but not enough for the hungry members to find somewhere selling food. The team members did, however, manage to record a piece for the Social Media Challenge, in which they had to document their journey to Panama.
 
 ![](img/lioklobuki.jpg)
 
-Zadnjo sekundo smo izvedeli, da boarding pass-i niso dovolj in da moramo iti čez postopek prijave s pomočjo potnih listov in ESTA-e. Končno smo prispeli na letalo, zasedli pozicije in se prepustili sončnemu zahodu in tropskim sokovom (Guava-Ananas, med drugim).
+At the last second we learnt that boarding cards were not enough and that we had to go through the check-in procedure with our passports and ESTAs. At last we got onto the aeroplane, took up our positions and surrendered ourselves to the sunset and tropical juices (guava and pineapple, amongst others).
 
 ![](img/miamisunset.jpg)
 
-Ko smo prispeli v Panamo, smo srečali gospo s "First Gobal” napisom, ki nas je pospremila na drugo stran letališča (dobesedno) peš, da smo opravili Inšpekcijo, kjer so prav tako vzeli naše prstne odtise in sliko. Nato smo se slikali ob zastavi Paname, pobrali prtljago in se odpravili do izhoda, kjer smo bili pospremljeni na avtobus s turškim interierjem (tepihi in tapete).
+When we arrived in Panama, we met a lady with a ‘FIRST Global’ sign, who walked us across to the other side of the airport (literally) on foot to go through the immigration inspection, where they likewise took our fingerprints and a photograph. Then we had our photograph taken by the Panamanian flag, collected our luggage and made for the exit, where we were shown onto a coach with a Turkish interior (carpets and wallpaper).
 
 ![](img/panamazastava.jpg)
 ![](img/slozastavice.jpg)
 
-Pot je nas in ekipi Južne Koreje ter Ekvadorja peljala mimo avtobusov z bliskavicami na vrhu, preko avtocest in mimo blokov, da prijetno osvetljenega mesta. V hotelu Megapolis smo srečali v avli še nekaj ekip, ki so čakali na svoje sobe. Očitno se je logistika za sobe precej zakomplicirala, saj je vsaka ekipa na recepciji preživel po 30 minut, preden so dobili sobe, ki so sproti postale dostopne. Po uri in pol čakanja sva mentorja prišla na vrsto in počasi izpolnila podatke ter dočakala dostopnost sob, medtem ko so ostale ekipe se pritoževale. Postopek je bil sicer dolg, vendar problem sta bila utrujenost in pozna ura.
+The journey took us and the teams of South Korea and Ecuador past buses with flashing lights on their roofs, along motorways and past blocks of flats to the pleasantly illuminated city. In the lobby of the Hotel Megapolis we met several more teams waiting for their rooms. Evidently the logistics of the rooms had become rather complicated, as every team spent some 30 minutes at reception before receiving rooms, which were becoming available as they went along. After an hour and a half of waiting, our turn came, and we two mentors slowly filled in the details and waited for rooms to become available, whilst the other teams complained. The procedure was long, admittedly, but the real problem was weariness and the late hour.
 
 ![](img/pogledzbalkona.jpg)
 
-Po uspešni vselitvi v sobe je sledilo dokončevanje tehnične dokumentacije in sprehod do bližnjega marketa. Na sprehod sva ugotovila, da je mesto res varno (na kar je namigoval gospod ob ob vstopu v Miami). Namreč vsakih 200 metrov sva srečala varnostnika ali policista, pri čemer na sprehodu nisva srečala vse skupaj 10 ljudi v roku dobre pol ure. Dan se je končal tako, da je v trgovini Marbella gospod brez znanja španščine in angleščine uspel spremeniti električno napeljavo za plačilo s kartico tako, da sva lahko instant nudle kupila brez vstopa v trgovino. "Muchos gracias" je zaključil izkušnjo (ter odprl željo po pijači “pipa fria”) in naju popeljal na pot nazaj v stanovanje, kjer sva s pomočjo kuhalnika za čaj pripravila vrelo vodo in zaužila svoje rezance ob 1:30 po panamskem času. O tem, kako obratujemo na slabih štirih urah spanca, pa si lahko preberete v naslednji objavi.
+Having successfully moved into our rooms, we finished the technical documentation and took a walk to a nearby shop. On the walk, the two of us discovered that the city really is safe (as the gentleman at passport control in Miami had hinted). Every 200 metres, you see, we met a security guard or a police officer, whereas on the whole walk we did not meet 10 people altogether in a good half-hour. The day ended with a gentleman in the Marbella shop, who spoke neither Spanish nor English, managing to rewire the card machine so that we could buy instant noodles without entering the shop. ‘Muchos gracias’ rounded off the experience (and awakened a desire for the drink ‘pipa fria’) and set us on our way back to the flat, where, with the help of a kettle, we boiled water and ate our noodles at half past one in the morning, Panama time. As for how we function on just under four hours’ sleep, you may read about that in the next post.
 
-Do naslednjič,
+Until next time,
 
-buenas noches 
+buenas noches

@@ -1,49 +1,24 @@
 ---
 slug: izziv-resen
-title: Izziv rešen
+title: "Challenge Solved"
 authors: [ david-zindovic ]
 tags: [ fgc-2022 ]
 ---
 
 ![CERN](img/cern2.jpg)
 
-Vse lepe stvari slej ko prej pridejo h koncu. Tako se končuje tudi obisk Ženeve za našo ekipo,
-vendar na pozen popoldanski let se je potrebno pripraviti s hitrim turističnim obhodom. Po
-zmagovalnem zajtrku smo do konca pospravili naše sobe in pripravili prtljago za na pot. Ob
-vrnitvi hotelskih kartic se je odprla priložnost, da se poslovimo od podpornikov Nove Zelandije
-in mentorjev Kanade. Kmalu za tem smo pa zopet skočili na vsem znan avtobus št. 5 in se
-odpravili v središče mesta.
+All good things must come to an end sooner or later. And so our team’s visit to Geneva draws to a close, but one must prepare for a late-afternoon flight with a quick sightseeing tour. After a champion’s breakfast, we finished tidying our rooms and got our luggage ready for the journey. When we returned our hotel key cards, the opportunity arose to bid farewell to the supporters of New Zealand and the mentors of Canada. Soon afterwards we hopped once more onto the by now familiar number 5 bus and headed into the city centre.
 <!-- truncate -->
 
-![Ekipa pred vogometom](img/vodospric.jpg)
+![The team in front of the fountain](img/vodospric.jpg)
 
-Ponedeljek sveti v Ženevi v drugačni luči, saj ni moč občutiti utrujenosti med ljudmi, ki
-smo jih srečali med našim prvim obiskom mesta v dnevni svetlobi. Ogledali smo si največjo
-znamenitost mesta – fontano (Jet d’Eau). Zaradi časovne stiske smo si uspeli ujeti le še
-kanček arhitekture preden smo odhiteli na tramvaj do CERN-a. Linija javnega prevoza št. 18
-nas je pripeljala čez cesto od vhoda v sanjsko delovno mesto marsikaterega znanstvenega
-navdušenca. Tam smo srečali tudi ekipo Velike Britanije, Cayman Islands in Romunije med
-čakanjem naše osebne vodičke Anje. Ta nam je ob kratki uvodni debati razdelila karte za vstop
-v majhno mestece, v katerem smo se prvo odpravili na ogled miniaturnega muzeja, ki govori
-o zgodovini prvega pospeševalnika in kako so marsikatere znanstvene iznajdbe starejše od
-LEGO kock in žepnih računal. Za tem smo se odpravili do tovarne antimaterije, kjer smo prvo
-imeli debato o napakah filma Angeli in demoni. Za tem smo šli naprej do naprav, ki so
-ugotavljale padec antivodika(Gbar), upočasnjevalnik protonov (ELENA) in dvigalo do samega
-pospeševalnika s 30km premerom, ki obratuje pod zemljo. Na poti ven iz malega mesteca, ki
-ima svoje gasilce, pošto, zdravstven dom ipd. smo lahko videli tudi kamen, ki nakazuje mejo
-med Francijo in Švico, ter njihovo “živalsko zavetišče”.
+Monday shines in a different light in Geneva, as there was no weariness to be felt amongst the people we met during our first visit to the city in daylight. We saw the city’s greatest landmark – the fountain (the Jet d’Eau). Pressed for time, we managed to catch only a glimpse of the architecture before hurrying off to the tram to CERN. Line 18 brought us to just across the road from the entrance to the dream workplace of many a science enthusiast. There, whilst waiting for our personal guide, Anja, we also met the teams from Great Britain, the Cayman Islands and Romania. After a short introductory talk, she handed out passes for entry into a little town, where we first went to see a miniature museum about the history of the first accelerator and about how many scientific inventions are older than LEGO bricks and pocket calculators. Afterwards we went on to the antimatter factory, where we first had a discussion about the mistakes in the film Angels & Demons. From there we went on to the apparatus that studied the fall of antihydrogen (GBAR), the proton decelerator (ELENA) and the lift down to the accelerator itself, 30 km in diameter, which runs underground. On the way out of the little town, which has its own fire brigade, post office, health centre and so on, we also saw the stone marking the border between France and Switzerland, and their ‘animal shelter’.
 
-![Ekipa v CERN-u z Anjo Kranjc Horvat](img/cern.jpg)
-![Upočasnjevalnik protonov - ELENA](img/elena.jpg)
+![The team at CERN with Anja Kranjc Horvat](img/cern.jpg)
+![The proton decelerator – ELENA](img/elena.jpg)
 
-Po potekanju smo lovili čim hitrejši način prevoza domov izmed ponujenih linij javnega prevoza,
-pri čemer smo se lovili in na koncu uspešno po dveh prestopih našli linijo št. 28, ki nas je
-pripeljala do letališča, od tam pa št. 5 do hotela. Od našega začasnega prebivališča smo se
-odpravili za tem, ko smo pobrali svojo prtljago (in seveda tudi robota). Pomahali smo Palexpo
-in hvaležno odkorakali proti letališču, kjer smo brez kakršnihkoli zapletov hitro prispeli
-v čakalnico za prisedanje na letalo. Brez zamud smo po isti poti prispeli domov in se po
-ekipnem objemu ter selfie-ju poslovili, za tem pa odkorakali vsak v svojo smer.
+After our ramble, we hunted for the quickest way home amongst the public transport lines on offer, fumbling about a little before finally, after two changes, finding line 28, which took us to the airport, and from there the number 5 to the hotel. We left our temporary lodgings once we had collected our luggage (and, of course, the robot). We waved goodbye to the Palexpo and gratefully marched off to the airport, where, without any complications whatsoever, we soon reached the departure lounge. Without delays we arrived home by the same route and, after a team hug and a selfie, said our farewells and each went our own way.
 
-![Letalo](img/let.jpg)
+![The aeroplane](img/let.jpg)
 
-Do naslednjič, …
+Until next time, …

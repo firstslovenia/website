@@ -1,39 +1,15 @@
 ---
 slug: prvi-poraženec-je-že-drugi-na-lestvici
-title: Prvi poraženec je že drugi na lestvici
+title: "Second Place Is the First Loser"
 authors: [ ales-volcini ]
 tags: [ fgc-2017 ]
 ---
 
-Napočil je dan, ko se je bilo treba pripraviti na povratek. Po zajtrku smo spakirali prtljago
-in do 10h pospravili sobo. Vmes je od nekod prišla novica, da pogrešajo šest članov ekipe
-Burundija, ki je stanovala v isti stavbi. Policija spodaj dan poprej in nepospravljena
-soba sta nenadoma dobila smiseln zaključek. Izginili so menda še pred podelitvijo nagrad,
-dva pa so danes že opazili na meji s Kanado, kjer bodo najbrž iskali azil.
+The day dawned when we had to make ready for the journey home. After breakfast we packed our luggage and had tidied our room by ten o’clock. In the meantime, word arrived from somewhere that six members of the team from Burundi, who had been staying in the same building, were missing. The police downstairs the day before and the untidy room suddenly made sense. They had apparently vanished even before the awards ceremony, and two of them had already been spotted today at the Canadian border, where they would most likely seek asylum.
 <!-- truncate -->
 
-Ker smo imeli še dve uri časa, smo se odpravili na ogled Bazilike narodnega svetišča
-brezmadežnega spočetja, ki je bila del samega kampusa. Stavba je kar velika in površen
-ogled je vzel uro in pol. Bogato okrasje je kazil delovni oder, nad katerim dokončujejo
-osrednjo kupolo, ki bo nared konec leta. Spodnji prostori so bili opasani z marmornimi
-ploščami, na katerih so bili izpisani donatorji, namen ali v spomin koga je bil prispevek
-darovan. Ko smo že ugibali, ali je naš prvi voznik Lyfta zamenjal Slovenijo s Slovaško, pa
-smo spodaj med kapelicami zagledali tudi Marijo Pomagaj z Brezij. Duhovnik je tam ravno
-maševal, pa smo jo slikali samo od daleč. Na poti ven smo se ustavili še v prodajalni
-spominkov, kjer sva David in jaz kupila nekaj stvari za domače.
+As we still had two hours to spare, we went to see the Basilica of the National Shrine of the Immaculate Conception, which was part of the campus itself. The building is rather large, and even a cursory visit took an hour and a half. The rich decoration was marred by scaffolding, above which they are completing the central dome, due to be finished at the end of the year. The lower halls were lined with marble plaques bearing the names of donors and the purpose or person in whose memory each donation had been made. Just as we were beginning to wonder whether our first Lyft driver had confused Slovenia with Slovakia, we spotted, amongst the chapels downstairs, Mary Help of Christians from Brezje. A priest was saying Mass there just then, so we photographed her only from afar. On the way out we stopped at the souvenir shop, where David and I bought a few things for our families.
 
-![Marija Pomagaj z Brezij](img/marijaPomagaj.jpg)
+![Mary Help of Christians from Brezje](img/marijaPomagaj.jpg)
 
-Ko smo se vrnili, je trajalo še nekaj časa, da je po nas prišel avtobus in nas odpeljal v
-Thurston Hall, od tam pa z naslednjim avtobusom na letališče Dulles. S pomočjo telefonske
-aplikacije letalske družbe KLM smo opravili prijavo na let še v internatu in si tako na
-letališču prislužili prednostno obravnavo. Ko smo oddali robota med prtljago in opravili
-preglede, je bilo na voljo še nekaj časa za kosilo. Po njem pa sem si vzel nekaj minut za
-nekaj spodbudnih besed ob zaključku poti. Fantje so v robota vložili ogromno časa, trpelo
-je zdravje in šolski uspeh, tvegali so popravne izpite, rezultat pa je bil, kot je bil.
-Fantom je bilo potrebno povedati, da so se ne glede na rezultat dobro odrezali, da sem bil
-vesel, da pritiski niso razbili enotnosti in da niso zašli v konflikte, da niso popuščali
-do samega konca, da so se borili kot levi, da so se izkazali tako, kot je treba in da sem
-nanje ponosen. Realnost je pač taka, da je zmagovalec samo eden, prvi poraženec je že drugi
-na lestvici in da je povsod zraven tudi kakšna kuhinja. Napetost je vidno popustila. To bi
-moral narediti že prej.
+When we got back, it was a while before the bus came for us and took us to Thurston Hall, and from there another bus took us on to Dulles Airport. Using the KLM telephone app, we had checked in for our flight whilst still at the hall of residence, and so earned ourselves priority treatment at the airport. Once we had checked the robot in with the luggage and gone through the checks, there was still some time left for lunch. After it, I took a few minutes to say a few encouraging words at the end of our journey. The boys had invested an enormous amount of time in the robot; their health and their school results had suffered, and they had risked resits, yet the result was what it was. The boys needed to be told that, regardless of the result, they had done well; that I was glad the pressure had not broken their unity and that they had not fallen into conflict; that they had not let up until the very end; that they had fought like lions; that they had acquitted themselves as one should; and that I was proud of them. The reality is simply that there is only one winner, that the first loser is already second on the leaderboard, and that there is always a little politics behind the scenes. The tension visibly eased. I ought to have done that sooner.
